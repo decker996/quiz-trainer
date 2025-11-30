@@ -1,0 +1,20 @@
+{
+  "name": "Quiz Trainer - 8° Corso Applicativo",
+  "short_name": "Quiz Trainer",
+  "description": "App per quiz ed esercitazioni per il corso applicativo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1a",
+  "theme_color": "#d4a853",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%230a0f1a' width='512' height='512' rx='100'/><text x='256' y='350' text-anchor='middle' fill='%23d4a853' font-size='300' font-family='sans-serif' font-weight='bold'>Q</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "it"
+}
