@@ -17,7 +17,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 
     <style>
         :root {
@@ -863,55 +862,112 @@
             flex: 1;
         }
 
-        /* Stats */
-        .stat-bar-container {
-            margin-bottom: 1rem;
+        /* Info Section */
+        .info-section {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            margin-bottom: 1.5rem;
+            overflow: hidden;
         }
 
-        .stat-bar-header {
+        .info-header {
+            padding: 1rem 1.25rem;
+            cursor: pointer;
             display: flex;
             justify-content: space-between;
-            margin-bottom: 0.4rem;
+            align-items: center;
+            background: linear-gradient(135deg, var(--bg-card), var(--bg-hover));
+            border-bottom: 1px solid var(--border);
+            user-select: none;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .info-header:active {
+            background: var(--bg-hover);
+        }
+
+        .info-header h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.1rem;
+            color: var(--accent-gold);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .info-header .arrow {
+            transition: transform 0.2s ease;
+            color: var(--text-muted);
+        }
+
+        .info-section.open .info-header .arrow {
+            transform: rotate(180deg);
+        }
+
+        .info-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+        }
+
+        .info-section.open .info-content {
+            max-height: 2000px;
+        }
+
+        .info-body {
+            padding: 1.5rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .info-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 1rem;
+        }
+
+        .info-card h3 {
+            color: var(--accent-gold);
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .info-card ul {
+            list-style: none;
+            padding: 0;
+            margin-top: 0.5rem;
+        }
+
+        .info-card li {
+            padding: 0.25rem 0;
+            color: var(--text-secondary);
             font-size: 0.9rem;
         }
 
-        .stat-bar-label {
-            color: var(--text-primary);
-            font-weight: 600;
+        .info-card li::before {
+            content: "→ ";
+            color: var(--accent-gold);
         }
 
-        .stat-bar-value {
-            color: var(--text-secondary);
-        }
-
-        .stat-bar-track {
-            height: 24px;
-            background: var(--bg-secondary);
-            border-radius: 6px;
-            overflow: hidden;
-            position: relative;
-        }
-
-        .stat-bar-fill {
-            height: 100%;
-            background: linear-gradient(90deg, var(--accent-gold-dim), var(--accent-gold));
-            border-radius: 6px;
-            transition: width 0.5s ease;
-            display: flex;
-            align-items: center;
-            justify-content: flex-end;
-            padding-right: 0.5rem;
-            font-size: 0.75rem;
-            font-weight: 700;
-            color: var(--bg-primary);
-        }
-
-        .stat-bar-fill.success-bar {
-            background: linear-gradient(90deg, #16a34a, var(--success));
-        }
-
-        .stat-bar-fill.error-bar {
-            background: linear-gradient(90deg, #dc2626, var(--error));
+        .info-highlight {
+            background: rgba(212, 168, 83, 0.1);
+            border-left: 3px solid var(--accent-gold);
+            padding: 0.75rem 1rem;
+            border-radius: 0 8px 8px 0;
+            margin: 1rem 0;
+            font-size: 0.95rem;
         }
 
         /* Responsive */
@@ -942,7 +998,6 @@
             <div class="logo">Quiz<span>Trainer</span></div>
             <p>8° Corso Applicativo Biennale</p>
             <div class="header-actions">
-                <button class="icon-btn" id="stats-btn" title="Statistiche">📊</button>
                 <button class="icon-btn" id="theme-toggle" title="Cambia tema">🌙</button>
                 <button class="icon-btn" id="clear-data-btn" title="Cancella dati">🗑️</button>
             </div>
@@ -950,6 +1005,74 @@
 
         <!-- Selection Screen -->
         <div id="selection-screen" class="screen active">
+            <!-- Info Section -->
+            <div class="info-section open" id="info-section">
+                <div class="info-header" onclick="document.getElementById('info-section').classList.toggle('open')">
+                    <h2>💡 Come Funziona Quiz Trainer</h2>
+                    <span class="arrow">▼</span>
+                </div>
+                <div class="info-content">
+                    <div class="info-body">
+                        <p style="margin-bottom: 1rem;">
+                            <strong>Quiz Trainer</strong> è la tua app per prepararti al meglio per l'8° Corso Applicativo Biennale.
+                            Studia, esercitati e monitora i tuoi progressi in modo intelligente!
+                        </p>
+
+                        <div class="info-highlight">
+                            <strong>🎯 Per iniziare:</strong> Seleziona una modalità, scegli una difficoltà (opzionale), e clicca su una banca dati qui sotto!
+                        </div>
+
+                        <div class="info-grid">
+                            <div class="info-card">
+                                <h3>🎮 Modalità Quiz</h3>
+                                <ul>
+                                    <li><strong>📖 Ordine:</strong> Domande in sequenza</li>
+                                    <li><strong>🎲 Casuale:</strong> Ordine randomizzato</li>
+                                    <li><strong>🔄 Errori:</strong> Solo domande sbagliate</li>
+                                    <li><strong>🧠 Ripasso:</strong> Ripasso intelligente programmato</li>
+                                    <li><strong>⭐ Salvati:</strong> Solo domande con segnalibro</li>
+                                </ul>
+                            </div>
+
+                            <div class="info-card">
+                                <h3>⭐ Segnalibri</h3>
+                                <ul>
+                                    <li>Durante il quiz, clicca sulla ☆</li>
+                                    <li>Salva domande importanti</li>
+                                    <li>Rivedile con modalità "Salvati"</li>
+                                    <li>Perfetto per domande difficili!</li>
+                                </ul>
+                            </div>
+
+                            <div class="info-card">
+                                <h3>🧠 Ripasso Intelligente</h3>
+                                <ul>
+                                    <li>Studia con spaced repetition</li>
+                                    <li>Intervalli: 1, 3, 7, 14, 30 giorni</li>
+                                    <li>Le domande corrette si ripetono meno</li>
+                                    <li>Massima efficienza di apprendimento!</li>
+                                </ul>
+                            </div>
+
+                            <div class="info-card">
+                                <h3>⚙️ Altre Funzioni</h3>
+                                <ul>
+                                    <li><strong>🌙/☀️:</strong> Cambia tema chiaro/scuro</li>
+                                    <li><strong>🗑️:</strong> Cancella tutti i progressi</li>
+                                    <li><strong>📱:</strong> Installabile come app!</li>
+                                    <li><strong>📴:</strong> Funziona anche offline</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="info-highlight" style="margin-top: 1.5rem;">
+                            <strong>💪 Consiglio:</strong> Inizia con modalità "Ordine" per familiarizzare, poi passa a "Casuale" per testare la tua preparazione.
+                            Usa "Errori" e "Ripasso" per consolidare le conoscenze!
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="filters-row">
                 <div class="filter-group">
                     <div class="filter-title">Difficoltà</div>
@@ -1063,66 +1186,6 @@
                     <button class="btn btn-secondary" id="btn-review">📋 Rivedi errori</button>
                     <button class="btn btn-secondary" id="btn-home">🏠 Menu</button>
                 </div>
-            </div>
-        </div>
-
-        <!-- Stats Screen -->
-        <div id="stats-screen" class="screen">
-            <div class="quiz-header" style="margin-bottom: 1.5rem;">
-                <h2 class="quiz-title">📊 Statistiche & Progresso</h2>
-            </div>
-
-            <!-- Overview Cards -->
-            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.75rem; margin-bottom: 1.5rem;">
-                <div class="results-card" style="padding: 1rem;">
-                    <div style="font-size: 2rem; margin-bottom: 0.25rem;" id="total-questions-stat">0</div>
-                    <div class="result-stat-label">Domande totali</div>
-                </div>
-                <div class="results-card" style="padding: 1rem;">
-                    <div style="font-size: 2rem; margin-bottom: 0.25rem; color: var(--success);" id="bookmarks-stat">0</div>
-                    <div class="result-stat-label">Segnalibri</div>
-                </div>
-                <div class="results-card" style="padding: 1rem;">
-                    <div style="font-size: 2rem; margin-bottom: 0.25rem; color: var(--error);" id="errors-stat">0</div>
-                    <div class="result-stat-label">Errori da rivedere</div>
-                </div>
-            </div>
-
-            <!-- Stats by Category -->
-            <div class="results-card" style="margin-bottom: 1rem;">
-                <h3 class="modal-title" style="margin-bottom: 1rem;">Per Categoria</h3>
-                <div id="category-stats"></div>
-            </div>
-
-            <!-- Stats by Difficulty -->
-            <div class="results-card" style="margin-bottom: 1rem;">
-                <h3 class="modal-title" style="margin-bottom: 1rem;">Per Difficoltà</h3>
-                <div id="difficulty-stats"></div>
-            </div>
-
-            <!-- Advanced Charts -->
-            <div id="advanced-charts" style="display: none;">
-                <div class="results-card" style="margin-bottom: 1rem;">
-                    <h3 class="modal-title" style="margin-bottom: 1rem;">📈 Storico Prestazioni</h3>
-                    <canvas id="sessions-chart" style="max-height: 250px;"></canvas>
-                </div>
-
-                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-bottom: 1rem;">
-                    <div class="results-card">
-                        <h3 class="modal-title" style="margin-bottom: 1rem;">📊 Distribuzione Errori</h3>
-                        <canvas id="errors-chart" style="max-height: 200px;"></canvas>
-                    </div>
-
-                    <div class="results-card">
-                        <h3 class="modal-title" style="margin-bottom: 1rem;">🎯 Progresso Complessivo</h3>
-                        <canvas id="progress-chart" style="max-height: 200px;"></canvas>
-                    </div>
-                </div>
-            </div>
-
-            <div class="results-actions">
-                <button class="btn btn-secondary" id="toggle-charts-btn" style="display: none;">📈 Mostra Grafici Avanzati</button>
-                <button class="btn btn-secondary" id="btn-stats-back">← Torna al Menu</button>
             </div>
         </div>
     </div>
@@ -1311,294 +1374,6 @@
                 bookmarkBtn.textContent = isMarked ? '⭐' : '☆';
                 bookmarkBtn.title = isMarked ? 'Rimuovi segnalibro' : 'Aggiungi segnalibro';
             }
-        }
-
-        // ============================================
-        // STATISTICS
-        // ============================================
-
-        function calculateStats() {
-            const stats = {
-                totalQuestions: 0,
-                totalBookmarks: state.bookmarks.size,
-                totalErrors: 0,
-                byCategory: {},
-                byDifficulty: {
-                    base: { total: 0, errors: 0, bookmarks: 0 },
-                    media: { total: 0, errors: 0, bookmarks: 0 },
-                    avanzata: { total: 0, errors: 0, bookmarks: 0 }
-                }
-            };
-
-            // Calculate stats for each category
-            for (const [category, banks] of Object.entries(state.banks)) {
-                stats.byCategory[category] = {
-                    total: 0,
-                    loaded: 0,
-                    errors: 0,
-                    bookmarks: 0
-                };
-
-                for (const bank of banks) {
-                    if (bank.loaded) {
-                        stats.byCategory[category].loaded += bank.questions.length;
-                        stats.totalQuestions += bank.questions.length;
-
-                        // Count errors
-                        const bankErrors = state.errors[bank.id]?.size || 0;
-                        stats.byCategory[category].errors += bankErrors;
-                        stats.totalErrors += bankErrors;
-
-                        // Count bookmarks and difficulty
-                        for (const q of bank.questions) {
-                            if (isBookmarked(bank.id, q.number)) {
-                                stats.byCategory[category].bookmarks++;
-                            }
-
-                            // By difficulty
-                            stats.byDifficulty[q.difficulty].total++;
-                            if (state.errors[bank.id]?.has(q.number)) {
-                                stats.byDifficulty[q.difficulty].errors++;
-                            }
-                            if (isBookmarked(bank.id, q.number)) {
-                                stats.byDifficulty[q.difficulty].bookmarks++;
-                            }
-                        }
-                    }
-                    stats.byCategory[category].total += bank.questions?.length || 0;
-                }
-            }
-
-            return stats;
-        }
-
-        function renderStats() {
-            const stats = calculateStats();
-
-            // Update overview
-            document.getElementById('total-questions-stat').textContent = stats.totalQuestions;
-            document.getElementById('bookmarks-stat').textContent = stats.totalBookmarks;
-            document.getElementById('errors-stat').textContent = stats.totalErrors;
-
-            // Render category stats
-            let categoryHtml = '';
-            for (const [category, data] of Object.entries(stats.byCategory)) {
-                const percent = data.total > 0 ? Math.round((data.loaded / data.total) * 100) : 0;
-                const errorPercent = data.loaded > 0 ? Math.round((data.errors / data.loaded) * 100) : 0;
-
-                categoryHtml += `
-                    <div class="stat-bar-container">
-                        <div class="stat-bar-header">
-                            <span class="stat-bar-label">${category}</span>
-                            <span class="stat-bar-value">${data.loaded}/${data.total} domande</span>
-                        </div>
-                        <div class="stat-bar-track">
-                            <div class="stat-bar-fill" style="width: ${percent}%">
-                                ${percent > 15 ? percent + '%' : ''}
-                            </div>
-                        </div>
-                        <div style="display: flex; gap: 1rem; margin-top: 0.25rem; font-size: 0.75rem; color: var(--text-muted);">
-                            <span>❌ ${data.errors} errori (${errorPercent}%)</span>
-                            <span>⭐ ${data.bookmarks} salvati</span>
-                        </div>
-                    </div>
-                `;
-            }
-            document.getElementById('category-stats').innerHTML = categoryHtml || '<p style="color: var(--text-muted);">Nessuna categoria caricata</p>';
-
-            // Render difficulty stats
-            const difficultyLabels = {
-                base: '🟢 Base',
-                media: '🟡 Media',
-                avanzata: '🔴 Avanzata'
-            };
-
-            let difficultyHtml = '';
-            for (const [diff, data] of Object.entries(stats.byDifficulty)) {
-                if (data.total === 0) continue;
-
-                const successRate = data.total > 0 ? Math.round(((data.total - data.errors) / data.total) * 100) : 0;
-
-                difficultyHtml += `
-                    <div class="stat-bar-container">
-                        <div class="stat-bar-header">
-                            <span class="stat-bar-label">${difficultyLabels[diff]}</span>
-                            <span class="stat-bar-value">${data.total} domande</span>
-                        </div>
-                        <div class="stat-bar-track">
-                            <div class="stat-bar-fill success-bar" style="width: ${successRate}%">
-                                ${successRate > 15 ? successRate + '%' : ''}
-                            </div>
-                        </div>
-                        <div style="display: flex; gap: 1rem; margin-top: 0.25rem; font-size: 0.75rem; color: var(--text-muted);">
-                            <span>✅ ${data.total - data.errors} corrette</span>
-                            <span>❌ ${data.errors} errori</span>
-                            <span>⭐ ${data.bookmarks} salvati</span>
-                        </div>
-                    </div>
-                `;
-            }
-            document.getElementById('difficulty-stats').innerHTML = difficultyHtml || '<p style="color: var(--text-muted);">Nessuna statistica disponibile</p>';
-
-            // Show/hide advanced charts button
-            const toggleChartsBtn = document.getElementById('toggle-charts-btn');
-            if (state.sessions.length > 0) {
-                toggleChartsBtn.style.display = 'inline-flex';
-            } else {
-                toggleChartsBtn.style.display = 'none';
-            }
-
-            // Reset charts view
-            document.getElementById('advanced-charts').style.display = 'none';
-            toggleChartsBtn.textContent = '📈 Mostra Grafici Avanzati';
-            destroyCharts();
-
-            showScreen('stats-screen');
-        }
-
-        let charts = {
-            sessions: null,
-            errors: null,
-            progress: null
-        };
-
-        function destroyCharts() {
-            Object.values(charts).forEach(chart => chart?.destroy());
-            charts = { sessions: null, errors: null, progress: null };
-        }
-
-        function toggleAdvancedCharts() {
-            const chartsContainer = document.getElementById('advanced-charts');
-            const toggleBtn = document.getElementById('toggle-charts-btn');
-
-            if (chartsContainer.style.display === 'none') {
-                chartsContainer.style.display = 'block';
-                toggleBtn.textContent = '📉 Nascondi Grafici';
-                renderAdvancedCharts();
-            } else {
-                chartsContainer.style.display = 'none';
-                toggleBtn.textContent = '📈 Mostra Grafici Avanzati';
-                destroyCharts();
-            }
-        }
-
-        function renderAdvancedCharts() {
-            const isDark = !document.documentElement.classList.contains('light-theme');
-            const textColor = isDark ? '#94a3b8' : '#475569';
-            const gridColor = isDark ? 'rgba(255, 255, 255, 0.08)' : 'rgba(0, 0, 0, 0.1)';
-            const goldColor = isDark ? '#d4a853' : '#b8860b';
-            const successColor = isDark ? '#22c55e' : '#16a34a';
-            const errorColor = isDark ? '#ef4444' : '#dc2626';
-
-            Chart.defaults.color = textColor;
-            Chart.defaults.borderColor = gridColor;
-
-            // Sessions history chart (last 10 sessions)
-            const recentSessions = state.sessions.slice(-10);
-            if (recentSessions.length > 0) {
-                const ctx1 = document.getElementById('sessions-chart').getContext('2d');
-                charts.sessions = new Chart(ctx1, {
-                    type: 'line',
-                    data: {
-                        labels: recentSessions.map((s, i) => `#${i + 1}`),
-                        datasets: [{
-                            label: 'Punteggio %',
-                            data: recentSessions.map(s => s.percentage),
-                            borderColor: goldColor,
-                            backgroundColor: isDark ? 'rgba(212, 168, 83, 0.1)' : 'rgba(184, 134, 11, 0.1)',
-                            tension: 0.3,
-                            fill: true
-                        }]
-                    },
-                    options: {
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        plugins: {
-                            legend: { display: false },
-                            tooltip: {
-                                callbacks: {
-                                    title: (items) => {
-                                        const session = recentSessions[items[0].dataIndex];
-                                        return session.bankName;
-                                    },
-                                    label: (item) => {
-                                        const session = recentSessions[item.dataIndex];
-                                        return [
-                                            `Punteggio: ${session.percentage}%`,
-                                            `Corrette: ${session.correct}/${session.total}`,
-                                            `Modalità: ${session.mode}`
-                                        ];
-                                    }
-                                }
-                            }
-                        },
-                        scales: {
-                            y: {
-                                beginAtZero: true,
-                                max: 100,
-                                ticks: { callback: (value) => value + '%' }
-                            }
-                        }
-                    }
-                });
-            }
-
-            // Errors distribution by category
-            const stats = calculateStats();
-            const categories = Object.keys(stats.byCategory);
-            const errorsData = categories.map(cat => stats.byCategory[cat].errors);
-
-            if (errorsData.some(e => e > 0)) {
-                const ctx2 = document.getElementById('errors-chart').getContext('2d');
-                charts.errors = new Chart(ctx2, {
-                    type: 'bar',
-                    data: {
-                        labels: categories,
-                        datasets: [{
-                            label: 'Errori',
-                            data: errorsData,
-                            backgroundColor: errorColor,
-                            borderRadius: 6
-                        }]
-                    },
-                    options: {
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        plugins: {
-                            legend: { display: false }
-                        },
-                        scales: {
-                            y: { beginAtZero: true }
-                        }
-                    }
-                });
-            }
-
-            // Overall progress (doughnut chart)
-            const totalQuestions = stats.totalQuestions;
-            const mastered = totalQuestions - stats.totalErrors;
-            const ctx3 = document.getElementById('progress-chart').getContext('2d');
-            charts.progress = new Chart(ctx3, {
-                type: 'doughnut',
-                data: {
-                    labels: ['Padroneggiati', 'Da Rivedere'],
-                    datasets: [{
-                        data: [mastered, stats.totalErrors],
-                        backgroundColor: [successColor, errorColor],
-                        borderWidth: 0
-                    }]
-                },
-                options: {
-                    responsive: true,
-                    maintainAspectRatio: false,
-                    plugins: {
-                        legend: {
-                            position: 'bottom',
-                            labels: { padding: 10 }
-                        }
-                    }
-                }
-            });
         }
 
         // ============================================
@@ -2161,14 +1936,6 @@
             loadSessions();
             loadReviews();
             initializeBanks();
-
-            // Stats button
-            document.getElementById('stats-btn').addEventListener('click', renderStats);
-            document.getElementById('btn-stats-back').addEventListener('click', () => {
-                showScreen('selection-screen');
-                destroyCharts();
-            });
-            document.getElementById('toggle-charts-btn').addEventListener('click', toggleAdvancedCharts);
 
             // Theme toggle
             document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
