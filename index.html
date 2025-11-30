@@ -976,14 +976,35 @@
                     continue;
                 }
 
+                // Check for <details> block BEFORE processing options
+                if (line.includes('<details>')) { inDetails = true; detailsContent = ''; continue; }
+
+                if (line.includes('</details>')) {
+                    inDetails = false;
+                    if (currentQuestion && detailsContent) {
+                        const answerMatch = detailsContent.match(/Risposta corretta:\s*([A-D])/i);
+                        if (answerMatch) currentQuestion.correctAnswer = answerMatch[1];
+                        const sourceMatch = detailsContent.match(/Fonte KB:\s*([^\n]+)/i);
+                        if (sourceMatch) currentQuestion.source = sourceMatch[1];
+                        const explMatch = detailsContent.match(/Spiegazione:\s*([^\n]+)/i);
+                        if (explMatch) currentQuestion.explanation = explMatch[1];
+                    }
+                    continue;
+                }
+
+                if (inDetails) {
+                    detailsContent += line + '\n';
+                    continue;
+                }
+
                 const questionMatch = line.match(/^Domanda\s+(\d+)\s*(🟢|🟡|🔴)?\s*(Base|Media|Avanzata)?/i);
                 if (questionMatch) {
                     if (currentQuestion) bank.questions.push(currentQuestion);
-                    
+
                     let difficulty = 'media';
                     if (line.includes('🟢') || line.toLowerCase().includes('base')) difficulty = 'base';
                     else if (line.includes('🔴') || line.toLowerCase().includes('avanzata')) difficulty = 'avanzata';
-                    
+
                     currentQuestion = {
                         number: parseInt(questionMatch[1]),
                         difficulty,
@@ -1007,23 +1028,6 @@
                     currentQuestion.options.push({ letter: optionMatch[1], text: optionMatch[2] });
                     continue;
                 }
-
-                if (line.includes('<details>')) { inDetails = true; detailsContent = ''; continue; }
-
-                if (line.includes('</details>')) {
-                    inDetails = false;
-                    if (currentQuestion && detailsContent) {
-                        const answerMatch = detailsContent.match(/Risposta corretta:\s*([A-D])/i);
-                        if (answerMatch) currentQuestion.correctAnswer = answerMatch[1];
-                        const sourceMatch = detailsContent.match(/Fonte KB:\s*([^\n]+)/i);
-                        if (sourceMatch) currentQuestion.source = sourceMatch[1];
-                        const explMatch = detailsContent.match(/Spiegazione:\s*([^\n]+)/i);
-                        if (explMatch) currentQuestion.explanation = explMatch[1];
-                    }
-                    continue;
-                }
-
-                if (inDetails) detailsContent += line + '\n';
             }
 
             if (currentQuestion) bank.questions.push(currentQuestion);
