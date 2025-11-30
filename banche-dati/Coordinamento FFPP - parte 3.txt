@@ -1,0 +1,1445 @@
+BANCA DATI DEL QUIZ "Il Coordinamento delle FFPP - PARTE III"
+
+❓ DOMANDE
+📚 SEZIONE 1 - AUTORITÀ PROVINCIALI DI PUBBLICA SICUREZZA
+Domanda 1 🟢 Base
+Quali sono le due Autorità provinciali di Pubblica Sicurezza secondo la L. 121/1981?
+A) Ministro dell'Interno e Prefetto
+B) Prefetto e Questore
+C) Questore e Sindaco
+D) Prefetto e Comandante provinciale dei Carabinieri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.2 → "PREFETTO (art. 13)" e "QUESTORE (art. 14)" come le due autorità a livello provinciale
+Spiegazione: A livello provinciale, le autorità di P.S. sono il Prefetto (art. 13 L. 121/81) e il Questore (art. 14 L. 121/81), con responsabilità rispettivamente generale e tecnico-operativa.
+</details>
+
+Domanda 2 🟢 Base
+In quale norma sono disciplinate le Autorità provinciali di Pubblica Sicurezza?
+A) D.P.R. 782/1985
+B) L. 1 aprile 1981, n. 121
+C) L. 12 luglio 1991, n. 203
+D) TULPS (R.D. 773/1931)
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.1 (Tabella) → "Norma: L. 1 aprile 1981, n. 121" - "Articoli: Art. 13 (Prefetto) e Art. 14 (Questore)"
+Spiegazione: La L. 121/1981 disciplina agli artt. 13 e 14 rispettivamente il Prefetto e il Questore come Autorità provinciali di P.S.
+</details>
+
+Domanda 3 🟡 Media
+Quale tipo di responsabilità ha il Prefetto nell'ambito della Pubblica Sicurezza?
+A) Responsabilità tecnico-operativa
+B) Responsabilità generale
+C) Responsabilità disciplinare
+D) Responsabilità giudiziaria
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.3 (Tabella) → "PREFETTO: Livello responsabilità = GENERALE"
+Spiegazione: Il Prefetto ha la responsabilità GENERALE dell'ordine e sicurezza pubblica nella provincia, mentre il Questore ha quella tecnico-operativa.
+</details>
+
+Domanda 4 🟡 Media
+Quale tipo di responsabilità ha il Questore nell'ambito della Pubblica Sicurezza?
+A) Responsabilità generale
+B) Responsabilità politica
+C) Responsabilità tecnico-operativa
+D) Responsabilità amministrativa esclusiva
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.3 (Tabella) → "QUESTORE: Livello responsabilità = TECNICO-OPERATIVO"
+Spiegazione: Il Questore ha la direzione e responsabilità a livello tecnico-operativo dei servizi di ordine e sicurezza pubblica.
+</details>
+
+Domanda 5 🔴 Avanzata
+Quale delle seguenti affermazioni descrive CORRETTAMENTE la distinzione tra Prefetto e Questore?
+A) Il Prefetto stabilisce le modalità operative, il Questore determina gli obiettivi
+B) Il Prefetto determina l'indirizzo generale e gli obiettivi, il Questore stabilisce le modalità tecnico-operative
+C) Il Prefetto e il Questore hanno le stesse competenze ma in territori diversi
+D) Il Questore determina gli obiettivi strategici, il Prefetto li attua operativamente
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.3 (Tabella) → "PREFETTO: Determina = L'indirizzo generale e gli obiettivi" / "QUESTORE: Determina = Le modalità tecnico-operative"
+Spiegazione: Il Prefetto svolge attività strategico-politica determinando COSA fare; il Questore svolge attività operativa stabilendo COME farlo.
+</details>
+
+Domanda 6 🟢 Base
+Con quale atto è nominato il Prefetto?
+A) Decreto del Presidente del Consiglio dei Ministri
+B) Decreto del Ministro dell'Interno
+C) Decreto del Presidente della Repubblica
+D) Deliberazione del Consiglio dei Ministri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.3 (Tabella) → "PREFETTO: Nominato con = D.P.R. (su proposta Min. Int. e deliberazione CdM)"
+Spiegazione: Il Prefetto è nominato con D.P.R. su proposta del Ministro dell'Interno e previa deliberazione del Consiglio dei Ministri.
+</details>
+
+Domanda 7 🟢 Base
+Con quale atto è nominato il Questore?
+A) Decreto del Presidente della Repubblica
+B) Decreto del Presidente del Consiglio dei Ministri
+C) Decreto del Ministro dell'Interno
+D) Decreto del Prefetto
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.3 (Tabella) → "QUESTORE: Nominato con = D.P.C.M. (su proposta Min. Int.)"
+Spiegazione: Il Questore è nominato con D.P.C.M. su proposta del Ministro dell'Interno, a differenza del Prefetto che è nominato con D.P.R.
+</details>
+
+📚 SEZIONE 2 - IL PREFETTO - AUTORITÀ PROVINCIALE DI P.S.
+Domanda 8 🟢 Base
+Quale articolo della L. 121/81 disciplina il Prefetto come Autorità provinciale di P.S.?
+A) Art. 14
+B) Art. 15
+C) Art. 13
+D) Art. 20
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.1 (Tabella) → "Art. 13 L. 121/81: Prefetto come Autorità provinciale di P.S."
+Spiegazione: L'art. 13 L. 121/81 disciplina il Prefetto, mentre l'art. 14 disciplina il Questore.
+</details>
+
+Domanda 9 🟡 Media
+Nella procedura di nomina del Prefetto, quale organo deve deliberare?
+A) Il Parlamento
+B) Il Consiglio dei Ministri
+C) La Corte costituzionale
+D) Il Consiglio di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.2 (Schema) → "PREVIA DELIBERAZIONE DEL CONSIGLIO DEI MINISTRI"
+Spiegazione: La nomina del Prefetto avviene con D.P.R. su proposta del Ministro dell'Interno e previa deliberazione del Consiglio dei Ministri.
+</details>
+
+Domanda 10 🟢 Base
+Di cosa è responsabile il Prefetto come Autorità provinciale di P.S.?
+A) Solo della sicurezza pubblica
+B) Solo dell'ordine pubblico
+C) Dell'ordine e della sicurezza pubblica nella provincia
+D) Della polizia giudiziaria nella provincia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3 A) (Tabella) → "Responsabilità GENERALE: Dell'ordine e della sicurezza pubblica nella provincia"
+Spiegazione: Il Prefetto ha responsabilità generale sia dell'ordine che della sicurezza pubblica nell'ambito provinciale.
+</details>
+
+Domanda 11 🟡 Media
+Da chi deve essere tempestivamente informato il Prefetto su questioni attinenti l'ordine e la sicurezza pubblica?
+A) Solo dal Questore
+B) Dal Questore e dai Comandanti regionali di CC e GdF
+C) Dal Questore e dai Comandanti provinciali di CC e GdF
+D) Solo dai Comandanti provinciali di CC e GdF
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3 B) (Tabella) → "Da chi riceve informazioni: Questore / Comandante provinciale Arma CC / Comandante provinciale G.d.F."
+Spiegazione: Il Prefetto deve essere tempestivamente informato dal Questore e dai Comandanti PROVINCIALI (non regionali) dell'Arma CC e della GdF.
+</details>
+
+Domanda 12 🔴 Avanzata
+In base all'art. 216 TULPS, il Prefetto può dichiarare lo stato di pericolo pubblico:
+A) Autonomamente, in caso di urgenza
+B) Solo su delega del Ministro dell'Interno
+C) Previa autorizzazione del Presidente della Repubblica
+D) Su richiesta del Questore
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.3 D) (Tabella) → "Dichiarare lo stato di pericolo pubblico: Su DELEGA del Min. Interno, in caso di pericoli/disordini"
+Spiegazione: Lo stato di pericolo pubblico può essere dichiarato dal Prefetto SOLO su delega del Ministro dell'Interno (ordinanze libere ex art. 216 TULPS).
+</details>
+
+Domanda 13 🟡 Media
+A chi trasmette il Prefetto le relazioni sull'attività delle forze di polizia?
+A) Al Presidente della Repubblica
+B) Al Ministro dell'Interno
+C) Al Presidente del Consiglio dei Ministri
+D) Al Capo della Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.3 C) (Tabella) → "Trasmette al Min. Interno: Relazioni sull'attività delle forze di polizia"
+Spiegazione: Tra i poteri operativi del Prefetto vi è quello di trasmettere al Ministro dell'Interno relazioni sull'attività delle forze di polizia.
+</details>
+
+Domanda 14 🟢 Base
+Chi attribuisce la qualifica di Agente di Pubblica Sicurezza agli appartenenti alla Polizia Municipale?
+A) Il Questore
+B) Il Sindaco
+C) Il Prefetto
+D) Il Ministro dell'Interno
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.5 (Tabella) → "Polizia Municipale: Attribuisce la qualifica di Agente di Pubblica Sicurezza agli appartenenti"
+Spiegazione: Tra le competenze amministrative del Prefetto (non di P.S.) vi è l'attribuzione della qualifica di Agente di P.S. agli appartenenti alla Polizia Municipale.
+</details>
+
+Domanda 15 🟡 Media
+Chi rilascia i porti d'arma corta per difesa personale?
+A) Il Questore
+B) Il Prefetto
+C) Il Ministro dell'Interno
+D) Il Sindaco
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.5 (Tabella) → "Armi: Rilascia i porti d'arma corta per difesa personale"
+Spiegazione: Il rilascio dei porti d'arma corta per difesa personale rientra tra le competenze amministrative del Prefetto.
+</details>
+
+Domanda 16 🔴 Avanzata
+Quale delle seguenti affermazioni sulla natura del Prefetto è CORRETTA?
+A) È esclusivamente Autorità provinciale di P.S.
+B) È parte integrante dell'Amministrazione di P.S. ma anche soggetto esterno ad essa
+C) È esclusivamente rappresentante del Governo in provincia
+D) È subordinato gerarchicamente al Questore
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.6 (Schema) → "PARTE INTEGRANTE dell'Amministrazione di P.S. MA CONTEMPORANEAMENTE anche SOGGETTO ESTERNO non esaurendosi la sua figura all'interno di essa"
+Spiegazione: Il Prefetto ha una duplice natura: è parte dell'Amministrazione di P.S. ma contemporaneamente soggetto esterno, conservando le sue competenze di autorità governativa provinciale.
+</details>
+
+Domanda 17 🔴 Avanzata
+Cosa può fare il Ministro dell'Interno nei confronti del Prefetto?
+A) Può rimuoverlo solo per gravi motivi disciplinari
+B) Può rimuoverlo discrezionalmente dall'incarico
+C) Può sospenderlo temporaneamente previa autorizzazione del CdM
+D) Non può rimuoverlo in nessun caso
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.8 (Schema) → "FORTE RESPONSABILITÀ dinanzi al MINISTRO che può RIMUOVERLO DISCREZIONALMENTE dall'incarico"
+Spiegazione: Il Prefetto gode di grande libertà d'azione ma ha forte responsabilità verso il Ministro, che può rimuoverlo discrezionalmente.
+</details>
+
+Domanda 18 🟡 Media
+Quale delle seguenti affermazioni sulla direttiva di coordinamento del Prefetto è CORRETTA?
+A) Definisce nel dettaglio le modalità operative
+B) È un atto più intenso dell'ordine
+C) Fissa gli obiettivi lasciando autonomia sui mezzi per conseguirli
+D) Non lascia alcuna discrezionalità ai destinatari
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.9 (Schema e Tabella) → "ATTO MENO INTENSO DELL'ORDINE che si limita a: FISSARE GLI OBIETTIVI lasciando ai destinatari: AMPIA DISCREZIONALITÀ TECNICA"
+Spiegazione: La direttiva è un atto meno intenso dell'ordine, fissa gli obiettivi ma lascia ai soggetti coordinati margini apprezzabili di autonomia nella realizzazione.
+</details>
+
+Domanda 19 🟢 Base
+Chi esercita la potestà di espulsione degli stranieri?
+A) Il Questore
+B) Il Prefetto
+C) Il Ministro dell'Interno
+D) Il Sindaco
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.5 (Tabella) → "Stranieri: Esercita la potestà di espulsione degli stranieri"
+Spiegazione: L'espulsione degli stranieri rientra tra le competenze amministrative del Prefetto.
+</details>
+
+📚 SEZIONE 3 - LA PREFETTURA - STRUTTURA ORGANIZZATIVA
+Domanda 20 🟢 Base
+Cos'è la Prefettura?
+A) Un organo centrale del Ministero dell'Interno
+B) Un organo periferico del Ministero dell'Interno
+C) Un ente locale autonomo
+D) Una articolazione della Questura
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.1 → "La Prefettura è un organo periferico del Ministero dell'Interno, ciò significa che svolge i compiti di governo nelle province italiane."
+Spiegazione: La Prefettura è un organo periferico (non centrale) del Ministero dell'Interno che svolge compiti di governo a livello provinciale.
+</details>
+
+Domanda 21 🟡 Media
+Quante Aree funzionali ha la Prefettura?
+A) 3 Aree
+B) 4 Aree
+C) 5 Aree
+D) 7 Aree
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.3 e 3.4 (Organigramma e Tabella) → 5 Aree (I, II, III, IV, V) + 2 Servizi
+Spiegazione: La Prefettura è articolata in 5 Aree funzionali (Ordine e sicurezza pubblica, Autonomie locali, Sanzioni amministrative, Diritti civili e immigrazione, Protezione civile) più 2 Servizi.
+</details>
+
+Domanda 22 🟢 Base
+Di cosa si occupa l'Area I della Prefettura?
+A) Autonomie locali
+B) Ordine e sicurezza pubblica
+C) Protezione civile
+D) Immigrazione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.4 (Tabella) → "Area I: Ordine e sicurezza pubblica - Coordinamento FF.PP., O.P., servizi di sicurezza"
+Spiegazione: L'Area I della Prefettura si occupa di Ordine e sicurezza pubblica, coordinamento delle Forze di Polizia e servizi di sicurezza.
+</details>
+
+Domanda 23 🟡 Media
+Quale Area della Prefettura si occupa dei rapporti con gli enti locali e delle elezioni?
+A) Area I
+B) Area II
+C) Area III
+D) Area IV
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.4 (Tabella) → "Area II: Autonomie locali - Rapporti con enti locali, elezioni"
+Spiegazione: L'Area II (Autonomie locali) si occupa dei rapporti con gli enti locali e della materia elettorale.
+</details>
+
+Domanda 24 🟡 Media
+Quale Area della Prefettura gestisce le pratiche relative agli stranieri e alla cittadinanza?
+A) Area II
+B) Area III
+C) Area IV
+D) Area V
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.4 (Tabella) → "Area IV: Diritti civili e immigrazione - Stranieri, cittadinanza, diritti civili"
+Spiegazione: L'Area IV si occupa di diritti civili e immigrazione, incluse le pratiche relative a stranieri e cittadinanza.
+</details>
+
+Domanda 25 🟢 Base
+Chi è il vertice gerarchico della Prefettura sotto il Prefetto?
+A) Il Questore
+B) Il Viceprefetto Vicario
+C) Il Capo di Gabinetto
+D) Il Direttore dell'Area I
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.3 (Organigramma) → Struttura: PREFETTO → Gabinetto del Prefetto → Viceprefetto Vicario → Aree
+Spiegazione: Sotto il Prefetto e il Gabinetto, il Viceprefetto Vicario rappresenta il secondo livello gerarchico della Prefettura.
+</details>
+
+Domanda 26 🟡 Media
+Tra i compiti della Prefettura, quale funzione svolge in materia di protezione civile?
+A) Solo intervento successivo a situazioni di pericolo
+B) Solo intervento preventivo
+C) Intervento in via preventiva e successiva a situazioni di pericolo per l'ambiente e protezione civile
+D) Nessuna funzione in materia di protezione civile
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.2 (Tabella) → "Protezione Civile: Intervento in via preventiva e successiva a situazioni di pericolo per l'ambiente e protezione civile"
+Spiegazione: La Prefettura interviene sia in via preventiva che successiva in materia di protezione civile e pericoli ambientali.
+</details>
+
+Domanda 27 🔴 Avanzata
+Quale funzione svolge la Prefettura nei rapporti Stato-Autonomie locali?
+A) Nomina i sindaci dei comuni
+B) È garante della continuità gestionale quando vengono meno i candidati eletti
+C) Approva i bilanci comunali
+D) Nomina i Presidenti delle Province
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Tabella) → "Rapporti Stato-Autonomie locali: Garante della continuità gestionale in caso vengano meno i candidati eletti dai cittadini"
+Spiegazione: Tra i compiti della Prefettura vi è quello di garantire la continuità gestionale degli enti locali quando vengono a mancare i candidati eletti.
+</details>
+
+Domanda 28 🟢 Base
+Quale Area della Prefettura si occupa delle sanzioni depenalizzate e della circolazione stradale?
+A) Area I
+B) Area II
+C) Area III
+D) Area V
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.4 (Tabella) → "Area III: Sanzioni amministrative - Ricorsi, sanzioni depenalizzate, circolazione stradale"
+Spiegazione: L'Area III (Sanzioni amministrative) gestisce ricorsi, sanzioni depenalizzate e questioni relative alla circolazione stradale.
+</details>
+
+📚 SEZIONE 4 - IL QUESTORE - AUTORITÀ PROVINCIALE DI P.S.
+Domanda 29 🟢 Base
+Quale articolo della L. 121/81 disciplina il Questore come Autorità provinciale di P.S.?
+A) Art. 13
+B) Art. 14
+C) Art. 15
+D) Art. 20
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.1 (Tabella) → "Art. 14 L. 121/81: Il Questore come Autorità provinciale di P.S."
+Spiegazione: L'art. 14 L. 121/81 disciplina il Questore, mentre l'art. 13 disciplina il Prefetto.
+</details>
+
+Domanda 30 🟡 Media
+La nomina del Questore avviene nei limiti di quale condizione?
+A) Della disponibilità finanziaria
+B) Della disponibilità di organico
+C) Dell'autorizzazione parlamentare
+D) Del parere del Consiglio di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.2 (Schema) → "NEI LIMITI DELLA DISPONIBILITÀ DI ORGANICO"
+Spiegazione: Il Questore è nominato con D.P.C.M. su proposta del Ministro dell'Interno, nei limiti della disponibilità di organico.
+</details>
+
+Domanda 31 🟢 Base
+A quale livello il Questore ha direzione, responsabilità e coordinamento dei servizi di O.P. e S.P.?
+A) Livello strategico-politico
+B) Livello tecnico-operativo
+C) Livello nazionale
+D) Livello regionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.3 (Tabella) → "Direzione, responsabilità e coordinamento: A LIVELLO TECNICO-OPERATIVO"
+Spiegazione: Il Questore opera a livello tecnico-operativo, a differenza del Prefetto che opera a livello strategico-politico (generale).
+</details>
+
+Domanda 32 🟡 Media
+Da chi deve essere tempestivamente informato il Questore su questioni attinenti l'ordine e la sicurezza pubblica?
+A) Solo dal Prefetto
+B) Dai Comandanti regionali di CC e GdF
+C) Dai Comandanti provinciali dell'Arma CC e della GdF
+D) Dai Sindaci dei Comuni della provincia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.3 (Tabella) → "Deve essere tempestivamente informato: Dai comandanti PROVINCIALI dell'Arma CC e della GdF"
+Spiegazione: Sia il Prefetto che il Questore devono essere informati dai Comandanti PROVINCIALI (non regionali) di CC e GdF.
+</details>
+
+Domanda 33 🟢 Base
+Con chi mantiene rapporti il Questore ai fini dell'ordine e sicurezza pubblica?
+A) Con i Prefetti delle province limitrofe
+B) Con i sindaci dei comuni
+C) Con i Presidenti delle Regioni
+D) Con i Comandanti regionali delle FF.PP.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.3 (Tabella) → "Mantiene rapporti: Con i sindaci dei comuni - Ai fini dell'ordine e sicurezza pubblica e della prevenzione e difesa dalla violenza eversiva"
+Spiegazione: Il Questore mantiene rapporti con i sindaci dei comuni per finalità di ordine, sicurezza pubblica e prevenzione della violenza eversiva.
+</details>
+
+Domanda 34 🟡 Media
+Quale norma disciplina l'ordinanza del Questore?
+A) Art. 13 L. 121/81
+B) Art. 14 L. 121/81
+C) Art. 37 D.P.R. 782/1985
+D) Art. 20 L. 121/81
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.1 (Tabella) → "Art. 37 D.P.R. 782/1985: Ordinanza del Questore"
+Spiegazione: L'ordinanza del Questore è disciplinata dall'art. 37 del D.P.R. 782/1985 (Regolamento di servizio dell'Amministrazione di P.S.).
+</details>
+
+Domanda 35 🟢 Base
+Chi rilascia le autorizzazioni in materia di detenzione armi?
+A) Il Prefetto
+B) Il Questore
+C) Il Sindaco
+D) Il Ministro dell'Interno
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.4 (Tabella) → "Armi: Rilascia autorizzazioni in materia di detenzione armi"
+Spiegazione: Le autorizzazioni per la detenzione armi sono rilasciate dal Questore, mentre il Prefetto rilascia i porti d'arma corta per difesa personale.
+</details>
+
+Domanda 36 🔴 Avanzata
+Cosa stabilisce il Questore nell'ordinanza secondo l'art. 37 D.P.R. 782/1985?
+A) Solo le finalità da conseguire
+B) Modalità svolgimento servizi, forza da impiegare, equipaggiamento, responsabili e finalità
+C) Solo la forza da impiegare
+D) Solo i responsabili del servizio
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Schema) → "Il Questore stabilisce: Modalità svolgimento servizi / Forza da impiegare / Equipaggiamento necessario / Responsabili del servizio / Finalità da conseguire"
+Spiegazione: L'ordinanza del Questore definisce tutti gli elementi operativi del servizio: modalità, forza, equipaggiamento, responsabili e finalità.
+</details>
+
+Domanda 37 🟡 Media
+A chi deve essere comunicata l'ordinanza del Questore per opportuna conoscenza?
+A) Al Ministro dell'Interno
+B) Al Prefetto
+C) Al Capo della Polizia
+D) Al Presidente della Provincia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Schema) → "Deve essere comunicata: Al PREFETTO (per opportuna conoscenza)"
+Spiegazione: L'ordinanza del Questore deve essere comunicata al Prefetto per opportuna conoscenza, e ai dirigenti/funzionari/altre FF.PP. per l'esecuzione.
+</details>
+
+Domanda 38 🔴 Avanzata
+Qual è la natura giuridica dell'ordinanza del Questore?
+A) Atto di natura consultiva
+B) Mero atto interno privo di effetti esterni
+C) Provvedimento amministrativo espressione di potere autoritativo
+D) Semplice circolare informativa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.6 (Tabella) → "Espressione di: Potere autoritativo / Costituisce: Una figura peculiare di provvedimento amministrativo"
+Spiegazione: L'ordinanza è un provvedimento amministrativo che esprime potere autoritativo, producendo effetti unilaterali nelle sfere giuridiche dei destinatari.
+</details>
+
+Domanda 39 🟡 Media
+L'ordinanza del Questore ha efficacia anche verso le altre forze di polizia?
+A) No, ha solo efficacia interna verso il personale della Polizia di Stato
+B) Sì, ha anche efficacia esterna verso le altre forze di polizia
+C) Solo se espressamente autorizzata dal Prefetto
+D) Solo nei casi di emergenza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.7 (Tabella) → "Efficacia ESTERNA: Altre forze di polizia chiamate a collaborare nei servizi di O.P. e S.P. - Art. 66, c.6, L. 121/1981"
+Spiegazione: L'ordinanza ha sia efficacia interna (personale in subordinazione) che esterna (altre FF.PP. chiamate a collaborare), ex art. 66, c.6, L. 121/81.
+</details>
+
+Domanda 40 🟢 Base
+Quali effetti può produrre l'ordinanza del Questore sui diritti dei cittadini?
+A) Nessun effetto sui cittadini
+B) Solo effetti favorevoli
+C) Limitazioni alla circolazione, inibizione accesso ad aree, filtraggi e controlli
+D) Solo sanzioni pecuniarie
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.8 (Tabella) → "Limitazioni alla circolazione / Inibizione accesso a determinate aree / Filtraggi e controlli di sicurezza"
+Spiegazione: L'ordinanza può incidere sui diritti dei cittadini attraverso divieti di transito, inibizioni di accesso e controlli di sicurezza.
+</details>
+
+Domanda 41 🟡 Media
+A quali principi deve ispirarsi l'ordinanza del Questore?
+A) Solo al principio di legalità
+B) Legalità, buon andamento e imparzialità
+C) Solo al principio di proporzionalità
+D) Efficienza ed economicità
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.8 → "L'ordinanza deve ispirarsi ai principi di: Legalità / Buon andamento / Imparzialità"
+Spiegazione: L'ordinanza del Questore deve rispettare i principi costituzionali di legalità, buon andamento e imparzialità dell'azione amministrativa.
+</details>
+
+Domanda 42 🔴 Avanzata
+Quante fasi prevede l'indagine di proporzionalità dell'azione amministrativa?
+A) Due fasi (necessità e idoneità)
+B) Tre fasi (necessità, idoneità, proporzionalità)
+C) Quattro fasi
+D) Una sola fase
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.9 (Schema) → "INDAGINE C.D. 'TRIFASICA': FASE 1 Accertamento della NECESSITÀ / FASE 2 Verifica dell'IDONEITÀ / FASE 3 Individuazione della MISURA STRETTAMENTE PROPORZIONATA"
+Spiegazione: L'indagine di proporzionalità è "trifasica": necessità della misura, idoneità allo scopo, proporzionalità stretta con il fine.
+</details>
+
+Domanda 43 🟡 Media
+Cosa deve contenere l'ordinanza del Questore in modo inequivoco?
+A) Solo le finalità da conseguire
+B) Una chiara linea di comando con gli ambiti di competenza ai diversi livelli
+C) Solo l'elenco del personale impiegato
+D) Solo il riferimento normativo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Schema) → "Deve contenere una: CHIARA LINEA DI COMANDO evidenziando in modo INEQUIVOCO gli ambiti di competenza ai diversi livelli di direzione"
+Spiegazione: L'ordinanza deve definire chiaramente la catena di comando e gli ambiti di competenza a tutti i livelli direzionali.
+</details>
+
+📚 SEZIONE 5 - LA QUESTURA - STRUTTURA ORGANIZZATIVA
+Domanda 44 🟢 Base
+Cosa significa la sigla U.P.G. e S.P.?
+A) Ufficio Provinciale Gestione e Sicurezza Pubblica
+B) Ufficio Prevenzione Generale e Soccorso Pubblico
+C) Unità di Pronto intervento Generale e Speciale di Polizia
+D) Ufficio di Polizia Giudiziaria e Sicurezza Pubblica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.3 (Tabella) → "U.P.G. e S.P.: Ufficio Prevenzione Generale e Soccorso Pubblico - Gestione 113, Volanti, emergenze"
+Spiegazione: L'U.P.G. e S.P. è l'Ufficio Prevenzione Generale e Soccorso Pubblico, che gestisce la Sala Operativa 113, le Volanti e le emergenze.
+</details>
+
+Domanda 45 🟢 Base
+Cosa significa la sigla D.I.G.O.S.?
+A) Direzione Investigativa Generale Ordine e Sicurezza
+B) Divisione Investigazioni Generali e Operazioni Speciali
+C) Dipartimento Investigativo Generale Operazioni di Sicurezza
+D) Divisione Interventi Generali e Ordine Sicurezza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.3 (Tabella) → "D.I.G.O.S.: Divisione Investigazioni Generali e Operazioni Speciali - Antiterrorismo, ordine pubblico"
+Spiegazione: La D.I.G.O.S. è la Divisione Investigazioni Generali e Operazioni Speciali, competente per antiterrorismo e ordine pubblico.
+</details>
+
+Domanda 46 🟡 Media
+Cosa significa la sigla U.P.G.A.I.P.?
+A) Ufficio di Polizia Giudiziaria e Amministrativa Investigativa Provinciale
+B) Ufficio Provinciale Gestione Automatizzata Informazioni di Polizia
+C) Unità di Pronto intervento Generale e Attività Investigativa di Polizia
+D) Ufficio Provinciale Gestione Archivi e Informazioni di Prevenzione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.3 (Tabella) → "U.P.G.A.I.P.: Ufficio Provinciale Gestione Automatizzata Informazioni di Polizia - Gestione banche dati"
+Spiegazione: L'U.P.G.A.I.P. gestisce le banche dati informatiche di polizia a livello provinciale.
+</details>
+
+Domanda 47 🟡 Media
+Nella struttura della Questura (Modello 2), chi è immediatamente sotto il Questore?
+A) Il Capo di Gabinetto
+B) Il Vicario
+C) Il Dirigente della Squadra Mobile
+D) Il Dirigente della D.I.G.O.S.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.1 (Organigramma) → "QUESTORE → VICARIO"
+Spiegazione: Nella struttura gerarchica della Questura, il Vicario è il secondo in comando immediatamente sotto il Questore.
+</details>
+
+Domanda 48 🔴 Avanzata
+Quali sono i tre Poli principali della Questura nel Modello 2 (Questure Complesse)?
+A) Polo Investigativo, Polo Amministrativo, Polo Prevenzione
+B) Ufficio di Gabinetto, Polo per la Gestione delle Risorse Umane e Attività di Supporto, Polo Operativo
+C) Polo Giudiziario, Polo Amministrativo, Polo di Sicurezza
+D) Divisione Anticrimine, Squadra Mobile, D.I.G.O.S.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.1 (Organigramma) → "UFFICIO DI GABINETTO / POLO PER LA GESTIONE DELLE RISORSE UMANE E PER LE ATTIVITÀ DI SUPPORTO / POLO OPERATIVO"
+Spiegazione: Le Questure Complesse (Modello 2) sono articolate in Ufficio di Gabinetto, Polo Risorse Umane/Supporto e Polo Operativo.
+</details>
+
+Domanda 49 🟡 Media
+Di cosa si occupa la Squadra Mobile della Questura?
+A) Gestione della Sala Operativa 113
+B) Indagini sulla criminalità organizzata e comune
+C) Antiterrorismo ed eversione
+D) Rilascio passaporti e documenti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.3 (Tabella) → "Squadra Mobile: Indagini criminalità organizzata e comune"
+Spiegazione: La Squadra Mobile si occupa delle indagini sulla criminalità organizzata e comune, articolata in sezioni specializzate.
+</details>
+
+Domanda 50 🟢 Base
+La Divisione Anticrimine della Questura si occupa principalmente di:
+A) Antiterrorismo
+B) Misure di prevenzione
+C) Controllo del territorio con le Volanti
+D) Rilascio licenze
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.3 (Tabella) → "Anticrimine: Divisione Anticrimine - Misure di prevenzione"
+Spiegazione: La Divisione Anticrimine si occupa delle misure di prevenzione personali e patrimoniali.
+</details>
+
+Domanda 51 🔴 Avanzata
+Nell'organigramma della Questura di Catanzaro, in quante Sezioni è articolata la D.I.G.O.S.?
+A) Due Sezioni
+B) Tre Sezioni
+C) Quattro Sezioni
+D) Cinque Sezioni
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.2 (Organigramma Catanzaro) → "D.I.G.O.S.: I^ Sez. Settore O.P. Analisi politica e Squadra Tifoseria / II^ Sez. Settore Antiterrorismo - Eversione / III^ Sez. Settore Investigativo - Infiltrazioni Criminali nella Politica"
+Spiegazione: La D.I.G.O.S. della Questura di Catanzaro è articolata in tre Sezioni: O.P./Tifoserie, Antiterrorismo, Infiltrazioni criminali.
+</details>
+
+Domanda 52 🟡 Media
+Quale ufficio della Questura gestisce la Sala Operativa 113 e la Squadra Volante?
+A) D.I.G.O.S.
+B) Squadra Mobile
+C) U.P.G. e S.P. (Ufficio Prevenzione Generale e Soccorso Pubblico)
+D) Divisione Anticrimine
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 5.2 (Organigramma Catanzaro) → "UFFICIO PREVENZIONE GENERALE E SOCCORSO PUBBLICO (U.P.G. e S.P.): Sala Operativa 113 / Squadra Volante"
+Spiegazione: L'U.P.G. e S.P. gestisce la Sala Operativa 113, l'Ufficio Denunce, la Squadra Volante e il Nucleo Artificieri.
+</details>
+
+📚 SEZIONE 6 - RAPPORTO PREFETTO-QUESTORE
+Domanda 53 🟢 Base
+Nel rapporto tra Prefetto e Questore, chi determina il "COSA" fare?
+A) Il Questore
+B) Il Prefetto
+C) Entrambi congiuntamente
+D) Il Ministro dell'Interno
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.1 (Schema) → "PREFETTO: STRATEGIA → 'COSA'" / "QUESTORE: OPERATIVITÀ → 'COME'"
+Spiegazione: Il Prefetto determina l'indirizzo generale e gli obiettivi (il "COSA"), mentre il Questore stabilisce le modalità tecnico-operative (il "COME").
+</details>
+
+Domanda 54 🟢 Base
+Nel rapporto tra Prefetto e Questore, chi determina il "COME" fare?
+A) Il Prefetto
+B) Il Questore
+C) Il C.P.O.S.P.
+D) Il Comandante provinciale CC
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.1 (Schema) → "QUESTORE: stabilisce le MODALITÀ TECNICO OPERATIVE per raggiungere gli obiettivi"
+Spiegazione: Il Questore stabilisce le modalità tecnico-operative ("COME") per raggiungere gli obiettivi fissati dal Prefetto.
+</details>
+
+Domanda 55 🟡 Media
+Quale organo collegiale è presieduto dal Prefetto?
+A) Il Tavolo Tecnico
+B) Il C.P.O.S.P.
+C) La Conferenza dei Servizi
+D) Il Comitato per la Sicurezza Urbana
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.2 (Tabella) → "PREFETTO: Organo collegiale = Presiede il C.P.O.S.P." / "QUESTORE: Organo collegiale = Partecipa al C.P.O.S.P."
+Spiegazione: Il Prefetto presiede il C.P.O.S.P. (Comitato Provinciale per l'Ordine e la Sicurezza Pubblica), mentre il Questore vi partecipa come membro.
+</details>
+
+Domanda 56 🔴 Avanzata
+Quale atto tipico caratterizza rispettivamente il Prefetto e il Questore?
+A) Prefetto: Ordinanza di servizio / Questore: Direttiva di coordinamento
+B) Prefetto: Direttiva di coordinamento / Questore: Ordinanza di servizio
+C) Entrambi emanano ordinanze di servizio
+D) Entrambi emanano direttive di coordinamento
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.2 (Tabella) → "PREFETTO: Atto tipico = Direttiva di coordinamento" / "QUESTORE: Atto tipico = Ordinanza di servizio"
+Spiegazione: Il Prefetto emana direttive di coordinamento (atti strategici), il Questore emana ordinanze di servizio (atti operativi).
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 7 - C.P.O.S.P. (COMITATO PROVINCIALE ORDINE E SICUREZZA PUBBLICA)
+Domanda 57 🟢 Base
+Quale articolo della L. 121/81 disciplina il C.P.O.S.P.?
+A) Art. 13
+B) Art. 14
+C) Art. 15
+D) Art. 20
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 7.1 (Tabella) → "Norma: Art. 20 L. 1 aprile 1981, n. 121"
+Spiegazione: Il C.P.O.S.P. è disciplinato dall'art. 20 della L. 121/1981.
+</details>
+
+Domanda 58 🟢 Base
+Presso quale organo è istituito il C.P.O.S.P.?
+A) La Questura
+B) La Prefettura
+C) Il Ministero dell'Interno
+D) La Regione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.1 (Tabella) → "Istituito presso: La Prefettura"
+Spiegazione: Il C.P.O.S.P. è istituito presso la Prefettura, quale organo ausiliario di consulenza del Prefetto.
+</details>
+
+Domanda 59 🟢 Base
+Qual è la natura giuridica del C.P.O.S.P.?
+A) Organo deliberante
+B) Organo esecutivo
+C) Organo ausiliario di consulenza del Prefetto
+D) Organo giurisdizionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.1 (Tabella) → "Natura: Organo ausiliario di consulenza del Prefetto"
+Spiegazione: Il C.P.O.S.P. è un organo ausiliario di consulenza, non un organo decisionale o deliberante.
+</details>
+
+Domanda 60 🟢 Base
+Chi presiede il C.P.O.S.P.?
+A) Il Questore
+B) Il Prefetto
+C) Il Sindaco del Comune capoluogo
+D) Il Presidente della Provincia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.3 (Schema) → "PREFETTO (PRESIDENTE)"
+Spiegazione: Il Prefetto presiede il C.P.O.S.P., non il Questore che è solo membro del Comitato.
+</details>
+
+Domanda 61 🟡 Media
+Quanti sono i componenti PERMANENTI del C.P.O.S.P.?
+A) 5
+B) 6
+C) 7
+D) 8
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.4 (Tabella e Trabocchetto) → 6 componenti permanenti: Prefetto, Questore, Sindaco Comune capoluogo, Presidente Provincia, Cte prov. CC, Cte prov. GdF. "I componenti permanenti sono ora 6 (era 7 prima della soppressione del CFS)"
+Spiegazione: I componenti permanenti sono 6 dopo la soppressione del Corpo Forestale dello Stato (31.12.2016), prima erano 7.
+</details>
+
+Domanda 62 🟡 Media
+Quale dei seguenti NON è un componente permanente del C.P.O.S.P.?
+A) Il Questore
+B) Il Sindaco del Comune capoluogo
+C) Il Comandante provinciale della Guardia di Finanza
+D) Il Comandante provinciale del Corpo Forestale dello Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 7.3 (Schema) → "⚠️ ATTENZIONE: Il Cte prov. C.F.S. NON È PIÙ COMPONENTE (Corpo Forestale dello Stato soppresso dal 31.12.2016)"
+Spiegazione: Il Comandante provinciale del CFS non è più componente del C.P.O.S.P. dal 31.12.2016, data di soppressione del Corpo Forestale dello Stato.
+</details>
+
+Domanda 63 🟡 Media
+I Sindaci degli altri Comuni (non capoluogo) quando partecipano al C.P.O.S.P.?
+A) Sempre, come membri permanenti
+B) Mai
+C) Quando si trattano questioni riferibili ai rispettivi ambiti territoriali
+D) Solo su richiesta del Questore
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.3 (Schema) → "COMPONENTI EVENTUALI: Sindaci degli altri Comuni interessati - quando si trattano questioni riferibili ai rispettivi ambiti territoriali"
+Spiegazione: I Sindaci dei Comuni non capoluogo sono componenti eventuali, convocati quando si trattano questioni dei loro territori.
+</details>
+
+Domanda 64 🔴 Avanzata
+Per invitare componenti dell'ordine giudiziario al C.P.O.S.P., con chi deve essere raggiunta l'intesa?
+A) Con il Procuratore della Repubblica
+B) Con il Procuratore generale della Repubblica
+C) Con il Presidente del Tribunale
+D) Con il Ministro della Giustizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.4 (Tabella) → "Componenti ordine giudiziario: D'intesa con il Procuratore generale della Repubblica"
+Spiegazione: L'intesa deve essere raggiunta con il Procuratore GENERALE (non il Procuratore della Repubblica) per invitare magistrati.
+</details>
+
+Domanda 65 🟡 Media
+Quale legge ha previsto la possibilità di chiamare i responsabili della Polizia Municipale al C.P.O.S.P.?
+A) L. 121/1981
+B) L. 203/1991
+C) L. 128/2001
+D) D.P.R. 782/1985
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.4 (Tabella) → "Responsabili uffici Polizia Municipale: Su chiamata del Prefetto (L. 128/2001, art. 16)"
+Spiegazione: La L. 128/2001 ("pacchetto sicurezza"), all'art. 16, ha previsto la possibilità di chiamare i responsabili della Polizia Municipale.
+</details>
+
+Domanda 66 🟢 Base
+Chi provvede alla convocazione del C.P.O.S.P.?
+A) Il Questore
+B) Il Prefetto
+C) Il Ministro dell'Interno
+D) Il Sindaco del Comune capoluogo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.5 (Tabella) → "Chi provvede: Il Prefetto - Cosa determina: Convocazione e formazione dell'ordine del giorno"
+Spiegazione: Il Prefetto provvede alla convocazione del C.P.O.S.P. e determina l'ordine del giorno.
+</details>
+
+Domanda 67 🔴 Avanzata
+La convocazione del C.P.O.S.P. è obbligatoria quando richiesta da chi?
+A) Dal Questore
+B) Dal Comandante provinciale dei Carabinieri
+C) Dal Sindaco del Comune capoluogo
+D) Dal Presidente della Provincia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.5 (Tabella) → "Quando è OBBLIGATORIA: Quando lo richiede il Sindaco del Comune capoluogo"
+Spiegazione: La convocazione è obbligatoria ("in ogni caso disposta") quando la richiede il Sindaco del Comune capoluogo per questioni di sicurezza della comunità locale.
+</details>
+
+Domanda 68 🟡 Media
+Per quali questioni il Sindaco può richiedere la convocazione obbligatoria del C.P.O.S.P.?
+A) Solo per questioni di bilancio comunale
+B) Per questioni attinenti alla sicurezza della comunità locale o prevenzione di tensioni/conflitti sociali
+C) Solo per questioni di ordine pubblico nazionale
+D) Per qualsiasi questione amministrativa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.5 (Tabella) → "Per quali questioni: Attinenti alla sicurezza della comunità locale o per la prevenzione di tensioni o conflitti sociali che possono comportare turbamenti dell'ordine o della sicurezza pubblica in ambito comunale"
+Spiegazione: Il Sindaco può richiedere la convocazione per questioni di sicurezza locale o prevenzione di tensioni/conflitti sociali con rischio di turbamento dell'O.P.
+</details>
+
+Domanda 69 🟡 Media
+Quale funzione svolge il C.P.O.S.P. secondo la KB?
+A) Solo funzione deliberativa
+B) Elaborazione delle strategie e definizione delle modalità concrete per il perseguimento degli obiettivi
+C) Solo funzione ispettiva
+D) Solo funzione sanzionatoria
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.7 (Schema) → "ELABORAZIONE delle STRATEGIE / DEFINIZIONE delle MODALITÀ CONCRETE - compiti e attività - per il perseguimento degli obiettivi"
+Spiegazione: Il C.P.O.S.P. elabora strategie e definisce modalità concrete alla luce delle valutazioni tecnico-operative dei responsabili provinciali delle FF.PP.
+</details>
+
+Domanda 70 🟡 Media
+Quali vantaggi offre il C.P.O.S.P. al Prefetto?
+A) Solo supporto amministrativo
+B) Competenze tecniche dei membri e coinvolgimento diretto dei destinatari delle decisioni
+C) Solo potere sanzionatorio
+D) Solo funzione di rappresentanza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.8 (Tabella) → "Competenze tecniche: Avere a disposizione le competenze tecniche e le conoscenze professionali di cui ciascun membro è portatore / Coinvolgimento destinatari: Coinvolgere direttamente i futuri destinatari delle decisioni assunte, agevolando così la fase esecutiva"
+Spiegazione: Il C.P.O.S.P. offre al Prefetto competenze tecniche professionali e coinvolge i destinatari delle decisioni, agevolando l'esecuzione.
+</details>
+
+Domanda 71 🔴 Avanzata
+I pareri espressi dal C.P.O.S.P. producono effetti giuridici esterni?
+A) Sì, sono vincolanti per tutti i destinatari
+B) Sì, se approvati all'unanimità
+C) No, sono mere dichiarazioni di giudizio inidonee a produrre effetti esterni
+D) Sì, se ratificati dal Ministro dell'Interno
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.9 → "mere dichiarazioni di giudizio inquadrabili nella fase preparatoria del procedimento ed inidonee a produrre effetti esterni"
+Spiegazione: I pareri del C.P.O.S.P. sono atti di giudizio della funzione consultiva, privi di effetti giuridici esterni, appartenenti alla fase preparatoria.
+</details>
+
+Domanda 72 🟡 Media
+Quali soggetti possono essere chiamati al C.P.O.S.P. con particolare riguardo, secondo l'art. 20 L. 121/81?
+A) Solo i Sindaci
+B) Responsabili dell'Amministrazione penitenziaria, Vigili del fuoco e Capitanerie di porto
+C) Solo i magistrati
+D) Solo i parlamentari
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.6 (Tabella) → "Con particolare riguardo: Responsabili uffici Amministrazione penitenziaria / Responsabili Corpo nazionale dei vigili del fuoco / Responsabili Corpo delle capitanerie di porto"
+Spiegazione: L'art. 20 prevede la chiamata con particolare riguardo dei responsabili di Amministrazione penitenziaria, VVF e Capitanerie di porto.
+</details>
+
+📚 SEZIONE 8 - CONFERENZA REGIONALE DELLE AUTORITÀ DI P.S.
+Domanda 73 🟢 Base
+Chi presiede la Conferenza Regionale delle Autorità di P.S.?
+A) Il Presidente della Regione
+B) Il Prefetto del Capoluogo di Regione
+C) Il Questore del Capoluogo di Regione
+D) Il Ministro dell'Interno
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 8.2 (Schema) → "PREFETTO CAPOLUOGO DI REGIONE (PRESIDENTE) delegato ad hoc dal Min. dell'Interno"
+Spiegazione: La Conferenza è presieduta dal Prefetto del Capoluogo di Regione, delegato ad hoc dal Ministro dell'Interno.
+</details>
+
+Domanda 74 🟡 Media
+Di quali fenomeni si occupa principalmente la Conferenza Regionale?
+A) Solo fenomeni locali limitati a un Comune
+B) Fenomeni criminosi con diffusione ultraprovinciale
+C) Solo fenomeni nazionali
+D) Solo fenomeni internazionali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 8.3 (Tabella) → "Finalità: Iniziative volte a contrastare fenomeni criminosi con diffusione ULTRAPROVINCIALE"
+Spiegazione: La Conferenza Regionale si occupa di problematiche e fenomeni criminosi con diffusione ultraprovinciale, cioè che interessano più province.
+</details>
+
+Domanda 75 🟢 Base
+Quale norma disciplina la Conferenza Regionale delle Autorità di P.S. nella maggior parte delle Regioni?
+A) L. 121/1981
+B) D.M. 23 dicembre 2016
+C) D.P.R. 782/1985
+D) L. 203/1991
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 8.1 (Tabella) → "D.M. 23 dicembre 2016: Conferenza Regionale (escluse: Trentino A.A., Valle d'Aosta, Sicilia e Calabria)"
+Spiegazione: Il D.M. 23 dicembre 2016 disciplina la Conferenza Regionale nella maggior parte delle Regioni, con esclusione di alcune a disciplina speciale.
+</details>
+
+Domanda 76 🔴 Avanzata
+Con quale frequenza il Prefetto del Capoluogo di Regione riferisce al Ministro dell'Interno?
+A) Mensilmente
+B) Trimestralmente
+C) Semestralmente
+D) Annualmente
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 8.4 (Tabella) → "Relazione: Il Prefetto del Capoluogo di Regione riferisce SEMESTRALMENTE al Ministro con Relazione sulle direttive emanate e sugli obiettivi perseguiti"
+Spiegazione: La relazione al Ministro dell'Interno sulle direttive emanate e gli obiettivi perseguiti è SEMESTRALE.
+</details>
+
+Domanda 77 🟡 Media
+Chi deve essere informato dal Prefetto del Capoluogo di Regione oltre al Ministro?
+A) Il Presidente della Repubblica
+B) Il Capo della Polizia, Direttore Generale della Pubblica Sicurezza
+C) Il Presidente del Consiglio
+D) Il Presidente della Corte Costituzionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 8.4 (Tabella) → "Informazione: Informa altresì il Capo della Polizia, Direttore Generale della Pubblica Sicurezza"
+Spiegazione: Oltre alla relazione semestrale al Ministro, il Prefetto del Capoluogo informa anche il Capo della Polizia.
+</details>
+
+Domanda 78 🔴 Avanzata
+In Calabria, quale Prefetto è delegato per la Conferenza Regionale?
+A) Il Prefetto di Catanzaro (capoluogo di regione)
+B) Il Prefetto di Reggio Calabria
+C) Il Prefetto di Cosenza
+D) Il Prefetto di Crotone
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 8.5 - CALABRIA (Tabella) → "Delegato: Prefetto di REGGIO CALABRIA"
+Spiegazione: In Calabria il delegato è il Prefetto di Reggio Calabria (non Catanzaro, che è il capoluogo di regione), con compiti anche di supervisione del Programma straordinario di intervento.
+</details>
+
+Domanda 79 🔴 Avanzata
+Quanti Prefetti sono delegati per la Conferenza Regionale in Sicilia?
+A) Uno (Prefetto di Palermo)
+B) Due (Prefetti di Palermo e Catania)
+C) Tre (Prefetti di Palermo, Catania e Messina)
+D) Quattro
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 8.5 - SICILIA (Tabella) → "Area Occidentale: Prefetto di PALERMO / Area Orientale: Prefetto di CATANIA"
+Spiegazione: In Sicilia sono delegati DUE Prefetti: Palermo per l'area occidentale (Palermo, Agrigento, Caltanissetta, Trapani) e Catania per l'area orientale (Catania, Enna, Messina, Ragusa, Siracusa).
+</details>
+
+Domanda 80 🟡 Media
+Quali province rientrano nell'Area Occidentale della Sicilia coordinata dal Prefetto di Palermo?
+A) Palermo, Catania, Messina, Ragusa
+B) Palermo, Agrigento, Caltanissetta, Trapani
+C) Palermo, Enna, Siracusa, Trapani
+D) Palermo, Agrigento, Messina, Catania
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 8.5 - SICILIA (Tabella) → "Area Occidentale: Province = Palermo, Agrigento, Caltanissetta, Trapani - Delegato = Prefetto di PALERMO"
+Spiegazione: L'Area Occidentale della Sicilia comprende le province di Palermo, Agrigento, Caltanissetta e Trapani.
+</details>
+
+Domanda 81 🟡 Media
+Quale ulteriore funzione ha il Prefetto di Reggio Calabria nella Conferenza Regionale?
+A) Solo coordinamento delle FF.PP.
+B) Supervisione dell'attuazione del Programma straordinario di intervento in Calabria
+C) Nomina dei Questori della regione
+D) Gestione dei fondi europei
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 8.5 - CALABRIA (Tabella) → "Ulteriore funzione: Supervisione dell'attuazione del Programma straordinario di intervento in Calabria"
+Spiegazione: Il Prefetto di Reggio Calabria, oltre al coordinamento, supervisiona l'attuazione del Programma straordinario di intervento in Calabria.
+</details>
+
+Domanda 82 🟡 Media
+Chi sono i componenti della Conferenza Regionale delle Autorità di P.S.?
+A) Solo i Prefetti della Regione
+B) Prefetti, Questori, Comandanti regionali e provinciali di CC e GdF
+C) Solo i Questori della Regione
+D) Solo i Comandanti regionali delle FF.PP.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 8.2 (Schema) → "Prefetti della Regione / Questori / Cti Regionali Arma CC / Cti Regionali GdF / Cti Prov. Arma e GdF"
+Spiegazione: La Conferenza comprende Prefetti, Questori, Comandanti regionali e provinciali sia dell'Arma CC che della GdF.
+</details>
+
+Domanda 83 🟢 Base
+Quale D.M. disciplina la Conferenza Regionale in Sicilia?
+A) D.M. 23 dicembre 2016
+B) D.M. 11 gennaio 2017
+C) D.M. 1° febbraio 2017
+D) D.M. 10 ottobre 2002
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 8.1 (Tabella) → "D.M. 1° febbraio 2017: Sicilia"
+Spiegazione: La Conferenza Regionale in Sicilia è disciplinata dal D.M. 1° febbraio 2017, separatamente dal D.M. generale del 2016.
+</details>
+
+Domanda 84 🟡 Media
+Cosa emana il Prefetto del Capoluogo di Regione nell'ambito della Conferenza Regionale?
+A) Ordinanze di servizio
+B) Direttive di coordinamento indirizzate ai Prefetti coordinati
+C) Decreti prefettizi
+D) Circolari ministeriali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 8.4 (Tabella) → "Direttiva di coordinamento: Il Prefetto del Capoluogo di Regione emana direttiva di coordinamento indirizzata ai Prefetti coordinati"
+Spiegazione: Il Prefetto del Capoluogo di Regione emana direttive di coordinamento che i Prefetti coordinati devono attuare diramando a loro volta le direttive di competenza.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 9 - AUTORITÀ LOCALI DI PUBBLICA SICUREZZA
+Domanda 85 🟢 Base
+Quale articolo della L. 121/81 disciplina le Autorità locali di P.S.?
+A) Art. 13
+B) Art. 14
+C) Art. 15
+D) Art. 20
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 9.1 (Tabella) → "Art. 15 L. 121/81: Autorità locali di P.S."
+Spiegazione: Le Autorità locali di P.S. sono disciplinate dall'art. 15 L. 121/81, distinto dagli artt. 13 e 14 che riguardano le autorità provinciali.
+</details>
+
+Domanda 86 🟢 Base
+Quali sono le Autorità locali di Pubblica Sicurezza?
+A) Prefetto, Questore e Sindaco
+B) Questore nel capoluogo, funzionari preposti ai Commissariati, Sindaco dove non ci sono Commissariati
+C) Solo il Sindaco in tutti i Comuni
+D) Solo i funzionari di Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 9.2 (Schema) → "QUESTORE nel capoluogo di provincia / FUNZIONARI PREPOSTI AI COMMISSARIATI DI P.S. / SINDACO nella sua qualità di UFFICIALE DEL GOVERNO nei centri ove NON sono istituiti commissariati di P.S."
+Spiegazione: Le autorità locali sono tre categorie: Questore (nel capoluogo), funzionari dei Commissariati, Sindaco (solo dove non ci sono Commissariati).
+</details>
+
+Domanda 87 🟡 Media
+In quale veste il Sindaco è Autorità locale di P.S.?
+A) Come capo dell'amministrazione comunale
+B) Come Ufficiale del Governo
+C) Come rappresentante della Regione
+D) Come delegato del Prefetto
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 9.2 (Schema) e 9.3 (Tabella) → "SINDACO nella sua qualità di UFFICIALE DEL GOVERNO" / "In qualità di Ufficiale del Governo"
+Spiegazione: Il Sindaco esercita le funzioni di autorità locale di P.S. in qualità di Ufficiale del Governo, non come capo dell'amministrazione comunale.
+</details>
+
+Domanda 88 🟡 Media
+Il Sindaco è Autorità locale di P.S. in quali Comuni?
+A) In tutti i Comuni
+B) Solo nei Comuni capoluogo
+C) Solo nei centri dove NON sono istituiti Commissariati di P.S.
+D) Solo nei Comuni con più di 50.000 abitanti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 9.3 (Tabella) → "Sindaco: Dove opera = Nei centri dove NON sono istituiti Commissariati"
+Spiegazione: Il Sindaco è autorità locale di P.S. SOLO nei Comuni privi di Commissariato; dove esiste il Commissariato, l'autorità è il funzionario preposto.
+</details>
+
+Domanda 89 🔴 Avanzata
+Il Questore è Autorità locale di P.S. in quale ambito territoriale?
+A) In tutta la provincia
+B) Solo nel capoluogo di provincia
+C) In tutti i Comuni con Commissariato
+D) Solo nei Comuni costieri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 9.3 (Tabella) → "Questore: Dove opera = Nel capoluogo di provincia / Note = È contemporaneamente autorità provinciale e locale"
+Spiegazione: Il Questore è autorità locale SOLO nel capoluogo di provincia, dove cumula il ruolo di autorità provinciale e locale.
+</details>
+
+Domanda 90 🟡 Media
+Chi può inviare funzionari della Polizia di Stato nei Comuni dove l'autorità locale è il Sindaco?
+A) Solo il Questore
+B) Il Prefetto, o il Questore su autorizzazione del Prefetto
+C) Solo il Ministro dell'Interno
+D) Il Sindaco stesso
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 9.4 (Tabella) → "Chi può inviare: Prefetto, o Questore su autorizzazione del Prefetto"
+Spiegazione: Per eccezionali esigenze di servizio, il Prefetto (o il Questore con sua autorizzazione) può inviare funzionari P.d.S. nei Comuni dove opera il Sindaco.
+</details>
+
+Domanda 91 🔴 Avanzata
+Quale effetto produce l'invio di un funzionario di P.S. in un Comune dove l'autorità locale è il Sindaco?
+A) Il Sindaco mantiene tutte le sue competenze
+B) La competenza del Sindaco come autorità locale di P.S. viene SOSPESA
+C) Il Sindaco diventa subordinato del funzionario
+D) Nessun effetto sulla competenza del Sindaco
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 9.4 (Tabella) → "Effetto: SOSPENSIONE della competenza dell'autorità locale di P.S."
+Spiegazione: L'invio di un funzionario P.d.S. comporta la sospensione (non l'abolizione definitiva) della competenza del Sindaco come autorità locale di P.S.
+</details>
+
+Domanda 92 🟡 Media
+Quale condizione giustifica l'invio di funzionari P.d.S. nei Comuni dove opera il Sindaco?
+A) Richiesta del Sindaco
+B) Eccezionali esigenze di servizio
+C) Elezioni amministrative
+D) Manifestazioni sportive
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 9.4 (Tabella) → "Condizione: Eccezionali esigenze di servizio"
+Spiegazione: L'invio temporaneo di funzionari è subordinato a "eccezionali esigenze di servizio", non a richieste ordinarie o eventi programmati.
+</details>
+
+📚 SEZIONE 10 - AUTORITÀ P.S. NELLE REGIONI A STATUTO SPECIALE
+Domanda 93 🟢 Base
+In Trentino-Alto Adige, chi è l'Autorità di Pubblica Sicurezza a livello provinciale?
+A) Il Prefetto
+B) Il Presidente della Regione
+C) I Presidenti delle Province
+D) Il Questore
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 10.1 (Tabella) → "Trentino-Alto Adige: Autorità = Presidenti delle Province - Norma = Art. 20 Statuto regionale"
+Spiegazione: In Trentino-Alto Adige l'autorità di P.S. sono i Presidenti delle Province autonome di Trento e Bolzano, NON il Presidente della Regione.
+</details>
+
+Domanda 94 🟡 Media
+In Valle d'Aosta, chi provvede al mantenimento dell'ordine pubblico?
+A) Il Prefetto
+B) Il Presidente della Regione
+C) Il Questore
+D) Il Ministro dell'Interno direttamente
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 10.1 (Tabella) → "Valle d'Aosta: Autorità = Presidente della Regione - Provvede al mantenimento dell'O.P. secondo le disposizioni del Governo, verso il quale è responsabile"
+Spiegazione: In Valle d'Aosta il Presidente della Regione provvede all'ordine pubblico secondo le disposizioni del Governo, di cui è responsabile.
+</details>
+
+Domanda 95 🔴 Avanzata
+In Sicilia, da chi dipende la polizia dello Stato per l'impiego e l'utilizzazione?
+A) Dal Ministro dell'Interno
+B) Dal Governo regionale
+C) Dal Prefetto di Palermo
+D) Dal Questore di Palermo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 10.1 (Tabella) → "Sicilia: la polizia dello Stato nella Regione dipende disciplinarmente, per l'impiego e l'utilizzazione, dal Governo regionale"
+Spiegazione: In Sicilia, secondo l'art. 31 dello Statuto, la polizia dello Stato dipende dal Governo regionale per l'impiego e l'utilizzazione, pur mantenendo la dipendenza disciplinare statale.
+</details>
+
+Domanda 96 🟡 Media
+La Sardegna ha funzioni autonome in materia di Pubblica Sicurezza?
+A) Sì, sempre
+B) No, mai
+C) Solo se delegate dal Governo
+D) Solo in caso di emergenza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 10.1 (Tabella) → "Sardegna: Regione (su delega) - Il Governo può delegare alla Regione le funzioni di tutela dell'O.P."
+Spiegazione: In Sardegna le funzioni di tutela dell'ordine pubblico possono essere esercitate dalla Regione solo se DELEGATE dal Governo, non sono automatiche.
+</details>
+
+Domanda 97 🔴 Avanzata
+Il Friuli-Venezia Giulia ha attribuzioni in materia di Pubblica Sicurezza?
+A) Sì, come tutte le Regioni a Statuto Speciale
+B) Sì, ma limitate
+C) No, NESSUNA attribuzione
+D) Solo per la polizia locale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 10.1 (Tabella) → "Friuli-Venezia Giulia: NESSUNA attribuzione - Nessuna attribuzione in ordine alla pubblica sicurezza"
+Spiegazione: Il Friuli-Venezia Giulia, pur essendo Regione a Statuto Speciale, NON ha alcuna attribuzione in materia di pubblica sicurezza.
+</details>
+
+Domanda 98 🟡 Media
+Chi è Autorità di Pubblica Sicurezza negli edifici universitari?
+A) Il Prefetto
+B) Il Questore
+C) Il Rettore
+D) Il Sindaco
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 10.2 (Tabella) → "Rettore: Ambito = Negli edifici universitari - Norma = Art. 166 R.D. 31 agosto 1933, n. 1592"
+Spiegazione: Negli edifici universitari, il Rettore è autorità di P.S. ai sensi dell'art. 166 R.D. 1592/1933.
+</details>
+
+Domanda 99 🟢 Base
+Quale norma attribuisce al Rettore la funzione di Autorità di P.S. negli edifici universitari?
+A) L. 121/1981
+B) Art. 166 R.D. 31 agosto 1933, n. 1592
+C) D.P.R. 782/1985
+D) L. 128/2001
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 10.2 (Tabella) → "Norma: Art. 166 R.D. 31 agosto 1933, n. 1592"
+Spiegazione: La funzione di autorità di P.S. del Rettore negli edifici universitari deriva dal R.D. 1592/1933, art. 166.
+</details>
+
+📚 SEZIONE 11 - SCHEMA RIEPILOGATIVO E TRABOCCHETTI INTEGRATIVI
+Domanda 100 🟢 Base
+Qual è il nome esteso della sigla P.S.?
+A) Polizia di Stato
+B) Pubblica Sicurezza
+C) Pronto Soccorso
+D) Personale di Sicurezza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario Acronimi → "P.S.: Pubblica Sicurezza"
+Spiegazione: P.S. sta per Pubblica Sicurezza, da non confondere con Polizia di Stato.
+</details>
+
+Domanda 101 🟢 Base
+Qual è il nome esteso della sigla O.P.?
+A) Ordinanza Prefettizia
+B) Operazione di Polizia
+C) Ordine Pubblico
+D) Organizzazione Provinciale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Glossario Acronimi → "O.P.: Ordine Pubblico"
+Spiegazione: O.P. sta per Ordine Pubblico, concetto distinto ma collegato alla Sicurezza Pubblica (S.P.).
+</details>
+
+Domanda 102 🟡 Media
+Qual è il nome esteso della sigla C.N.O.S.P.?
+A) Comitato Nazionale per l'Ordine e la Sicurezza Pubblica
+B) Centro Nazionale Operazioni di Sicurezza Pubblica
+C) Comitato Nazionale Organizzazione Servizi di Polizia
+D) Commissione Nazionale Ordine e Sicurezza Provinciale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: A
+Fonte KB: Glossario Acronimi → "C.N.O.S.P.: Comitato Nazionale per l'Ordine e la Sicurezza Pubblica - Presidente: Ministro dell'Interno"
+Spiegazione: Il C.N.O.S.P. è l'organo collegiale a livello nazionale, presieduto dal Ministro dell'Interno.
+</details>
+
+Domanda 103 🟡 Media
+Chi presiede il C.N.O.S.P. (Comitato Nazionale per l'Ordine e la Sicurezza Pubblica)?
+A) Il Presidente della Repubblica
+B) Il Presidente del Consiglio dei Ministri
+C) Il Ministro dell'Interno
+D) Il Capo della Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Glossario Acronimi (Tabella Organi Collegiali) → "C.N.O.S.P.: Presidente = Ministro dell'Interno"
+Spiegazione: Il C.N.O.S.P. è presieduto dal Ministro dell'Interno, così come il C.P.O.S.P. è presieduto dal Prefetto.
+</details>
+
+Domanda 104 🟢 Base
+Cosa significa la sigla TULPS?
+A) Testo Unico Leggi di Pubblica Sicurezza
+B) Testo Ufficiale Legislazione Provinciale Sicurezza
+C) Tabella Unificata Leggi Polizia e Sicurezza
+D) Testo Unico Legislativo Protezione Sicurezza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: A
+Fonte KB: Glossario Acronimi → "TULPS: Testo Unico Leggi Pubblica Sicurezza (R.D. 773/1931)"
+Spiegazione: TULPS indica il Testo Unico delle Leggi di Pubblica Sicurezza, approvato con R.D. 773/1931.
+</details>
+
+Domanda 105 🔴 Avanzata
+Secondo lo Schema Riepilogativo, l'Arma dei Carabinieri è definita come:
+A) Forza di polizia a competenza generale
+B) Forza armata in servizio permanente di pubblica sicurezza
+C) Corpo di polizia ad ordinamento civile
+D) Forza ausiliaria di pubblica sicurezza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 11.1 (Schema) → "ARMA DEI CARABINIERI: quale forza armata in servizio permanente di pubblica sicurezza"
+Spiegazione: L'Arma dei Carabinieri è qualificata come "forza armata in servizio permanente di pubblica sicurezza".
+</details>
+
+Domanda 106 🟡 Media
+Secondo lo Schema Riepilogativo, la Guardia di Finanza concorre al mantenimento di:
+A) Solo della sicurezza economico-finanziaria
+B) Dell'ordine e della sicurezza pubblica
+C) Solo della sicurezza dei confini
+D) Solo della sicurezza fiscale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 11.1 (Schema) → "CORPO DELLA GUARDIA DI FINANZA: per il concorso al mantenimento dell'ordine e della sicurezza pubblica"
+Spiegazione: La GdF concorre al mantenimento dell'ordine e della sicurezza pubblica, oltre alle sue funzioni primarie in materia economico-finanziaria.
+</details>
+
+Domanda 107 🟡 Media
+La Polizia Penitenziaria può essere chiamata a concorrere:
+A) Solo ai servizi di sicurezza negli istituti penitenziari
+B) Nell'espletamento dei servizi di ordine pubblico e sicurezza pubblica
+C) Solo ai servizi di traduzione dei detenuti
+D) Solo ai servizi di piantonamento ospedaliero
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 11.1 (Schema) → "POLIZIA PENITENZIARIA: può essere chiamata a concorrere nell'espletamento dei servizi di O.P. e S.P."
+Spiegazione: La Polizia Penitenziaria può essere chiamata a concorrere nei servizi di ordine pubblico e sicurezza pubblica, oltre ai suoi compiti istituzionali.
+</details>
+
+Domanda 108 🔴 Avanzata
+Quale delle seguenti affermazioni sulla differenza tra Prefetto e Questore è ERRATA?
+A) Il Prefetto ha responsabilità generale, il Questore tecnico-operativa
+B) Il Prefetto è nominato con D.P.R., il Questore con D.P.C.M.
+C) Il Prefetto emana ordinanze di servizio, il Questore direttive di coordinamento
+D) Il Prefetto presiede il C.P.O.S.P., il Questore vi partecipa come membro
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 6.2 (Tabella) → "PREFETTO: Atto tipico = Direttiva di coordinamento" / "QUESTORE: Atto tipico = Ordinanza di servizio"
+Spiegazione: L'affermazione C è ERRATA perché inverte gli atti tipici: il Prefetto emana DIRETTIVE di coordinamento, il Questore ORDINANZE di servizio.
+</details>
+
+Domanda 109 🔴 Avanzata
+Quale delle seguenti affermazioni sulle Regioni a Statuto Speciale è CORRETTA?
+A) Tutte hanno competenze in materia di P.S.
+B) In Trentino-Alto Adige l'autorità è il Presidente della Regione
+C) La Sardegna ha funzioni di P.S. solo se delegate dal Governo
+D) Il Friuli-Venezia Giulia ha competenze limitate in materia di P.S.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 10.1 (Tabella) → "Sardegna: Il Governo può delegare alla Regione le funzioni di tutela dell'O.P." / "Friuli-V.G.: NESSUNA attribuzione" / "Trentino A.A.: Presidenti delle Province"
+Spiegazione: Solo C è corretta. A è errata (il Friuli-V.G. non ha competenze); B è errata (in Trentino sono i Presidenti delle Province, non della Regione); D è errata (il Friuli-V.G. non ha NESSUNA attribuzione, non "limitate").
+</details>
+
+Domanda 110 🔴 Avanzata
+Quale delle seguenti affermazioni sul C.P.O.S.P. è ERRATA?
+A) È presieduto dal Prefetto
+B) È istituito presso la Prefettura
+C) I suoi pareri sono vincolanti e producono effetti esterni
+D) Ha 6 membri permanenti dopo la soppressione del CFS
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.9 → "mere dichiarazioni di giudizio inquadrabili nella fase preparatoria del procedimento ed inidonee a produrre effetti esterni"
+Spiegazione: L'affermazione C è ERRATA: i pareri del C.P.O.S.P. sono mere dichiarazioni di giudizio, NON vincolanti e NON producono effetti esterni.
+</details>
