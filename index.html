@@ -34,11 +34,31 @@
             --warning: #f59e0b;
             --border: rgba(255, 255, 255, 0.08);
             --shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
-            
+
             --safe-top: env(safe-area-inset-top, 0px);
             --safe-bottom: env(safe-area-inset-bottom, 0px);
             --safe-left: env(safe-area-inset-left, 0px);
             --safe-right: env(safe-area-inset-right, 0px);
+        }
+
+        /* Light Theme */
+        :root.light-theme {
+            --bg-primary: #f8fafc;
+            --bg-secondary: #ffffff;
+            --bg-card: #ffffff;
+            --bg-hover: #f1f5f9;
+            --accent-gold: #b8860b;
+            --accent-gold-dim: #9a7209;
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --text-muted: #94a3b8;
+            --success: #16a34a;
+            --success-bg: rgba(22, 163, 74, 0.1);
+            --error: #dc2626;
+            --error-bg: rgba(220, 38, 38, 0.1);
+            --warning: #ea580c;
+            --border: rgba(0, 0, 0, 0.1);
+            --shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
         }
 
         * {
@@ -73,11 +93,17 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: 
+            background:
                 radial-gradient(ellipse at 20% 20%, rgba(212, 168, 83, 0.03) 0%, transparent 50%),
                 radial-gradient(ellipse at 80% 80%, rgba(212, 168, 83, 0.02) 0%, transparent 50%);
             pointer-events: none;
             z-index: 0;
+        }
+
+        :root.light-theme body::before {
+            background:
+                radial-gradient(ellipse at 20% 20%, rgba(184, 134, 11, 0.05) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, rgba(184, 134, 11, 0.03) 0%, transparent 50%);
         }
 
         .container {
@@ -742,6 +768,149 @@
             color: var(--text-primary);
         }
 
+        /* Theme Toggle & Settings */
+        .header-actions {
+            display: flex;
+            gap: 0.5rem;
+            justify-content: center;
+            margin-top: 0.75rem;
+        }
+
+        .icon-btn {
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.15s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+            -webkit-touch-callout: none;
+            user-select: none;
+        }
+
+        .icon-btn:active {
+            background: var(--bg-hover);
+            transform: scale(0.95);
+        }
+
+        .icon-btn:hover {
+            color: var(--accent-gold);
+            border-color: var(--accent-gold);
+        }
+
+        /* Modal */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+        }
+
+        .modal-overlay.active {
+            display: flex;
+        }
+
+        .modal {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 1.5rem;
+            max-width: 400px;
+            width: 100%;
+            box-shadow: var(--shadow);
+            animation: modalSlideIn 0.3s ease;
+        }
+
+        @keyframes modalSlideIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .modal-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            color: var(--accent-gold);
+            margin-bottom: 0.75rem;
+        }
+
+        .modal-content {
+            color: var(--text-secondary);
+            margin-bottom: 1.25rem;
+            line-height: 1.5;
+        }
+
+        .modal-actions {
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .modal-actions .btn {
+            flex: 1;
+        }
+
+        /* Stats */
+        .stat-bar-container {
+            margin-bottom: 1rem;
+        }
+
+        .stat-bar-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.4rem;
+            font-size: 0.9rem;
+        }
+
+        .stat-bar-label {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        .stat-bar-value {
+            color: var(--text-secondary);
+        }
+
+        .stat-bar-track {
+            height: 24px;
+            background: var(--bg-secondary);
+            border-radius: 6px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .stat-bar-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--accent-gold-dim), var(--accent-gold));
+            border-radius: 6px;
+            transition: width 0.5s ease;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            padding-right: 0.5rem;
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: var(--bg-primary);
+        }
+
+        .stat-bar-fill.success-bar {
+            background: linear-gradient(90deg, #16a34a, var(--success));
+        }
+
+        .stat-bar-fill.error-bar {
+            background: linear-gradient(90deg, #dc2626, var(--error));
+        }
+
         /* Responsive */
         @media (min-width: 640px) {
             .container { padding: 2rem; }
@@ -769,6 +938,11 @@
         <header>
             <div class="logo">Quiz<span>Trainer</span></div>
             <p>8° Corso Applicativo Biennale</p>
+            <div class="header-actions">
+                <button class="icon-btn" id="stats-btn" title="Statistiche">📊</button>
+                <button class="icon-btn" id="theme-toggle" title="Cambia tema">🌙</button>
+                <button class="icon-btn" id="clear-data-btn" title="Cancella dati">🗑️</button>
+            </div>
         </header>
 
         <!-- Selection Screen -->
@@ -785,7 +959,7 @@
                 </div>
                 <div class="filter-group">
                     <div class="filter-title">Modalità</div>
-                    <div class="mode-options">
+                    <div class="mode-options" style="grid-template-columns: repeat(4, 1fr);">
                         <div class="mode-option selected" data-mode="sequential">
                             <h4>📖</h4>
                             <p>Ordine</p>
@@ -797,6 +971,10 @@
                         <div class="mode-option" data-mode="errors">
                             <h4>🔄</h4>
                             <p>Errori</p>
+                        </div>
+                        <div class="mode-option" data-mode="bookmarks">
+                            <h4>⭐</h4>
+                            <p>Salvati</p>
                         </div>
                     </div>
                 </div>
@@ -846,6 +1024,7 @@
 
             <div class="actions">
                 <button class="btn btn-secondary" id="btn-back">← Menu</button>
+                <button class="icon-btn" id="bookmark-btn" title="Segnalibro">☆</button>
                 <button class="btn btn-primary" id="btn-next" disabled>Avanti →</button>
             </div>
         </div>
@@ -879,9 +1058,69 @@
                 </div>
             </div>
         </div>
+
+        <!-- Stats Screen -->
+        <div id="stats-screen" class="screen">
+            <div class="quiz-header" style="margin-bottom: 1.5rem;">
+                <h2 class="quiz-title">📊 Statistiche & Progresso</h2>
+            </div>
+
+            <!-- Overview Cards -->
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.75rem; margin-bottom: 1.5rem;">
+                <div class="results-card" style="padding: 1rem;">
+                    <div style="font-size: 2rem; margin-bottom: 0.25rem;" id="total-questions-stat">0</div>
+                    <div class="result-stat-label">Domande totali</div>
+                </div>
+                <div class="results-card" style="padding: 1rem;">
+                    <div style="font-size: 2rem; margin-bottom: 0.25rem; color: var(--success);" id="bookmarks-stat">0</div>
+                    <div class="result-stat-label">Segnalibri</div>
+                </div>
+                <div class="results-card" style="padding: 1rem;">
+                    <div style="font-size: 2rem; margin-bottom: 0.25rem; color: var(--error);" id="errors-stat">0</div>
+                    <div class="result-stat-label">Errori da rivedere</div>
+                </div>
+            </div>
+
+            <!-- Stats by Category -->
+            <div class="results-card" style="margin-bottom: 1rem;">
+                <h3 class="modal-title" style="margin-bottom: 1rem;">Per Categoria</h3>
+                <div id="category-stats"></div>
+            </div>
+
+            <!-- Stats by Difficulty -->
+            <div class="results-card" style="margin-bottom: 1rem;">
+                <h3 class="modal-title" style="margin-bottom: 1rem;">Per Difficoltà</h3>
+                <div id="difficulty-stats"></div>
+            </div>
+
+            <div class="results-actions">
+                <button class="btn btn-secondary" id="btn-stats-back">← Torna al Menu</button>
+            </div>
+        </div>
     </div>
 
     <div class="toast" id="toast"></div>
+
+    <!-- Clear Data Modal -->
+    <div class="modal-overlay" id="clear-data-modal">
+        <div class="modal">
+            <h3 class="modal-title">⚠️ Conferma Cancellazione</h3>
+            <div class="modal-content">
+                Sei sicuro di voler cancellare tutti i dati salvati? Questa azione cancellerà:
+                <ul style="margin-top: 0.5rem; padding-left: 1.5rem;">
+                    <li>Tutti i progressi</li>
+                    <li>Lo storico degli errori</li>
+                    <li>I segnalibri salvati</li>
+                    <li>Le statistiche</li>
+                </ul>
+                <p style="margin-top: 0.75rem; color: var(--error); font-weight: 600;">Questa azione non può essere annullata!</p>
+            </div>
+            <div class="modal-actions">
+                <button class="btn btn-secondary" id="cancel-clear">Annulla</button>
+                <button class="btn btn-primary" id="confirm-clear" style="background: var(--error);">Cancella Tutto</button>
+            </div>
+        </div>
+    </div>
 
     <script>
         // ============================================
@@ -940,8 +1179,239 @@
             mode: 'sequential',
             difficultyFilter: 'all',
             errors: {},
-            userAnswers: []
+            userAnswers: [],
+            bookmarks: new Set()  // Set of "bankId:questionNumber" strings
         };
+
+        // ============================================
+        // THEME MANAGEMENT
+        // ============================================
+
+        function initTheme() {
+            const savedTheme = localStorage.getItem('quizTrainer_theme') || 'dark';
+            applyTheme(savedTheme);
+        }
+
+        function applyTheme(theme) {
+            const root = document.documentElement;
+            const themeToggle = document.getElementById('theme-toggle');
+
+            if (theme === 'light') {
+                root.classList.add('light-theme');
+                if (themeToggle) themeToggle.textContent = '☀️';
+            } else {
+                root.classList.remove('light-theme');
+                if (themeToggle) themeToggle.textContent = '🌙';
+            }
+
+            localStorage.setItem('quizTrainer_theme', theme);
+        }
+
+        function toggleTheme() {
+            const root = document.documentElement;
+            const newTheme = root.classList.contains('light-theme') ? 'dark' : 'light';
+            applyTheme(newTheme);
+        }
+
+        // ============================================
+        // DATA MANAGEMENT
+        // ============================================
+
+        function clearAllData() {
+            localStorage.clear();
+            showToast('Tutti i dati sono stati cancellati', 'success');
+            setTimeout(() => location.reload(), 1500);
+        }
+
+        function showClearDataModal() {
+            document.getElementById('clear-data-modal').classList.add('active');
+        }
+
+        function hideClearDataModal() {
+            document.getElementById('clear-data-modal').classList.remove('active');
+        }
+
+        // ============================================
+        // BOOKMARKS
+        // ============================================
+
+        function saveBookmarks() {
+            try {
+                localStorage.setItem('quizTrainer_bookmarks', JSON.stringify(Array.from(state.bookmarks)));
+            } catch (e) {
+                console.error('Error saving bookmarks:', e);
+            }
+        }
+
+        function loadBookmarks() {
+            try {
+                const bookmarks = localStorage.getItem('quizTrainer_bookmarks');
+                if (bookmarks) {
+                    state.bookmarks = new Set(JSON.parse(bookmarks));
+                }
+            } catch (e) {
+                console.error('Error loading bookmarks:', e);
+            }
+        }
+
+        function toggleBookmark(bankId, questionNumber) {
+            const key = `${bankId}:${questionNumber}`;
+            if (state.bookmarks.has(key)) {
+                state.bookmarks.delete(key);
+                showToast('Rimosso dai segnalibri', 'success');
+            } else {
+                state.bookmarks.add(key);
+                showToast('Aggiunto ai segnalibri', 'success');
+            }
+            saveBookmarks();
+            updateBookmarkButton();
+        }
+
+        function isBookmarked(bankId, questionNumber) {
+            return state.bookmarks.has(`${bankId}:${questionNumber}`);
+        }
+
+        function updateBookmarkButton() {
+            const q = state.filteredQuestions[state.currentIndex];
+            if (!q || !state.currentBank) return;
+
+            const bookmarkBtn = document.getElementById('bookmark-btn');
+            if (bookmarkBtn) {
+                const isMarked = isBookmarked(state.currentBank.id, q.number);
+                bookmarkBtn.textContent = isMarked ? '⭐' : '☆';
+                bookmarkBtn.title = isMarked ? 'Rimuovi segnalibro' : 'Aggiungi segnalibro';
+            }
+        }
+
+        // ============================================
+        // STATISTICS
+        // ============================================
+
+        function calculateStats() {
+            const stats = {
+                totalQuestions: 0,
+                totalBookmarks: state.bookmarks.size,
+                totalErrors: 0,
+                byCategory: {},
+                byDifficulty: {
+                    base: { total: 0, errors: 0, bookmarks: 0 },
+                    media: { total: 0, errors: 0, bookmarks: 0 },
+                    avanzata: { total: 0, errors: 0, bookmarks: 0 }
+                }
+            };
+
+            // Calculate stats for each category
+            for (const [category, banks] of Object.entries(state.banks)) {
+                stats.byCategory[category] = {
+                    total: 0,
+                    loaded: 0,
+                    errors: 0,
+                    bookmarks: 0
+                };
+
+                for (const bank of banks) {
+                    if (bank.loaded) {
+                        stats.byCategory[category].loaded += bank.questions.length;
+                        stats.totalQuestions += bank.questions.length;
+
+                        // Count errors
+                        const bankErrors = state.errors[bank.id]?.size || 0;
+                        stats.byCategory[category].errors += bankErrors;
+                        stats.totalErrors += bankErrors;
+
+                        // Count bookmarks and difficulty
+                        for (const q of bank.questions) {
+                            if (isBookmarked(bank.id, q.number)) {
+                                stats.byCategory[category].bookmarks++;
+                            }
+
+                            // By difficulty
+                            stats.byDifficulty[q.difficulty].total++;
+                            if (state.errors[bank.id]?.has(q.number)) {
+                                stats.byDifficulty[q.difficulty].errors++;
+                            }
+                            if (isBookmarked(bank.id, q.number)) {
+                                stats.byDifficulty[q.difficulty].bookmarks++;
+                            }
+                        }
+                    }
+                    stats.byCategory[category].total += bank.questions?.length || 0;
+                }
+            }
+
+            return stats;
+        }
+
+        function renderStats() {
+            const stats = calculateStats();
+
+            // Update overview
+            document.getElementById('total-questions-stat').textContent = stats.totalQuestions;
+            document.getElementById('bookmarks-stat').textContent = stats.totalBookmarks;
+            document.getElementById('errors-stat').textContent = stats.totalErrors;
+
+            // Render category stats
+            let categoryHtml = '';
+            for (const [category, data] of Object.entries(stats.byCategory)) {
+                const percent = data.total > 0 ? Math.round((data.loaded / data.total) * 100) : 0;
+                const errorPercent = data.loaded > 0 ? Math.round((data.errors / data.loaded) * 100) : 0;
+
+                categoryHtml += `
+                    <div class="stat-bar-container">
+                        <div class="stat-bar-header">
+                            <span class="stat-bar-label">${category}</span>
+                            <span class="stat-bar-value">${data.loaded}/${data.total} domande</span>
+                        </div>
+                        <div class="stat-bar-track">
+                            <div class="stat-bar-fill" style="width: ${percent}%">
+                                ${percent > 15 ? percent + '%' : ''}
+                            </div>
+                        </div>
+                        <div style="display: flex; gap: 1rem; margin-top: 0.25rem; font-size: 0.75rem; color: var(--text-muted);">
+                            <span>❌ ${data.errors} errori (${errorPercent}%)</span>
+                            <span>⭐ ${data.bookmarks} salvati</span>
+                        </div>
+                    </div>
+                `;
+            }
+            document.getElementById('category-stats').innerHTML = categoryHtml || '<p style="color: var(--text-muted);">Nessuna categoria caricata</p>';
+
+            // Render difficulty stats
+            const difficultyLabels = {
+                base: '🟢 Base',
+                media: '🟡 Media',
+                avanzata: '🔴 Avanzata'
+            };
+
+            let difficultyHtml = '';
+            for (const [diff, data] of Object.entries(stats.byDifficulty)) {
+                if (data.total === 0) continue;
+
+                const successRate = data.total > 0 ? Math.round(((data.total - data.errors) / data.total) * 100) : 0;
+
+                difficultyHtml += `
+                    <div class="stat-bar-container">
+                        <div class="stat-bar-header">
+                            <span class="stat-bar-label">${difficultyLabels[diff]}</span>
+                            <span class="stat-bar-value">${data.total} domande</span>
+                        </div>
+                        <div class="stat-bar-track">
+                            <div class="stat-bar-fill success-bar" style="width: ${successRate}%">
+                                ${successRate > 15 ? successRate + '%' : ''}
+                            </div>
+                        </div>
+                        <div style="display: flex; gap: 1rem; margin-top: 0.25rem; font-size: 0.75rem; color: var(--text-muted);">
+                            <span>✅ ${data.total - data.errors} corrette</span>
+                            <span>❌ ${data.errors} errori</span>
+                            <span>⭐ ${data.bookmarks} salvati</span>
+                        </div>
+                    </div>
+                `;
+            }
+            document.getElementById('difficulty-stats').innerHTML = difficultyHtml || '<p style="color: var(--text-muted);">Nessuna statistica disponibile</p>';
+
+            showScreen('stats-screen');
+        }
 
         // ============================================
         // PARSER
@@ -1212,7 +1682,7 @@
                     <span class="option-text">${opt.text}</span>
                 </div>
             `).join('');
-            
+
             document.getElementById('explanation').style.display = 'none';
 
             document.querySelectorAll('.option').forEach(opt => {
@@ -1221,6 +1691,7 @@
 
             state.answered = false;
             document.getElementById('btn-next').disabled = true;
+            updateBookmarkButton();
         }
 
         function selectAnswer(letter) {
@@ -1329,6 +1800,14 @@
                 }
             }
 
+            if (state.mode === 'bookmarks') {
+                questions = questions.filter(q => isBookmarked(bank.id, q.number));
+                if (questions.length === 0) {
+                    showToast('Nessuna domanda salvata in questa banca dati!', 'success');
+                    return;
+                }
+            }
+
             if (state.mode === 'random') {
                 for (let i = questions.length - 1; i > 0; i--) {
                     const j = Math.floor(Math.random() * (i + 1));
@@ -1367,8 +1846,41 @@
         // ============================================
         
         document.addEventListener('DOMContentLoaded', () => {
+            // Initialize theme and data
+            initTheme();
             loadErrors();
+            loadBookmarks();
             initializeBanks();
+
+            // Stats button
+            document.getElementById('stats-btn').addEventListener('click', renderStats);
+            document.getElementById('btn-stats-back').addEventListener('click', () => {
+                showScreen('selection-screen');
+            });
+
+            // Theme toggle
+            document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+
+            // Clear data modal
+            document.getElementById('clear-data-btn').addEventListener('click', showClearDataModal);
+            document.getElementById('cancel-clear').addEventListener('click', hideClearDataModal);
+            document.getElementById('confirm-clear').addEventListener('click', () => {
+                hideClearDataModal();
+                clearAllData();
+            });
+            document.getElementById('clear-data-modal').addEventListener('click', (e) => {
+                if (e.target.classList.contains('modal-overlay')) {
+                    hideClearDataModal();
+                }
+            });
+
+            // Bookmark button
+            document.getElementById('bookmark-btn').addEventListener('click', () => {
+                const q = state.filteredQuestions[state.currentIndex];
+                if (q && state.currentBank) {
+                    toggleBookmark(state.currentBank.id, q.number);
+                }
+            });
 
             // Mode selection
             document.querySelectorAll('.mode-option').forEach(opt => {
