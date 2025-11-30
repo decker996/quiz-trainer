@@ -268,6 +268,27 @@
             gap: 0.25rem;
         }
 
+        .bank-progress {
+            margin-top: 0.5rem;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+        }
+
+        .bank-progress-bar {
+            height: 4px;
+            background: var(--bg-card);
+            border-radius: 2px;
+            overflow: hidden;
+            margin-top: 0.3rem;
+        }
+
+        .bank-progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--accent-gold-dim), var(--accent-gold));
+            border-radius: 2px;
+            transition: width 0.3s ease;
+        }
+
         .bank-card.loading {
             opacity: 0.6;
             pointer-events: none;
@@ -323,6 +344,7 @@
 
         .stat.correct .stat-value { color: var(--success); }
         .stat.wrong .stat-value { color: var(--error); }
+        .stat.timer .stat-value { color: var(--accent-gold); }
 
         .progress-container {
             margin-bottom: 1.25rem;
@@ -970,6 +992,104 @@
             font-size: 0.95rem;
         }
 
+        /* Search */
+        .search-container {
+            margin-bottom: 1.5rem;
+            position: relative;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 0.75rem 1rem 0.75rem 2.5rem;
+            background: var(--bg-card);
+            border: 2px solid var(--border);
+            border-radius: 10px;
+            color: var(--text-primary);
+            font-size: 0.95rem;
+            font-family: 'DM Sans', sans-serif;
+            transition: all 0.2s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--accent-gold);
+            background: var(--bg-secondary);
+        }
+
+        .search-input::placeholder {
+            color: var(--text-muted);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 0.75rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            pointer-events: none;
+        }
+
+        .search-results {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            margin-top: 0.5rem;
+            max-height: 400px;
+            overflow-y: auto;
+            z-index: 100;
+            box-shadow: var(--shadow);
+        }
+
+        .search-results.active {
+            display: block;
+        }
+
+        .search-result-item {
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid var(--border);
+            cursor: pointer;
+            transition: background 0.15s ease;
+        }
+
+        .search-result-item:last-child {
+            border-bottom: none;
+        }
+
+        .search-result-item:hover {
+            background: var(--bg-hover);
+        }
+
+        .search-result-question {
+            color: var(--text-primary);
+            font-size: 0.9rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .search-result-meta {
+            display: flex;
+            gap: 0.5rem;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        .search-highlight {
+            background: rgba(212, 168, 83, 0.3);
+            color: var(--accent-gold);
+            padding: 0 0.2rem;
+            border-radius: 2px;
+        }
+
+        .search-no-results {
+            padding: 2rem 1rem;
+            text-align: center;
+            color: var(--text-muted);
+        }
+
         /* Responsive */
         @media (min-width: 640px) {
             .container { padding: 2rem; }
@@ -1028,6 +1148,7 @@
                                 <ul>
                                     <li><strong>📖 Ordine:</strong> Domande in sequenza</li>
                                     <li><strong>🎲 Casuale:</strong> Ordine randomizzato</li>
+                                    <li><strong>⏱️ Esame:</strong> Simulazione con timer</li>
                                     <li><strong>🔄 Errori:</strong> Solo domande sbagliate</li>
                                     <li><strong>🧠 Ripasso:</strong> Ripasso intelligente programmato</li>
                                     <li><strong>⭐ Salvati:</strong> Solo domande con segnalibro</li>
@@ -1073,6 +1194,19 @@
                 </div>
             </div>
 
+            <!-- Search Bar -->
+            <div class="search-container">
+                <span class="search-icon">🔍</span>
+                <input
+                    type="text"
+                    class="search-input"
+                    id="search-input"
+                    placeholder="Cerca domande per parola chiave..."
+                    autocomplete="off"
+                >
+                <div class="search-results" id="search-results"></div>
+            </div>
+
             <div class="filters-row">
                 <div class="filter-group">
                     <div class="filter-title">Difficoltà</div>
@@ -1085,7 +1219,7 @@
                 </div>
                 <div class="filter-group">
                     <div class="filter-title">Modalità</div>
-                    <div class="mode-options" style="grid-template-columns: repeat(2, 1fr); gap: 0.4rem;">
+                    <div class="mode-options" style="grid-template-columns: repeat(3, 1fr); gap: 0.4rem;">
                         <div class="mode-option selected" data-mode="sequential">
                             <h4>📖</h4>
                             <p>Ordine</p>
@@ -1093,6 +1227,10 @@
                         <div class="mode-option" data-mode="random">
                             <h4>🎲</h4>
                             <p>Casuale</p>
+                        </div>
+                        <div class="mode-option" data-mode="exam">
+                            <h4>⏱️</h4>
+                            <p>Esame</p>
                         </div>
                         <div class="mode-option" data-mode="errors">
                             <h4>🔄</h4>
@@ -1124,11 +1262,15 @@
             <div class="quiz-header">
                 <h2 class="quiz-title" id="quiz-title"></h2>
                 <div class="quiz-stats">
-                    <div class="stat correct">
+                    <div class="stat timer" id="timer-stat" style="display: none;">
+                        <span class="stat-value" id="timer-display">00:00</span>
+                        <span class="stat-label">Tempo</span>
+                    </div>
+                    <div class="stat correct" id="correct-stat">
                         <span class="stat-value" id="correct-count">0</span>
                         <span class="stat-label">Corrette</span>
                     </div>
-                    <div class="stat wrong">
+                    <div class="stat wrong" id="wrong-stat">
                         <span class="stat-value" id="wrong-count">0</span>
                         <span class="stat-label">Errori</span>
                     </div>
@@ -1273,7 +1415,12 @@
             userAnswers: [],
             bookmarks: new Set(),  // Set of "bankId:questionNumber" strings
             sessions: [],  // Array of {date, bankId, bankName, mode, correct, wrong, total, percentage}
-            reviews: {}  // Map of "bankId:questionNumber" -> {streak, lastReview, nextReview}
+            reviews: {},  // Map of "bankId:questionNumber" -> {streak, lastReview, nextReview}
+            examMode: false,
+            examStartTime: null,
+            examElapsedSeconds: 0,
+            examTimerInterval: null,
+            examAnswers: []  // Array of {questionIndex, selectedAnswer, isCorrect}
         };
 
         // ============================================
@@ -1304,6 +1451,52 @@
             const root = document.documentElement;
             const newTheme = root.classList.contains('light-theme') ? 'dark' : 'light';
             applyTheme(newTheme);
+        }
+
+        // ============================================
+        // EXAM MODE TIMER
+        // ============================================
+
+        function startExamTimer() {
+            state.examStartTime = Date.now();
+            state.examElapsedSeconds = 0;
+
+            // Show timer and hide score counts in exam mode
+            document.getElementById('timer-stat').style.display = 'flex';
+            document.getElementById('correct-stat').style.display = 'none';
+            document.getElementById('wrong-stat').style.display = 'none';
+
+            state.examTimerInterval = setInterval(() => {
+                state.examElapsedSeconds = Math.floor((Date.now() - state.examStartTime) / 1000);
+                updateTimerDisplay();
+            }, 1000);
+        }
+
+        function stopExamTimer() {
+            if (state.examTimerInterval) {
+                clearInterval(state.examTimerInterval);
+                state.examTimerInterval = null;
+            }
+        }
+
+        function updateTimerDisplay() {
+            const minutes = Math.floor(state.examElapsedSeconds / 60);
+            const seconds = state.examElapsedSeconds % 60;
+            const display = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+            document.getElementById('timer-display').textContent = display;
+        }
+
+        function resetExamMode() {
+            state.examMode = false;
+            state.examStartTime = null;
+            state.examElapsedSeconds = 0;
+            state.examAnswers = [];
+            stopExamTimer();
+
+            // Restore normal stats display
+            document.getElementById('timer-stat').style.display = 'none';
+            document.getElementById('correct-stat').style.display = 'flex';
+            document.getElementById('wrong-stat').style.display = 'flex';
         }
 
         // ============================================
@@ -1374,6 +1567,176 @@
                 bookmarkBtn.textContent = isMarked ? '⭐' : '☆';
                 bookmarkBtn.title = isMarked ? 'Rimuovi segnalibro' : 'Aggiungi segnalibro';
             }
+        }
+
+        // ============================================
+        // PROGRESS TRACKING
+        // ============================================
+
+        function getBankProgress(bankId, totalQuestions) {
+            if (!bankId || totalQuestions === 0) return { answered: 0, total: 0, percentage: 0 };
+
+            let answeredCount = 0;
+
+            // Count questions that have been reviewed (answered at least once)
+            for (const key in state.reviews) {
+                if (key.startsWith(bankId + ':')) {
+                    answeredCount++;
+                }
+            }
+
+            return {
+                answered: answeredCount,
+                total: totalQuestions,
+                percentage: Math.round((answeredCount / totalQuestions) * 100)
+            };
+        }
+
+        // ============================================
+        // SEARCH
+        // ============================================
+
+        let searchTimeout = null;
+
+        function searchQuestions(query) {
+            if (!query || query.length < 2) {
+                document.getElementById('search-results').classList.remove('active');
+                return;
+            }
+
+            const results = [];
+            const queryLower = query.toLowerCase();
+
+            for (const [category, banks] of Object.entries(state.banks)) {
+                for (const bank of banks) {
+                    if (!bank.loaded || !bank.questions) continue;
+
+                    for (const q of bank.questions) {
+                        // Search in question text
+                        const textMatch = q.text.toLowerCase().includes(queryLower);
+
+                        // Search in options
+                        const optionMatch = q.options.some(opt =>
+                            opt.text.toLowerCase().includes(queryLower)
+                        );
+
+                        if (textMatch || optionMatch) {
+                            results.push({
+                                question: q,
+                                bank: bank,
+                                category: category,
+                                matchText: textMatch ? q.text : q.options.find(opt =>
+                                    opt.text.toLowerCase().includes(queryLower)
+                                ).text
+                            });
+                        }
+
+                        if (results.length >= 20) break; // Limit results
+                    }
+                    if (results.length >= 20) break;
+                }
+                if (results.length >= 20) break;
+            }
+
+            renderSearchResults(results, query);
+        }
+
+        function highlightText(text, query) {
+            if (!query) return text;
+            const regex = new RegExp(`(${query})`, 'gi');
+            return text.replace(regex, '<span class="search-highlight">$1</span>');
+        }
+
+        function renderSearchResults(results, query) {
+            const container = document.getElementById('search-results');
+
+            if (results.length === 0) {
+                container.innerHTML = '<div class="search-no-results">Nessuna domanda trovata</div>';
+                container.classList.add('active');
+                return;
+            }
+
+            const html = results.map(result => {
+                const preview = result.matchText.substring(0, 100) + (result.matchText.length > 100 ? '...' : '');
+                return `
+                    <div class="search-result-item" data-bank-id="${result.bank.id}" data-question-num="${result.question.number}">
+                        <div class="search-result-question">${highlightText(preview, query)}</div>
+                        <div class="search-result-meta">
+                            <span>${result.category}</span>
+                            <span>•</span>
+                            <span>${result.bank.name}</span>
+                            <span>•</span>
+                            <span>Domanda ${result.question.number}</span>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            container.innerHTML = html;
+            container.classList.add('active');
+
+            // Add click handlers
+            container.querySelectorAll('.search-result-item').forEach(item => {
+                item.addEventListener('click', () => {
+                    const bankId = item.dataset.bankId;
+                    const questionNum = parseInt(item.dataset.questionNum);
+                    openQuestionFromSearch(bankId, questionNum);
+                });
+            });
+        }
+
+        async function openQuestionFromSearch(bankId, questionNum) {
+            // Find the bank
+            let targetBank = null;
+            let category = null;
+
+            for (const [cat, banks] of Object.entries(state.banks)) {
+                const bank = banks.find(b => b.id === bankId);
+                if (bank) {
+                    targetBank = bank;
+                    category = cat;
+                    break;
+                }
+            }
+
+            if (!targetBank) return;
+
+            // Load bank if not loaded
+            if (!targetBank.loaded) {
+                const bankIndex = state.banks[category].indexOf(targetBank);
+                await loadBankOnDemand(category, bankIndex);
+            }
+
+            // Close search
+            document.getElementById('search-input').value = '';
+            document.getElementById('search-results').classList.remove('active');
+
+            // Start quiz at specific question
+            state.mode = 'sequential'; // Force sequential mode
+            state.difficultyFilter = 'all'; // Show all difficulties
+
+            const questions = [...targetBank.questions];
+            const questionIndex = questions.findIndex(q => q.number === questionNum);
+
+            if (questionIndex === -1) {
+                showToast('Domanda non trovata', 'error');
+                return;
+            }
+
+            state.currentBank = targetBank;
+            state.filteredQuestions = questions;
+            state.currentIndex = questionIndex;
+            state.correctCount = 0;
+            state.wrongCount = 0;
+            state.userAnswers = [];
+
+            document.getElementById('quiz-title').textContent = targetBank.name;
+            document.getElementById('btn-next').textContent = 'Avanti →';
+
+            showScreen('quiz-screen');
+            renderQuestion();
+
+            showToast(`Domanda ${questionNum} - ${targetBank.name}`, 'success');
         }
 
         // ============================================
@@ -1680,7 +2043,11 @@
                                     const errorCount = state.errors[bank.id]?.size || 0;
                                     const statusClass = bank.loading ? 'loading' : (bank.error ? 'error' : '');
                                     const questionCount = bank.loaded ? bank.questions.length : '...';
-                                    
+
+                                    // Calculate progress
+                                    const progress = bank.loaded ? getBankProgress(bank.id, bank.questions.length) : { answered: 0, total: 0, percentage: 0 };
+                                    const showProgress = bank.loaded && progress.answered > 0;
+
                                     return `
                                         <div class="bank-card ${statusClass}" data-category="${category}" data-index="${idx}">
                                             <h4>${bank.name}</h4>
@@ -1690,6 +2057,14 @@
                                                 ${bank.loading ? '<span>⏳</span>' : ''}
                                                 ${bank.error ? '<span style="color: var(--error);">⚠️ Errore</span>' : ''}
                                             </div>
+                                            ${showProgress ? `
+                                                <div class="bank-progress">
+                                                    ✓ ${progress.answered}/${progress.total} completate (${progress.percentage}%)
+                                                    <div class="bank-progress-bar">
+                                                        <div class="bank-progress-fill" style="width: ${progress.percentage}%"></div>
+                                                    </div>
+                                                </div>
+                                            ` : ''}
                                         </div>
                                     `;
                                 }).join('')}
@@ -1769,6 +2144,33 @@
             const q = state.filteredQuestions[state.currentIndex];
             const isCorrect = letter === q.correctAnswer;
 
+            // Handle exam mode differently
+            if (state.examMode) {
+                // In exam mode: just record the answer and mark selection
+                state.examAnswers.push({
+                    questionIndex: state.currentIndex,
+                    selectedAnswer: letter,
+                    isCorrect: isCorrect
+                });
+
+                // Only show which option was selected, not if it's correct
+                document.querySelectorAll('.option').forEach(opt => {
+                    if (opt.dataset.letter === letter) {
+                        opt.classList.add('selected');
+                    }
+                });
+
+                // Enable next button
+                document.getElementById('btn-next').disabled = false;
+
+                if (state.currentIndex === state.filteredQuestions.length - 1) {
+                    document.getElementById('btn-next').textContent = 'Termina Esame →';
+                }
+
+                return; // Don't show explanation in exam mode
+            }
+
+            // Normal mode: show immediate feedback
             if (isCorrect) {
                 state.correctCount++;
                 if (state.errors[state.currentBank.id]) {
@@ -1819,10 +2221,45 @@
         }
 
         function showResults() {
-            const total = state.filteredQuestions.length;
-            const correct = state.correctCount;
-            const wrong = state.wrongCount;
-            const percent = Math.round((correct / total) * 100);
+            let total, correct, wrong, percent;
+
+            // Handle exam mode results
+            if (state.examMode) {
+                stopExamTimer();
+
+                // Calculate results from exam answers
+                total = state.examAnswers.length;
+                correct = state.examAnswers.filter(a => a.isCorrect).length;
+                wrong = total - correct;
+                percent = Math.round((correct / total) * 100);
+
+                // Update error tracking and reviews based on exam results
+                state.examAnswers.forEach(answer => {
+                    const q = state.filteredQuestions[answer.questionIndex];
+
+                    if (answer.isCorrect) {
+                        if (state.errors[state.currentBank.id]) {
+                            state.errors[state.currentBank.id].delete(q.number);
+                        }
+                    } else {
+                        if (!state.errors[state.currentBank.id]) {
+                            state.errors[state.currentBank.id] = new Set();
+                        }
+                        state.errors[state.currentBank.id].add(q.number);
+                    }
+
+                    // Update spaced repetition
+                    updateReview(state.currentBank.id, q.number, answer.isCorrect);
+                });
+
+                saveErrors();
+            } else {
+                // Normal mode results
+                total = state.filteredQuestions.length;
+                correct = state.correctCount;
+                wrong = state.wrongCount;
+                percent = Math.round((correct / total) * 100);
+            }
 
             // Record session
             recordSession(correct, wrong, total);
@@ -1836,6 +2273,13 @@
                 icon = '📚'; title = 'Da rivedere'; subtitle = 'Rileggi e riprova'; iconClass = 'needs-work';
             }
 
+            // Add exam time to subtitle if in exam mode
+            if (state.examMode) {
+                const minutes = Math.floor(state.examElapsedSeconds / 60);
+                const seconds = state.examElapsedSeconds % 60;
+                subtitle += ` • Tempo: ${minutes}m ${seconds}s`;
+            }
+
             document.getElementById('results-icon').textContent = icon;
             document.getElementById('results-icon').className = `results-icon ${iconClass}`;
             document.getElementById('results-title').textContent = title;
@@ -1844,6 +2288,11 @@
             document.getElementById('final-wrong').textContent = wrong;
             document.getElementById('final-percent').textContent = `${percent}%`;
             document.getElementById('btn-review').style.display = wrong > 0 ? 'inline-flex' : 'none';
+
+            // Reset exam mode
+            if (state.examMode) {
+                resetExamMode();
+            }
 
             showScreen('results-screen');
         }
@@ -1891,7 +2340,8 @@
                 }
             }
 
-            if (state.mode === 'random') {
+            // Exam mode: always randomize questions
+            if (state.mode === 'exam' || state.mode === 'random') {
                 for (let i = questions.length - 1; i > 0; i--) {
                     const j = Math.floor(Math.random() * (i + 1));
                     [questions[i], questions[j]] = [questions[j], questions[i]];
@@ -1899,6 +2349,16 @@
             }
 
             state.filteredQuestions = questions;
+
+            // Initialize exam mode if selected
+            if (state.mode === 'exam') {
+                state.examMode = true;
+                state.examAnswers = [];
+                startExamTimer();
+            } else {
+                // Ensure exam mode is off for other modes
+                resetExamMode();
+            }
 
             document.getElementById('quiz-title').textContent = bank.name;
             document.getElementById('btn-next').textContent = 'Avanti →';
@@ -1961,6 +2421,23 @@
                 }
             });
 
+            // Search functionality
+            const searchInput = document.getElementById('search-input');
+            searchInput.addEventListener('input', (e) => {
+                clearTimeout(searchTimeout);
+                searchTimeout = setTimeout(() => {
+                    searchQuestions(e.target.value.trim());
+                }, 300);
+            });
+
+            // Close search results when clicking outside
+            document.addEventListener('click', (e) => {
+                const searchContainer = document.querySelector('.search-container');
+                if (searchContainer && !searchContainer.contains(e.target)) {
+                    document.getElementById('search-results').classList.remove('active');
+                }
+            });
+
             // Mode selection
             document.querySelectorAll('.mode-option').forEach(opt => {
                 opt.addEventListener('click', () => {
@@ -1981,6 +2458,9 @@
 
             // Navigation
             document.getElementById('btn-back').addEventListener('click', () => {
+                if (state.examMode) {
+                    resetExamMode();
+                }
                 showScreen('selection-screen');
                 renderCategories();
             });
