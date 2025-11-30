@@ -1,0 +1,1380 @@
+BANCA DATI DEL QUIZ "Polizia di prossimità - PARTE II"
+
+❓ DOMANDE
+📚 SEZIONE 1 - ELENCO DELLE INIZIATIVE DI PROSSIMITÀ
+Domanda 1 🟢 Base
+Quante sono complessivamente le "Altre iniziative di prossimità" elencate nella documentazione ufficiale?
+A) 6
+B) 8
+C) 10
+D) 12
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.2 (Tabella) → "Le iniziative sono 8 (NON 6, NON 10)"
+Spiegazione: Le iniziative di prossimità sono esattamente 8, come indicato nell'elenco completo che va dalla Denuncia vi@ web fino alla Sicurezza secondaria.
+</details>
+
+Domanda 2 🟢 Base
+Qual è la funzione principale delle "Altre iniziative di prossimità"?
+A) Sostituire il servizio del Carabiniere di Quartiere
+B) Rafforzare il rapporto con la comunità in modo complementare al Carabiniere di Quartiere
+C) Gestire esclusivamente le emergenze territoriali
+D) Coordinare le attività investigative tra Reparti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.1 → "costituiscono un insieme di attività complementari al servizio del Carabiniere di Quartiere, volte a rafforzare il rapporto con la comunità"
+Spiegazione: Le iniziative sono complementari (non sostitutive) al Carabiniere di Quartiere e mirano a rafforzare il legame con la comunità.
+</details>
+
+Domanda 3 🟡 Media
+Quale delle seguenti NON è una delle 8 iniziative di prossimità elencate?
+A) Denuncia vi@ web
+B) Prossimità dopo il reato
+C) Pattugliamento dinamico notturno
+D) Educazione alla legalità
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.2 (Tabella completa) → elenca: Denuncia vi@ web, Prossimità dopo il reato, Comunicazione istituzionale, Collaborazione Polizie Municipali, Videosorveglianza, Tutela vittime vulnerabili, Educazione legalità, Sicurezza secondaria
+Spiegazione: Il "Pattugliamento dinamico notturno" non compare nell'elenco delle 8 iniziative di prossimità.
+</details>
+
+Domanda 4 🟡 Media
+La "Collaborazione con Polizie Municipali e locali" rientra tra le iniziative di prossimità con quale finalità?
+A) Gestione delle emergenze sanitarie
+B) Sinergie operative territoriali
+C) Formazione congiunta del personale
+D) Coordinamento delle indagini penali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.2 (Tabella) → "Collaborazione con Polizie Municipali e locali: Sinergie operative territoriali"
+Spiegazione: La collaborazione è finalizzata a creare sinergie operative sul territorio, non ad altri scopi.
+</details>
+
+Domanda 5 🔴 Avanzata
+Quale delle seguenti affermazioni sull'elenco delle iniziative di prossimità è CORRETTA?
+A) I sistemi di videosorveglianza urbana non rientrano tra le iniziative di prossimità
+B) La sicurezza secondaria è l'ottava iniziativa dell'elenco
+C) L'educazione alla legalità riguarda solo interventi nelle scuole
+D) La collaborazione a tutela vittime vulnerabili esclude le associazioni
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.2 (Tabella) → iniziativa n. 8: "Sicurezza secondaria - Misure complementari di sicurezza"
+Spiegazione: La sicurezza secondaria è effettivamente l'ottava e ultima iniziativa elencata. La videosorveglianza è inclusa (n. 5), l'educazione alla legalità riguarda "scuole e comunità", e la tutela vittime include le associazioni.
+</details>
+
+📚 SEZIONE 2 - DENUNCIA VI@ WEB
+Domanda 6 🟢 Base
+In quale data è stato avviato il servizio "Denuncia vi@ web"?
+A) 15 marzo 2005
+B) 15 marzo 2006
+C) 15 marzo 2007
+D) 15 giugno 2006
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.1 (Tabella) → "Data avvio: 15 marzo 2006"
+Spiegazione: Il servizio è stato avviato il 15 marzo 2006, non nel 2005 né nel 2007.
+</details>
+
+Domanda 7 🟢 Base
+Con quale altra Forza di Polizia è stata stipulata l'intesa per la Denuncia vi@ web?
+A) Guardia di Finanza
+B) Polizia di Stato
+C) Polizia Penitenziaria
+D) Polizia Locale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.1 (Tabella) → "Intesa con: Polizia di Stato"
+Spiegazione: L'intesa per il servizio Denuncia vi@ web è stata stipulata esclusivamente con la Polizia di Stato.
+</details>
+
+Domanda 8 🟢 Base
+Qual è la copertura territoriale del servizio Denuncia vi@ web?
+A) Solo le grandi città
+B) Solo il Nord Italia
+C) Tutto il territorio nazionale
+D) Solo i capoluoghi di provincia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.1 (Tabella) → "Copertura: Tutto il territorio nazionale"
+Spiegazione: Il servizio copre l'intero territorio nazionale senza limitazioni geografiche.
+</details>
+
+Domanda 9 🟡 Media
+Per quali tipologie di reato è specificamente dedicato il servizio Denuncia vi@ web?
+A) Tutti i reati contro il patrimonio
+B) Furto e smarrimento ad opera di ignoti
+C) Reati contro la persona e il patrimonio
+D) Solo i furti in abitazione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.4 → "Il servizio è specificamente dedicato a: Furto ad opera di ignoti, Smarrimento"
+Spiegazione: La Denuncia vi@ web è limitata SOLO a furto e smarrimento ad opera di IGNOTI, non a tutti i reati.
+</details>
+
+Domanda 10 🟡 Media
+Quanti sono i vantaggi per il cittadino derivanti dal servizio Denuncia vi@ web?
+A) 1
+B) 2
+C) 3
+D) 4
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.2 (Tabella) → elenca 2 vantaggi: "Miglioramento delle procedure" e "Diminuzione dei tempi di attesa"
+Spiegazione: I vantaggi per il cittadino sono esattamente 2, come indicato nella tabella dedicata.
+</details>
+
+Domanda 11 🟡 Media
+Quale dei seguenti NON è un vantaggio per il personale dell'Arma derivante dalla Denuncia vi@ web?
+A) Atto già in formato elettronico
+B) Aggiornamento diretto dello SDI
+C) Eliminazione totale della documentazione cartacea
+D) Organizzazione del lavoro
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3 (Tabella) → elenca: "Atto già in formato elettronico", "Relazione con Sistema automatizzato (aggiornamento SDI)", "Organizzazione lavoro e preparazione atti"
+Spiegazione: L'eliminazione totale della documentazione cartacea non è menzionata tra i vantaggi.
+</details>
+
+Domanda 12 🟡 Media
+Qual è la finalità principale del servizio Denuncia vi@ web?
+A) Ridurre i costi operativi delle Stazioni
+B) Rendere il servizio al cittadino sempre più accessibile e fruibile
+C) Velocizzare le indagini sui furti
+D) Sostituire completamente le denunce in presenza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.1 (Tabella) → "Finalità: Servizio al cittadino sempre più accessibile e fruibile"
+Spiegazione: La finalità dichiarata è migliorare l'accessibilità e la fruibilità del servizio per il cittadino.
+</details>
+
+Domanda 13 🔴 Avanzata
+Qual è la corretta sequenza del flusso informativo della Denuncia vi@ web?
+A) SDI → Sistema automatizzato → Denuncia vi@ web
+B) Denuncia vi@ web → SDI → Sistema automatizzato
+C) Denuncia vi@ web → Sistema automatizzato gestione denunce → SDI
+D) Sistema automatizzato → Denuncia vi@ web → SDI
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.5 (Schema) → "DENUNCIA VI@ WEB → (formato elettronico) → SISTEMA AUTOMATIZZATO GESTIONE DENUNCE → (aggiornamento diretto) → SDI"
+Spiegazione: Il flusso parte dalla Denuncia vi@ web, passa per il Sistema automatizzato di gestione denunce, e aggiorna direttamente lo SDI.
+</details>
+
+Domanda 14 🔴 Avanzata
+Quale delle seguenti affermazioni sulla Denuncia vi@ web è FALSA?
+A) È stata avviata il 15 marzo 2006
+B) È operativa su tutto il territorio nazionale
+C) Permette di denunciare qualsiasi reato ad opera di ignoti
+D) È stata realizzata d'intesa con la Polizia di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.4 → "TRABOCCHETTO: La Denuncia vi@ web è SOLO per furto/smarrimento ad opera di IGNOTI (NON per tutti i reati)"
+Spiegazione: È falso che permetta di denunciare qualsiasi reato; è limitata esclusivamente a furto e smarrimento ad opera di ignoti.
+</details>
+
+Domanda 15 🟢 Base
+Cosa significa l'acronimo SDI nel contesto della Denuncia vi@ web?
+A) Sistema di Denuncia Informatica
+B) Sistema D'Indagine
+C) Servizio Digitale Integrato
+D) Sistema Dati Interforze
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.5 e Glossario → "SDI: Sistema D'Indagine"
+Spiegazione: SDI è l'acronimo di Sistema D'Indagine, la banca dati interforze.
+</details>
+
+📚 SEZIONE 3 - PROSSIMITÀ DOPO IL REATO
+Domanda 16 🟢 Base
+Qual è l'obiettivo principale della "Prossimità dopo il reato"?
+A) Accelerare le indagini
+B) Valorizzare le fasi di contatto con il pubblico successive alla commissione dei reati
+C) Identificare rapidamente gli autori del reato
+D) Gestire le emergenze sul territorio
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.1 → "Valorizzare tutte le fasi di contatto con il pubblico, ed in particolare le attività successive alla commissione dei reati"
+Spiegazione: L'obiettivo è valorizzare il contatto con le vittime nella fase post-reato, non accelerare le indagini.
+</details>
+
+Domanda 17 🟢 Base
+Quanti sono gli obiettivi specifici della Prossimità dopo il reato?
+A) 1
+B) 2
+C) 3
+D) 4
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.1 (Tabella) → "1. Contribuire ad attenuare il danno psicologico subito dalla vittima; 2. Stimolare la collaborazione delle vittime"
+Spiegazione: Gli obiettivi sono esattamente 2: attenuare il danno psicologico e stimolare la collaborazione.
+</details>
+
+Domanda 18 🟡 Media
+Quale dei seguenti NON è un elemento della Prossimità dopo il reato?
+A) Capacità di attenzione nella ricezione della denuncia
+B) Efficacia delle attività di sopralluogo
+C) Partecipazione degli esiti delle investigazioni
+D) Identificazione immediata dell'autore del reato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 3.3 (Tabella) → elenca 3 elementi: "Capacità di attenzione nella ricezione denuncia", "Efficacia attività di sopralluogo", "Partecipazione esiti investigazioni"
+Spiegazione: L'identificazione dell'autore non è tra gli elementi della prossimità post-reato.
+</details>
+
+Domanda 19 🟡 Media
+Nel rispetto di quale principio deve avvenire la partecipazione degli esiti delle investigazioni alla vittima?
+A) Principio di trasparenza totale
+B) Principio del riserbo professionale
+C) Principio di celerità
+D) Principio di completezza informativa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Schema) e 3.3 → "Partecipazione degli esiti delle investigazioni svolte (nel rispetto del riserbo professionale)"
+Spiegazione: La comunicazione alla vittima deve sempre rispettare il principio del riserbo professionale.
+</details>
+
+Domanda 20 🟡 Media
+Qual è il risultato atteso delle attività di Prossimità dopo il reato?
+A) Riduzione dei tempi processuali
+B) Aumento delle denunce
+C) Alimentare la fiducia nell'operato delle Forze di Polizia
+D) Incremento delle pene per i colpevoli
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.2 (Schema) → il flusso termina con "ALIMENTARE LA FIDUCIA NELL'OPERATO DELLE FORZE DI POLIZIA"
+Spiegazione: L'esito finale delle attività di prossimità post-reato è alimentare la fiducia dei cittadini nelle Forze di Polizia.
+</details>
+
+Domanda 21 🟢 Base
+Cosa si intende per "capacità di attenzione nella ricezione della denuncia"?
+A) Velocità nella raccolta dei dati
+B) Ascolto attivo e professionale della vittima
+C) Compilazione accurata dei moduli
+D) Verifica dell'identità del denunciante
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.3 (Tabella) → "Capacità di attenzione nella ricezione della denuncia: Ascolto attivo e professionale della vittima"
+Spiegazione: Si riferisce all'ascolto attivo e professionale, non alla mera velocità o compilazione burocratica.
+</details>
+
+Domanda 22 🔴 Avanzata
+Quale delle seguenti affermazioni sulla Prossimità dopo il reato è CORRETTA?
+A) Gli esiti delle investigazioni vanno comunicati integralmente alla vittima
+B) L'attività si limita alla fase di ricezione della denuncia
+C) La partecipazione degli esiti deve rassicurare sulla prosecuzione dell'attività, rispettando il riserbo
+D) L'efficacia del sopralluogo non rientra tra gli elementi della prossimità post-reato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.3 → "CRITICO: La partecipazione degli esiti deve sempre rispettare il principio del riserbo professionale - NON comunicazione integrale, ma rassicurazione sulla prosecuzione dell'attività"
+Spiegazione: Non è prevista comunicazione integrale, ma rassicurazione nel rispetto del riserbo professionale.
+</details>
+
+Domanda 23 🟡 Media
+Qual è la corretta sequenza del flusso della Prossimità dopo il reato?
+A) Sopralluogo → Denuncia → Esiti investigazioni → Fiducia
+B) Commissione reato → Denuncia → Sopralluogo → Esiti → Fiducia
+C) Commissione reato → Sopralluogo → Denuncia → Fiducia
+D) Denuncia → Commissione reato → Sopralluogo → Esiti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Schema) → "COMMISSIONE DEL REATO → CAPACITÀ DI ATTENZIONE RICEZIONE DENUNCIA → EFFICACIA SOPRALLUOGO → PARTECIPAZIONE ESITI → ALIMENTARE FIDUCIA"
+Spiegazione: Il flusso inizia dalla commissione del reato e prosegue con denuncia, sopralluogo, comunicazione esiti e costruzione della fiducia.
+</details>
+
+Domanda 24 🔴 Avanzata
+Quale delle seguenti NON è una finalità della Prossimità dopo il reato?
+A) Contribuire ad attenuare il danno psicologico subito dalla vittima
+B) Stimolare la collaborazione delle vittime
+C) Garantire il risarcimento economico alla vittima
+D) Alimentare la fiducia nell'operato delle Forze di Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.1 (Tabella obiettivi) e 3.2 (Schema) → le finalità sono: attenuare danno psicologico, stimolare collaborazione, alimentare fiducia
+Spiegazione: Il risarcimento economico non è tra le finalità della Prossimità dopo il reato.
+</details>
+
+Domanda 25 🟢 Base
+L'efficacia delle attività di sopralluogo nella Prossimità dopo il reato si riferisce a:
+A) La velocità di arrivo sul luogo del reato
+B) L'intervento tecnico-investigativo accurato
+C) Il numero di prove raccolte
+D) La collaborazione con altre Forze di Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.3 (Tabella) → "Efficacia delle attività di sopralluogo: Intervento tecnico-investigativo accurato"
+Spiegazione: Si riferisce alla qualità e accuratezza dell'intervento tecnico-investigativo.
+</details>
+
+Domanda 26 🔴 Avanzata
+In quale fase del flusso della Prossimità dopo il reato si colloca il rispetto del riserbo professionale?
+A) Nella ricezione della denuncia
+B) Nelle attività di sopralluogo
+C) Nella partecipazione degli esiti delle investigazioni
+D) In tutte le fasi del processo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.2 (Schema) → "PARTECIPAZIONE DEGLI ESITI DELLE INVESTIGAZIONI SVOLTE (nel rispetto del riserbo professionale)"
+Spiegazione: Il riserbo professionale è esplicitamente richiamato nella fase di partecipazione degli esiti alla vittima.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 4 - TUTELA DEGLI ANZIANI
+Domanda 27 🟢 Base
+Qual è la data della Circolare del Comando Generale sulla tutela degli anziani?
+A) 20 maggio 2024
+B) 20 giugno 2024
+C) 23 ottobre 2024
+D) 15 marzo 2024
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.1 (Tabella) → "Data: 20 giugno 2024"
+Spiegazione: La Circolare sulla tutela degli anziani è datata 20 giugno 2024, non altre date.
+</details>
+
+Domanda 28 🟢 Base
+Qual è il numero di protocollo della Circolare sulla tutela degli anziani?
+A) N. 1128/28-218-1-1997
+B) N. 18102/97-2
+C) N. 15/2018
+D) N. 328/2000
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.1 (Tabella) → "Circolare di riferimento: N. 18102/97-2 di prot."
+Spiegazione: Il protocollo corretto è N. 18102/97-2, non va confuso con la circolare P.I.S. (N. 1128/28-218-1-1997).
+</details>
+
+Domanda 29 🟢 Base
+Quale Ente ha emesso la Circolare sulla tutela degli anziani?
+A) Ministero dell'Interno
+B) Comando Generale dell'Arma dei Carabinieri - II Reparto - SM - Ufficio Operazioni
+C) Prefettura
+D) Comando Interregionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.1 (Tabella) → "Ente emittente: Comando Generale dell'Arma dei Carabinieri - II Reparto - SM - Ufficio Operazioni"
+Spiegazione: L'Ente emittente è il Comando Generale, specificamente il II Reparto - SM - Ufficio Operazioni.
+</details>
+
+Domanda 30 🟡 Media
+Fino a quale livello di Comando sono destinatari della Circolare sulla tutela degli anziani?
+A) Fino a livello Compagnia
+B) Fino a livello Stazione (compreso) e Paritetici
+C) Solo Comandi Provinciali
+D) Solo Comandi Regionali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.1 (Tabella) → "Destinatari: Comandi dipendenti fino a livello Stazione (compreso) e Paritetici"
+Spiegazione: I destinatari includono tutti i Comandi fino al livello Stazione, compresi i Paritetici.
+</details>
+
+Domanda 31 🟢 Base
+Quanti sono i pilastri dell'azione di tutela degli anziani?
+A) 3
+B) 4
+C) 5
+D) 6
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.3 (Schema) e 4.4 (Tabella) → "I 4 Pilastri della Tutela Anziani"
+Spiegazione: I pilastri sono esattamente 4, come indicato nello schema e nella tabella dedicata.
+</details>
+
+Domanda 32 🟡 Media
+Quale dei seguenti NON è uno dei 4 pilastri della tutela degli anziani?
+A) Rassicurazione sociale e tutela
+B) Buone pratiche
+C) Formazione del personale
+D) Aspetti psico-criminologici
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.4 (Tabella) → i 4 pilastri sono: "Rassicurazione sociale e tutela", "Buone pratiche", "Modelli investigativi", "Aspetti psico-criminologici"
+Spiegazione: La "Formazione del personale" non è tra i 4 pilastri; il terzo pilastro è "Modelli investigativi".
+</details>
+
+Domanda 33 🟡 Media
+Il primo pilastro della tutela anziani riguarda la funzione contro quale fenomeno specifico?
+A) Furti in abitazione
+B) Truffe agli anziani
+C) Violenze domestiche
+D) Abbandono di incapace
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.4 (Tabella) → "Pilastro 1: Rassicurazione sociale e tutela - Funzione contro il fenomeno delle truffe agli anziani"
+Spiegazione: Il primo pilastro è specificamente orientato al contrasto delle truffe agli anziani.
+</details>
+
+Domanda 34 🟢 Base
+Quante sono le "buone pratiche" elencate per la tutela degli anziani?
+A) 10
+B) 12
+C) 14
+D) 16
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.5 → "Le buone pratiche elencate sono 14"
+Spiegazione: Le buone pratiche sono esattamente 14, come indicato nella tabella e nel riepilogo critico.
+</details>
+
+Domanda 35 🟡 Media
+Quale delle seguenti NON è una buona pratica per la tutela degli anziani?
+A) Incontri informativi
+B) Opuscoli informativi
+C) Denunce online semplificate
+D) Campagne ad alta diffusione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.5 (Tabella 14 buone pratiche) → elenca incontri informativi, opuscoli, campagne ad alta diffusione, ma NON "denunce online semplificate"
+Spiegazione: Le denunce online semplificate non sono tra le 14 buone pratiche della tutela anziani.
+</details>
+
+Domanda 36 🟡 Media
+Dove possono essere organizzati gli incontri informativi per la tutela degli anziani?
+A) Solo presso le Stazioni Carabinieri
+B) Solo presso le sedi comunali
+C) Presso Diocesi, Enti locali, parrocchie, sedi comunali, centri anziani, strutture assistenziali/ricreative
+D) Esclusivamente presso le Prefetture
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.1) → "Organizzati con Diocesi, Enti locali, Associazioni operative sul territorio, parrocchie, sedi comunali, centri anziani, strutture assistenziali/ricreative"
+Spiegazione: Gli incontri possono essere organizzati in molteplici luoghi, non solo presso un'unica tipologia di sede.
+</details>
+
+Domanda 37 🔴 Avanzata
+Chi può essere coinvolto negli incontri informativi per la tutela degli anziani oltre agli anziani stessi?
+A) Solo i Sindaci dei Comuni
+B) I parenti degli anziani e rappresentanti di ANC e ANFOR
+C) Esclusivamente il personale sanitario
+D) Solo i responsabili delle strutture assistenziali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.1) → "possono essere coinvolti anche i parenti degli anziani, rappresentanti di ANC e ANFOR"
+Spiegazione: Oltre agli anziani, possono partecipare i loro parenti e i rappresentanti delle associazioni ANC e ANFOR.
+</details>
+
+Domanda 38 🟡 Media
+Dove possono essere distribuiti gli opuscoli informativi sulla tutela degli anziani?
+A) Solo presso le caserme
+B) Presso caserme, stand istituzionali, luoghi di culto, ambulatori medici, circoli ricreativi, Università della terza età
+C) Esclusivamente durante gli incontri pubblici
+D) Solo presso gli uffici comunali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.2) → "Distribuzione presso caserme, stand istituzionali, luoghi di culto, ambulatori medici, circoli ricreativi, Università della terza età, incontri con anziani"
+Spiegazione: Gli opuscoli vanno distribuiti in molteplici luoghi frequentati dagli anziani.
+</details>
+
+Domanda 39 🔴 Avanzata
+Quale mezzo NON convenzionale è citato tra le campagne ad alta diffusione per la tutela degli anziani?
+A) Pannelli luminosi comunali
+B) Cartelloni stradali autostradali
+C) Pubblicità su confezioni di latte
+D) Manifesti alle fermate dell'autobus
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.3) → "Anche visiva - pannelli luminosi comunali, farmacie, bus di linea, pubblicità su prodotti alimentari (es. confezioni di latte)"
+Spiegazione: La pubblicità su confezioni di latte è espressamente citata come esempio di mezzo non convenzionale.
+</details>
+
+Domanda 40 🟡 Media
+Qual è lo scopo dei corsi di alfabetizzazione informatica per gli anziani?
+A) Insegnare l'uso dei social media
+B) Fornire strumenti di autotutela
+C) Facilitare l'accesso ai servizi bancari online
+D) Promuovere la comunicazione con i familiari
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.5) → "Per fornire strumenti di autotutela alle persone più anziane"
+Spiegazione: Lo scopo principale è fornire strumenti di autotutela, non altri obiettivi generici.
+</details>
+
+Domanda 41 🟡 Media
+Perché vengono contattati i Direttori degli istituti di credito e degli uffici postali nell'ambito della tutela anziani?
+A) Per ottenere finanziamenti per le campagne informative
+B) Per la sensibilizzazione alla segnalazione di operazioni sospette degli anziani
+C) Per organizzare incontri presso le filiali
+D) Per distribuire opuscoli ai clienti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.6) → "Sensibilizzazione segnalazione operazioni sospette anziani"
+Spiegazione: L'obiettivo è sensibilizzare il personale bancario/postale a segnalare operazioni sospette che coinvolgono anziani.
+</details>
+
+Domanda 42 🔴 Avanzata
+Perché vengono coinvolte le Associazioni provinciali dei tassisti nella tutela degli anziani?
+A) Per offrire trasporti gratuiti agli anziani
+B) Per sensibilizzare gli operatori Radio Taxi su richieste sospette con percorrenze superiori alla media verso scali ferroviari/aeroportuali
+C) Per distribuire opuscoli informativi nei taxi
+D) Per segnalare anziani smarriti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.7) → "Sensibilizzazione operatori Radio Taxi su richieste sospette (percorrenze superiori alla media per scali ferroviari/aeroportuali)"
+Spiegazione: I tassisti vengono sensibilizzati a riconoscere situazioni sospette, come richieste di lunghi tragitti verso stazioni o aeroporti.
+</details>
+
+Domanda 43 🟡 Media
+Cosa si intende per "rete integrata di protezione e assistenza" nella tutela degli anziani?
+A) Sistema di videosorveglianza dedicato
+B) Coinvolgimento di servizi sociali, strutture sanitarie e associazioni di volontariato
+C) Rete di parenti e vicini di casa
+D) Collegamento tra Stazioni Carabinieri limitrofe
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.8) → "Coinvolgimento servizi sociali, strutture sanitarie, associazioni volontariato"
+Spiegazione: La rete integrata coinvolge servizi sociali, sanità e volontariato, non altri soggetti.
+</details>
+
+Domanda 44 🟢 Base
+Cosa significa l'acronimo ANACI?
+A) Associazione Nazionale Arma Carabinieri Italia
+B) Associazione Nazionale Amministratori di Condomini
+C) Associazione Nazionale Anziani Cittadini Italiani
+D) Associazione Nazionale Assistenza Categorie Indigenti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.6 (Tabella) e Glossario → "ANACI: Associazione Nazionale Amministratori di Condomini"
+Spiegazione: ANACI è l'Associazione Nazionale Amministratori di Condomini, coinvolta nella diffusione di materiale informativo.
+</details>
+
+Domanda 45 🟡 Media
+Qual è il ruolo dell'ANACI nella tutela degli anziani?
+A) Organizzazione di incontri informativi
+B) Diffusione di materiale informativo nei condomini tramite cartelli e cassette postali
+C) Assistenza legale agli anziani truffati
+D) Formazione degli amministratori condominiali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.9) e Sezione 4.6 → "ANACI: Diffusione materiale informativo nei condomini" e "cartelli informativi e recapito in cassetta posta"
+Spiegazione: L'ANACI collabora diffondendo materiale informativo tramite cartelli e cassette postali nei condomini.
+</details>
+
+Domanda 46 🟢 Base
+Cosa significa l'acronimo ANC?
+A) Associazione Nazionale Cittadini
+B) Associazione Nazionale Carabinieri
+C) Agenzia Nazionale Controllo
+D) Associazione Nazionale Consumatori
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.6 (Tabella) e Glossario → "ANC: Associazione Nazionale Carabinieri"
+Spiegazione: ANC è l'Associazione Nazionale Carabinieri, che supporta gli incontri informativi.
+</details>
+
+Domanda 47 🟢 Base
+Cosa significa l'acronimo ANFOR?
+A) Associazione Nazionale Forze Ordine
+B) Associazione Nazionale Forestali
+C) Agenzia Nazionale Formazione
+D) Associazione Nazionale Forniture
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.6 (Tabella) e Glossario → "ANFOR: Associazione Nazionale Forestali"
+Spiegazione: ANFOR è l'Associazione Nazionale Forestali, che supporta gli incontri informativi insieme all'ANC.
+</details>
+
+Domanda 48 🟡 Media
+In cosa consiste la buona pratica dell'"assistenza a domicilio" per gli anziani?
+A) Visite periodiche di controllo
+B) Ricezione denunce in situazioni di disagio presso il domicilio dell'anziano
+C) Consegna di farmaci a domicilio
+D) Accompagnamento agli uffici pubblici
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.10) → "Con particolare riguardo alla ricezione denunce in situazioni di disagio"
+Spiegazione: L'assistenza a domicilio riguarda principalmente la ricezione delle denunce in caso di difficoltà dell'anziano.
+</details>
+
+Domanda 49 🟡 Media
+Quali sono i "servizi di prossimità" specifici per la tutela degli anziani?
+A) Pattuglie in auto nei quartieri residenziali
+B) Pattuglie appiedate nei centri storici e mercati rionali, perlustrazioni verso anziani in aree isolate
+C) Controlli notturni presso le abitazioni
+D) Sorveglianza fissa presso i centri anziani
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.11) → "Pattuglie appiedate nei centri storici e mercati rionali, perlustrazioni verso anziani residenti in aree isolate"
+Spiegazione: I servizi di prossimità prevedono pattuglie appiedate e perlustrazioni mirate verso anziani isolati.
+</details>
+
+Domanda 50 🟡 Media
+Quando viene intensificato il controllo del territorio presso istituti bancari e uffici postali?
+A) Durante le festività natalizie
+B) Nei giorni di ritiro delle pensioni
+C) Nel fine settimana
+D) Durante l'orario di chiusura
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.12) → "Presso istituti bancari e uffici postali nei giorni di ritiro pensioni"
+Spiegazione: L'intensificazione è prevista specificamente nei giorni di ritiro delle pensioni.
+</details>
+
+Domanda 51 🔴 Avanzata
+Chi sono i referenti individuati per l'analisi delle attività di indagine con connessioni interprovinciali sulle truffe agli anziani?
+A) I Comandanti di Stazione
+B) I Comandanti dei Reparti Operativi (R.O.)
+C) I Comandanti Provinciali
+D) Gli Ufficiali di P.G. delle Compagnie
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.13) → "Individuazione Comandanti R.O. come referenti per analisi attività di indagine con connessioni interprovinciali"
+Spiegazione: I Comandanti dei Reparti Operativi (R.O.) sono i referenti per le indagini interprovinciali.
+</details>
+
+Domanda 52 🔴 Avanzata
+Cosa si intende per "osmosi info-operativa tra Reparti" nella tutela degli anziani?
+A) Scambio di personale tra Stazioni
+B) Redazione di note informative con fotografie autori, caratteristiche mezzi, modus operandi
+C) Riunioni periodiche tra Comandanti
+D) Condivisione di risorse logistiche
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella, buona pratica n.14) → "Redazione note informative con fotografie autori, caratteristiche mezzi, modus operandi"
+Spiegazione: L'osmosi info-operativa consiste nella condivisione di informazioni investigative dettagliate tra Reparti.
+</details>
+
+Domanda 53 🔴 Avanzata
+Quale funzione viene definita "insostituibile" nella missione dell'Arma verso gli anziani?
+A) Funzione investigativa
+B) Funzione di rassicurazione sociale
+C) Funzione preventiva
+D) Funzione repressiva
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.2 → "svolgendo una funzione insostituibile di 'rassicurazione sociale'"
+Spiegazione: La funzione di rassicurazione sociale è definita esplicitamente come "insostituibile" nella missione istituzionale.
+</details>
+
+Domanda 54 🔴 Avanzata
+Il quarto pilastro della tutela anziani (aspetti psico-criminologici) comprende quale elemento?
+A) Tecniche di interrogatorio
+B) Analisi della relazione autore-vittima, consigli difensivi, modalità di intervento
+C) Valutazione psicologica delle vittime
+D) Supporto psicologico post-trauma
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.3 (Schema) e 4.4 (Tabella) → "Aspetti psico-criminologici: Analisi relazione autore-vittima, consigli difensivi, modalità intervento"
+Spiegazione: Il quarto pilastro comprende l'analisi della dinamica autore-vittima, i consigli per difendersi e le modalità di approccio in caso di intervento.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 5 - PRONTO INTERVENTO SOCIALE (PrInS/P.I.S.)
+Domanda 55 🟢 Base
+Quale legge ha istituito il Pronto Intervento Sociale (P.I.S.)?
+A) Legge n. 328/2000
+B) Legge n. 147/2017
+C) Legge n. 15/2018
+D) Legge n. 241/1990
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: A
+Fonte KB: Sezione 5.1 (Tabella) → "Norma istitutiva: Legge n. 328/2000, art. 22, comma 4"
+Spiegazione: La legge istitutiva del P.I.S. è la n. 328/2000, non altre normative.
+</details>
+
+Domanda 56 🟡 Media
+In quale articolo e comma della Legge 328/2000 è previsto il Pronto Intervento Sociale?
+A) Art. 20, comma 2
+B) Art. 22, comma 4
+C) Art. 24, comma 1
+D) Art. 7, comma 1
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.1 (Tabella) → "Legge n. 328/2000, art. 22, comma 4"
+Spiegazione: L'articolo di riferimento è il 22, comma 4, della Legge 328/2000.
+</details>
+
+Domanda 57 🟡 Media
+Quale Decreto Legislativo richiama normativamente il P.I.S.?
+A) D.Lgs. 81/2008
+B) D.Lgs. 147/2017
+C) D.Lgs. 231/2001
+D) D.Lgs. 196/2003
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.1 (Tabella) → "Richiamo normativo: D.Lgs. 147/2017, art. 7, comma 1"
+Spiegazione: Il D.Lgs. 147/2017 all'art. 7, comma 1, richiama il Pronto Intervento Sociale.
+</details>
+
+Domanda 58 🟢 Base
+Qual è la data della Circolare dell'Arma sul Pronto Intervento Sociale?
+A) 20 giugno 2024
+B) 15 marzo 2006
+C) 23 ottobre 2024
+D) 1 gennaio 2025
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 5.1 (Tabella) → "Circolare Arma: N. 1128/28-218-1-1997 di prot. del 23 ottobre 2024"
+Spiegazione: La Circolare sul P.I.S. è datata 23 ottobre 2024, da non confondere con quella sulla tutela anziani (20 giugno 2024).
+</details>
+
+Domanda 59 🟢 Base
+Cosa significa l'acronimo P.I.S.?
+A) Polizia di Intervento Sociale
+B) Pronto Intervento Sociale
+C) Pubblica Istituzione Sociale
+D) Presidio Integrato Servizi
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.2 e Glossario → "P.I.S.: Pronto Intervento Sociale"
+Spiegazione: P.I.S. significa Pronto Intervento Sociale, NON Polizia né Pubblica.
+</details>
+
+Domanda 60 🟢 Base
+Cosa significa l'acronimo LEPS?
+A) Legge Essenziale Prestazioni Sanitarie
+B) Livello Essenziale delle Prestazioni Sociali
+C) Legislazione Europea Protezione Sociale
+D) Lista Enti Pubblici Servizi
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.1 (Tabella) e Glossario → "LEPS: Livello Essenziale delle Prestazioni Sociali"
+Spiegazione: LEPS indica i Livelli Essenziali delle Prestazioni Sociali, standard assistenziali nazionali.
+</details>
+
+Domanda 61 🟡 Media
+Come viene definito il Pronto Intervento Sociale?
+A) Un servizio di emergenza sanitaria
+B) Una struttura deputata a garantire risposta tempestiva alle esigenze di persone in situazioni di particolare gravità ed emergenza sociale
+C) Un ufficio comunale per le pratiche assistenziali
+D) Un reparto specializzato dell'Arma dei Carabinieri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.2 → "Il P.I.S. è una struttura deputata a garantire una risposta tempestiva alle esigenze delle persone in situazioni di particolare gravità ed emergenza sociale"
+Spiegazione: Il P.I.S. è una struttura per rispondere a emergenze sociali, non sanitarie né di polizia.
+</details>
+
+Domanda 62 🟢 Base
+Quanti sono i servizi di prima e immediata assistenza alla persona offerti dal P.I.S.?
+A) 5
+B) 6
+C) 7
+D) 8
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 5.3 (Tabella "Servizi offerti") → elenca 7 servizi numerati da 1 a 7
+Spiegazione: I servizi di prima assistenza sono esattamente 7, come indicato nella tabella.
+</details>
+
+Domanda 63 🟡 Media
+Quale dei seguenti NON è un servizio di prima assistenza offerto dal P.I.S.?
+A) Assistenza, ascolto, orientamento e counselling telefonico
+B) Immediato intervento in loco tramite Unità di Strada
+C) Erogazione di contributi economici diretti
+D) Inserimento in emergenza presso strutture di accoglienza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 5.3 (Tabella servizi) → i 7 servizi NON includono erogazione di contributi economici diretti
+Spiegazione: L'erogazione di contributi economici non è tra i servizi P.I.S.; sono previsti beni di prima necessità, non denaro.
+</details>
+
+Domanda 64 🟢 Base
+Cosa sono le "Unità di Strada" nel contesto del P.I.S.?
+A) Pattuglie di Carabinieri in borghese
+B) Squadre per immediato intervento in loco o presso il domicilio della persona in stato di bisogno
+C) Mezzi di trasporto per emergenze sanitarie
+D) Gruppi di volontari della Protezione Civile
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.3 (Tabella, servizio n.2) → "Immediato intervento in loco o presso il domicilio della persona in stato di bisogno (tramite le c.d. Unità di Strada)"
+Spiegazione: Le Unità di Strada sono squadre che intervengono direttamente sul territorio o al domicilio.
+</details>
+
+Domanda 65 🟡 Media
+Quante sono le attività strumentali per prestazioni medico-sanitarie previste dal P.I.S.?
+A) 3
+B) 4
+C) 5
+D) 6
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.3 (Tabella "Attività strumentali") → elenca 4 attività: reperimento farmaci, accompagnamento ospedaliero, sportelli medici, servizi ASL
+Spiegazione: Le attività strumentali medico-sanitarie sono esattamente 4.
+</details>
+
+Domanda 66 🟡 Media
+Quale delle seguenti è un'attività strumentale medico-sanitaria del P.I.S.?
+A) Ricovero ospedaliero d'urgenza
+B) Reperimento farmaci
+C) Interventi chirurgici ambulatoriali
+D) Vaccinazioni domiciliari
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.3 (Tabella attività strumentali, n.1) → "Reperimento farmaci"
+Spiegazione: Il reperimento farmaci è una delle 4 attività strumentali medico-sanitarie del P.I.S.
+</details>
+
+Domanda 67 🟢 Base
+Attraverso quale canale si attiva il Pronto Intervento Sociale?
+A) Chiamata al 112
+B) Numero verde dedicato
+C) Richiesta scritta al Comune
+D) Segnalazione via email
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.5 (Tabella) → "Canale di accesso: Numero verde dedicato"
+Spiegazione: Il P.I.S. si attiva tramite un numero verde dedicato, non il 112.
+</details>
+
+Domanda 68 🟢 Base
+Qual è la disponibilità oraria del numero verde del P.I.S.?
+A) Dal lunedì al venerdì, orario d'ufficio
+B) 7 giorni su 7, h24
+C) Solo nei giorni feriali
+D) 6 giorni su 7, dalle 8 alle 20
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.5 (Tabella) → "Disponibilità: 7 giorni su 7, h24"
+Spiegazione: Il numero verde P.I.S. è attivo 7 giorni su 7, 24 ore su 24 (7/7 h24).
+</details>
+
+Domanda 69 🟡 Media
+Con quali enti vengono stipulati i protocolli di intesa per l'attivazione del P.I.S.?
+A) Regioni e Province
+B) Comuni e/o Prefetture
+C) ASL e Ospedali
+D) Questure e Comandi Provinciali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.5 (Tabella) → "Accordi operativi: Protocolli di intesa con Comuni e/o Prefetture"
+Spiegazione: I protocolli di intesa sono stipulati con Comuni e/o Prefetture.
+</details>
+
+Domanda 70 🟡 Media
+Quale dei seguenti NON è un target del servizio P.I.S.?
+A) Minori non accompagnati
+B) Vittime di violenza familiare
+C) Turisti stranieri smarriti
+D) Persone prive di alloggio
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 5.4 (Tabella target) → elenca: minori non accompagnati, vittime violenza familiare, persone prive alloggio, gravemente deprivate, anziani problemi cognitivi, donne gravidanza senza supporto
+Spiegazione: I turisti stranieri smarriti non sono tra i target del P.I.S.
+</details>
+
+Domanda 71 🟡 Media
+Quale categoria di anziani rientra tra i target del P.I.S.?
+A) Tutti gli anziani over 65
+B) Anziani con problemi cognitivi senza familiari di riferimento
+C) Anziani ricoverati in RSA
+D) Anziani titolari di pensione minima
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.4 (Tabella target) → "Anziani con problemi cognitivi: Senza familiari di riferimento"
+Spiegazione: Rientrano nel target gli anziani con problemi cognitivi privi di familiari di riferimento.
+</details>
+
+Domanda 72 🟢 Base
+Quale categoria di donne rientra tra i target del P.I.S.?
+A) Tutte le donne in gravidanza
+B) Donne in gravidanza prive di alloggio o supporto
+C) Donne vittime di stalking
+D) Donne sole con figli minori
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.4 (Tabella target) → "Donne in gravidanza prive di supporto: Senza alloggio o supporto"
+Spiegazione: Il target specifico sono le donne in gravidanza prive di alloggio o supporto.
+</details>
+
+Domanda 73 🔴 Avanzata
+Quali sono le tre dimensioni rilevanti per l'intervento P.I.S.?
+A) Economica, sanitaria, abitativa
+B) Aspetti socio-demografici, problemi rete familiare, deprivazione materiale
+C) Età, reddito, cittadinanza
+D) Salute, lavoro, istruzione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.4 (Tabella "Dimensioni rilevanti") → "Aspetti socio-demografici", "Problemi rete familiare", "Deprivazione materiale"
+Spiegazione: Le tre dimensioni sono: aspetti socio-demografici, problemi della rete familiare e deprivazione materiale.
+</details>
+
+Domanda 74 🔴 Avanzata
+Quali fattori rientrano nella dimensione "Deprivazione materiale" per l'intervento P.I.S.?
+A) Solo la situazione economica
+B) Condizioni di salute precarie, situazione abitativa, maltrattamento, violenza
+C) Esclusivamente la mancanza di alloggio
+D) Reddito e patrimonio
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.4 (Tabella dimensioni) → "Deprivazione materiale: Condizioni di salute precarie, situazione abitativa, maltrattamento, violenza"
+Spiegazione: La deprivazione materiale comprende salute, abitazione, maltrattamento e violenza.
+</details>
+
+Domanda 75 🟡 Media
+Quale delle seguenti fasi è la prima nel processo di attivazione del P.I.S.?
+A) Redazione della scheda di segnalazione
+B) Identificazione della persona in emergenza sociale e raccolta dati personali
+C) Attivazione dell'intervento
+D) Comunicazione telefonica alla C.O. del P.I.S.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.6 (Diagramma, fase INPUT) → "Il personale dell'Arma 'identifica' la persona che versa in una situazione di emergenza/urgenza sociale, raccogliendo dati personali"
+Spiegazione: La prima fase (INPUT) è l'identificazione della persona e la raccolta dei dati personali.
+</details>
+
+Domanda 76 🟡 Media
+Quali dati personali vengono raccolti nella fase di INPUT del processo P.I.S.?
+A) Solo nome e cognome
+B) Cognome, nome, luogo e data di nascita, residenza
+C) Codice fiscale e documento d'identità
+D) Numero di telefono e indirizzo email
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.6 (Diagramma, INPUT) → "Cognome e nome, Luogo e data di nascita, Residenza, etc."
+Spiegazione: I dati raccolti includono cognome, nome, luogo e data di nascita, residenza.
+</details>
+
+Domanda 77 🔴 Avanzata
+Come si conclude il processo P.I.S. secondo il diagramma di flusso?
+A) Con una relazione al Prefetto
+B) Con l'annotazione del resoconto nell'O.S. e eventuale relazione di servizio
+C) Con la chiusura del fascicolo sociale
+D) Con la comunicazione al Comune
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.6 (Diagramma, OUTPUT) → "Il processo si conclude con l'annotazione del resoconto dell'intervento nell'O.S., con eventuale redazione di una relazione di servizio"
+Spiegazione: L'output finale prevede annotazione nell'Ordine di Servizio (O.S.) ed eventuale relazione.
+</details>
+
+Domanda 78 🟢 Base
+Qual è il termine massimo di conservazione dei dati relativi all'emergenza sociale nel P.I.S.?
+A) 5 anni
+B) 10 anni
+C) 20 anni
+D) 30 anni
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 5.8 (Tabella) → "Dati emergenza sociale: Non oltre 20 anni, poi distruzione O.S."
+Spiegazione: Il termine massimo di conservazione è 20 anni, poi si procede alla distruzione.
+</details>
+
+Domanda 79 🟡 Media
+Quale normativa regola i termini di conservazione dei dati per "finalità di polizia" nel P.I.S.?
+A) Legge 328/2000
+B) D.Lgs. 147/2017
+C) D.P.R. 15/2018, art. 10, co. 3 e 6
+D) D.Lgs. 196/2003
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 5.8 (Tabella) → "Dati per finalità di polizia: Termini massimi previsti art. 10, co. 3 e 6, D.P.R. 15/2018"
+Spiegazione: Il D.P.R. 15/2018 all'art. 10, commi 3 e 6, regola i termini per i dati di polizia.
+</details>
+
+Domanda 80 🔴 Avanzata
+In base al principio di minimizzazione, cosa NON deve essere indicato nella scheda di segnalazione P.I.S.?
+A) Il Comando di appartenenza
+B) Il cognome e nome del militare segnalante
+C) Il numero telefonico del Reparto
+D) L'email funzionale di Reparto
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.7 → "è opportuno circoscrivere i dati da comunicare al P.I.S. alle seguenti informazioni, senza indicare il cognome e nome del militare segnalante"
+Spiegazione: Per il principio di minimizzazione, il nome del militare segnalante NON va indicato.
+</details>
+
+Domanda 81 🔴 Avanzata
+Quali sono i dati che devono essere indicati nella scheda di segnalazione P.I.S.?
+A) Nome del militare, grado, matricola
+B) Comando di appartenenza, numero telefonico dedicato, email funzionale di Reparto
+C) Solo il numero di telefono personale
+D) Generalità complete del militare segnalante
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.7 (Tabella) → "Comando di appartenenza (es. Staz. CC di...), Numero telefonico (quello per accesso linea dedicata), E-mail funzionale di Reparto"
+Spiegazione: Vanno indicati solo Comando, numero telefonico dedicato ed email funzionale, mai dati personali del militare.
+</details>
+
+Domanda 82 🔴 Avanzata
+Cosa significa l'acronimo C.O. nel contesto del P.I.S.?
+A) Comando Operativo
+B) Centrale Operativa
+C) Centro Osservazione
+D) Coordinamento Operazioni
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.6 (Diagramma) e Glossario → "C.O.: Centrale Operativa"
+Spiegazione: C.O. significa Centrale Operativa, l'organo di coordinamento del P.I.S.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 6 - COMUNICAZIONE ISTITUZIONALE
+Domanda 83 🟢 Base
+Qual è lo slogan/hashtag ufficiale della comunicazione istituzionale dell'Arma dei Carabinieri?
+A) #SempreConVoi
+B) #POSSIAMOAIUTARVI
+C) #AlVostroServizio
+D) #SicurezzaPerTutti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.1 → "Slogan/Payoff: #POSSIAMOAIUTARVI"
+Spiegazione: L'hashtag ufficiale è #POSSIAMOAIUTARVI, come indicato nella descrizione del sito istituzionale.
+</details>
+
+Domanda 84 🟢 Base
+Qual è l'indirizzo del sito web istituzionale dell'Arma dei Carabinieri?
+A) www.arma.it
+B) www.carabinieri.it
+C) www.carabinieri.gov.it
+D) www.armadeicarabinieri.it
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.1 → "Struttura Sito www.carabinieri.it"
+Spiegazione: Il sito ufficiale è www.carabinieri.it.
+</details>
+
+Domanda 85 🟡 Media
+Quale delle seguenti NON è una sezione principale del sito www.carabinieri.it?
+A) CHI SIAMO
+B) IN VOSTRO AIUTO
+C) OPERAZIONI IN CORSO
+D) CONCORSI
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 6.1 (Tabella sezioni) → le sezioni sono: "CHI SIAMO", "IN VOSTRO AIUTO", "MEDIA & COMUNICAZIONE", "CONCORSI"
+Spiegazione: "OPERAZIONI IN CORSO" non è tra le sezioni principali del sito istituzionale.
+</details>
+
+Domanda 86 🟡 Media
+In quale sezione del sito www.carabinieri.it si trova il servizio "Denuncia Vi@ Web"?
+A) CHI SIAMO
+B) IN VOSTRO AIUTO - SERVIZI
+C) MEDIA & COMUNICAZIONE
+D) CONCORSI
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.1 (Tabella Menu "IN VOSTRO AIUTO") → "SERVIZI: Come fare per..., Denuncia Vi@ Web, Modulistica On-line..."
+Spiegazione: La Denuncia Vi@ Web si trova nell'area SERVIZI della sezione "IN VOSTRO AIUTO".
+</details>
+
+Domanda 87 🟡 Media
+Cosa significa l'acronimo URP?
+A) Unità Reparti Provinciali
+B) Ufficio Relazioni con il Pubblico
+C) Ufficio Risorse e Personale
+D) Unità Risposta Pronto intervento
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.2 (Tabella) e Glossario → "URP: Ufficio Relazioni con il Pubblico"
+Spiegazione: URP è l'Ufficio Relazioni con il Pubblico, presente sia sul sito che fisicamente.
+</details>
+
+Domanda 88 🟢 Base
+Qual è il numero unico di emergenza indicato sul sito istituzionale dell'Arma?
+A) 113
+B) 112
+C) 115
+D) 118
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.2 (Tabella) → "Numero emergenza: 112"
+Spiegazione: Il numero unico di emergenza è il 112.
+</details>
+
+Domanda 89 🟡 Media
+Quale delle seguenti voci NON appartiene all'area "CONSIGLI" del menu "IN VOSTRO AIUTO"?
+A) Codice Rosso
+B) Internet
+C) Denuncia Vi@ Web
+D) Per i Turisti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 6.1 (Tabella) → "CONSIGLI: Codice Rosso, Cose di tutti i giorni, Questioni di vita, In vacanza, Internet, Banconote e monete false, Beni interesse culturale, Per i più Piccoli, Per i Turisti, Persone scomparse" | "SERVIZI: Denuncia Vi@ Web..."
+Spiegazione: "Denuncia Vi@ Web" è nella sezione SERVIZI, non in CONSIGLI.
+</details>
+
+Domanda 90 🟢 Base
+Su quante piattaforme social è presente l'Arma dei Carabinieri?
+A) 3
+B) 4
+C) 5
+D) 6
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 6.3 (Tabella) → elenca 5 piattaforme: Facebook, Twitter/X, YouTube, Instagram, LinkedIn
+Spiegazione: L'Arma è presente su 5 piattaforme social.
+</details>
+
+Domanda 91 🟡 Media
+Quale delle seguenti piattaforme social NON è indicata tra quelle utilizzate dall'Arma?
+A) Facebook
+B) TikTok
+C) LinkedIn
+D) YouTube
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.3 (Tabella) → piattaforme elencate: Facebook, Twitter/X, YouTube, Instagram, LinkedIn (TikTok non presente)
+Spiegazione: TikTok non è tra le piattaforme social indicate nella KB.
+</details>
+
+Domanda 92 🔴 Avanzata
+Quale voce dell'area "SERVIZI" del sito permette l'aggiornamento diretto dello SDI?
+A) Modulistica On-line
+B) Denuncia Vi@ Web
+C) Banche Dati
+D) Qualità dei Servizi
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.1 (Tabella SERVIZI) e Sezione 2.5 → la Denuncia Vi@ Web è collegata al "Sistema automatizzato per la gestione delle denunce (aggiornamento diretto SDI)"
+Spiegazione: La Denuncia Vi@ Web, presente nei SERVIZI, aggiorna direttamente lo SDI tramite il sistema automatizzato.
+</details>
+
+📚 ACRONIMI E GLOSSARIO
+Domanda 93 🟢 Base
+Cosa significa l'acronimo O.S. nel contesto delle attività dell'Arma?
+A) Operazione Speciale
+B) Ordine di Servizio
+C) Organizzazione Strategica
+D) Osservatorio Sicurezza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario → "O.S.: Ordine di Servizio - Documento operativo"
+Spiegazione: O.S. significa Ordine di Servizio, documento dove si annota il resoconto degli interventi.
+</details>
+
+Domanda 94 🟢 Base
+Cosa significa l'acronimo I.C.?
+A) Informativa Centrale
+B) Istruzioni per il Carteggio
+C) Intervento Coordinato
+D) Indagine Complessa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario → "I.C.: Istruzioni per il Carteggio - Normativa interna"
+Spiegazione: I.C. sono le Istruzioni per il Carteggio, la normativa interna dell'Arma.
+</details>
+
+Domanda 95 🟡 Media
+Cosa significa l'acronimo R.O.?
+A) Rete Operativa
+B) Reparto Operativo
+C) Risposta Organizzativa
+D) Reparti Ordinari
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario → "R.O.: Reparto Operativo - Unità investigativa provinciale"
+Spiegazione: R.O. è il Reparto Operativo, l'unità investigativa a livello provinciale.
+</details>
+
+Domanda 96 🟢 Base
+Cosa significa l'acronimo SM nel contesto dell'Arma?
+A) Servizio Militare
+B) Stato Maggiore
+C) Sicurezza Militare
+D) Sezione Mobile
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario → "SM: Stato Maggiore - Struttura di staff"
+Spiegazione: SM indica lo Stato Maggiore, la struttura di staff del Comando Generale.
+</details>
+
+Domanda 97 🟡 Media
+Il P.I.S. può essere indicato anche con quale sigla alternativa?
+A) PIS
+B) PrInS
+C) PRIS
+D) PInS
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario → "PrInS: Pronto Intervento Sociale - Servizio emergenza sociale (sigla alternativa)"
+Spiegazione: La sigla alternativa è PrInS (Pronto Intervento Sociale).
+</details>
+
+📚 DOMANDE TRASVERSALI E TRABOCCHETTI
+Domanda 98 🔴 Avanzata
+Quale delle seguenti date è ERRATA rispetto agli eventi indicati?
+A) 15 marzo 2006 - Avvio Denuncia vi@ web
+B) 20 giugno 2024 - Circolare tutela anziani
+C) 23 ottobre 2023 - Circolare P.I.S.
+D) Legge 328/2000 - Istituzione P.I.S.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 5.1 → "Circolare Arma P.I.S.: N. 1128/28-218-1-1997 di prot. del 23 ottobre 2024" (NON 2023)
+Spiegazione: La Circolare P.I.S. è del 23 ottobre 2024, non 2023.
+</details>
+
+Domanda 99 🔴 Avanzata
+Quale delle seguenti affermazioni sui dati numerici è CORRETTA?
+A) Le iniziative di prossimità sono 6
+B) Le buone pratiche tutela anziani sono 12
+C) I pilastri della tutela anziani sono 4
+D) I servizi P.I.S. di prima assistenza sono 5
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Indice Analitico Rapido → "8 iniziative", "14 buone pratiche", "4 pilastri", "7 servizi P.I.S."
+Spiegazione: Solo l'affermazione sui 4 pilastri è corretta; le altre contengono numeri errati.
+</details>
+
+Domanda 100 🔴 Avanzata
+Quale delle seguenti affermazioni sulla Denuncia vi@ web è CORRETTA?
+A) Copre solo alcune regioni del Nord Italia
+B) È stata avviata nel 2007
+C) È stata realizzata d'intesa con la Guardia di Finanza
+D) È limitata a furto e smarrimento ad opera di ignoti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 2 e Trabocchetti → "Denuncia vi@ web è SOLO per furto/smarrimento ad opera di IGNOTI", "Copertura: Tutto il territorio nazionale", "Data avvio: 15 marzo 2006", "Intesa con: Polizia di Stato"
+Spiegazione: L'unica affermazione corretta è la limitazione a furto e smarrimento ad opera di ignoti.
+</details>
+
+Domanda 101 🟡 Media
+Quale principio deve essere rispettato nella compilazione della scheda di segnalazione P.I.S.?
+A) Principio di completezza
+B) Principio di minimizzazione
+C) Principio di trasparenza
+D) Principio di pubblicità
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.7 → "in ossequio al principio di minimizzazione, è opportuno circoscrivere i dati da comunicare"
+Spiegazione: Il principio da rispettare è quello di minimizzazione dei dati.
+</details>
+
+Domanda 102 🔴 Avanzata
+Qual è la corretta associazione tra Circolare e data?
+A) Tutela anziani: 23 ottobre 2024; P.I.S.: 20 giugno 2024
+B) Tutela anziani: 20 giugno 2024; P.I.S.: 23 ottobre 2024
+C) Entrambe le circolari sono del 20 giugno 2024
+D) Entrambe le circolari sono del 23 ottobre 2024
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.1 → "Circolare tutela anziani: 20 giugno 2024"; Sezione 5.1 → "Circolare P.I.S.: 23 ottobre 2024"
+Spiegazione: La circolare tutela anziani è del 20 giugno 2024, quella P.I.S. del 23 ottobre 2024.
+</details>
+
+Domanda 103 🟡 Media
+Quale documento deve essere redatto al termine dell'intervento P.I.S.?
+A) Verbale di identificazione
+B) Annotazione nell'O.S. ed eventuale relazione di servizio
+C) Comunicazione al Prefetto
+D) Scheda anagrafica dell'assistito
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.6 (OUTPUT) → "Il processo si conclude con l'annotazione del resoconto dell'intervento nell'O.S., con eventuale redazione di una relazione di servizio"
+Spiegazione: L'OUTPUT prevede annotazione nell'Ordine di Servizio ed eventuale relazione.
+</details>
+
+Domanda 104 🟡 Media
+Quale delle seguenti NON è un'area del menu "IN VOSTRO AIUTO" del sito www.carabinieri.it?
+A) SERVIZI
+B) INFORMAZIONI
+C) MODULISTICA
+D) CONSIGLI
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 6.1 (Tabella) → le aree sono: "SERVIZI", "INFORMAZIONI", "CONSIGLI", "AMMINISTRAZIONE TRASPARENTE" (la Modulistica è una voce dentro SERVIZI, non un'area)
+Spiegazione: MODULISTICA è una voce interna a SERVIZI, non un'area autonoma del menu.
+</details>
+
+Domanda 105 🔴 Avanzata
+Quale delle seguenti affermazioni sul P.I.S. è FALSA?
+A) È stato istituito dalla Legge 328/2000
+B) È attivo 7 giorni su 7, h24
+C) Si attiva chiamando il 112
+D) I dati di emergenza sociale si conservano massimo 20 anni
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 5.5 → "Canale di accesso: Numero verde dedicato" (NON il 112)
+Spiegazione: Il P.I.S. si attiva tramite numero verde dedicato, NON tramite il 112 che è il numero unico di emergenza generale.
+</details>
+
+

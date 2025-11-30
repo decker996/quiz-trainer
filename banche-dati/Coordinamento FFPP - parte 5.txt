@@ -1,0 +1,1390 @@
+BANCA DATI DEL QUIZ "Il Coordinamento delle FFPP - PARTE V"
+
+
+❓ DOMANDE
+📚 SEZIONE 1 - LEGGE MADIA (L. 124/2015)
+Domanda 1 🟢 Base
+Con quale nome è comunemente nota la Legge 7 agosto 2015, n. 124?
+A) Legge Orlando
+B) Legge Minniti
+C) Legge Madia
+D) Legge Salvini
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.1 (Tabella) → "Nome: Legge MADIA"
+Spiegazione: La L. 124/2015 è nota come Legge Madia dal nome del Ministro proponente Marianna Madia.
+</details>
+
+Domanda 2 🟢 Base
+Qual è l'oggetto principale della Legge 124/2015 (Legge Madia)?
+A) Riforma del Codice Penale
+B) Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche
+C) Riforma delle Forze Armate
+D) Nuovo ordinamento della Polizia di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.1 (Tabella) → "Oggetto: Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche"
+Spiegazione: La Legge Madia contiene deleghe al Governo per la riorganizzazione delle pubbliche amministrazioni, incluse le Forze di Polizia.
+</details>
+
+Domanda 3 🟡 Media
+Quanti sono i punti cardine della Legge Madia in materia di Forze di Polizia?
+A) Due
+B) Tre
+C) Quattro
+D) Cinque
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.2 → "I TRE PUNTI CARDINE della Legge Madia (in materia di Forze di Polizia)"
+Spiegazione: I tre punti cardine sono: razionalizzazione funzioni di polizia, riordino tutela ambiente e territorio, riordino sicurezza agroalimentare.
+</details>
+
+Domanda 4 🟡 Media
+Qual è la PRIMA finalità della razionalizzazione delle funzioni di polizia prevista dalla Legge Madia?
+A) Aumentare il numero delle Forze di Polizia
+B) Evitare sovrapposizioni di competenze
+C) Creare nuovi comparti di specialità
+D) Assorbire tutte le Forze di Polizia in un unico Corpo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.2 (Schema) → "RAZIONALIZZAZIONE DELLE FUNZIONI DI POLIZIA - Al fine di EVITARE SOVRAPPOSIZIONI di competenze"
+Spiegazione: La prima finalità è evitare sovrapposizioni di competenze tra le diverse Forze di Polizia.
+</details>
+
+Domanda 5 🟡 Media
+La Legge Madia prevede, riguardo al Corpo Forestale dello Stato, il suo:
+A) Potenziamento con nuove assunzioni
+B) Mantenimento come Corpo autonomo
+C) Eventuale assorbimento nelle funzioni delle altre Forze di Polizia
+D) Trasferimento al Ministero dell'Agricoltura
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.2 (Schema) → "Eventuale ASSORBIMENTO nelle funzioni delle altre F.P."
+Spiegazione: La Legge Madia prevede il riordino delle funzioni di tutela dell'ambiente con eventuale assorbimento del CFS nelle altre Forze di Polizia.
+</details>
+
+Domanda 6 🔴 Avanzata
+Quale delle seguenti affermazioni sulla Legge Madia è CORRETTA?
+A) Ha portato all'assorbimento del Corpo Forestale dello Stato nella Guardia di Finanza
+B) Ha definito i comparti di specialità con norma di rango ministeriale
+C) Ha portato all'assorbimento del Corpo Forestale dello Stato nell'Arma dei Carabinieri
+D) Ha abolito i comparti di specialità delle Forze di Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.3 (Nota critica) → "La Legge Madia ha portato a: Assorbimento del Corpo Forestale dello Stato nell'Arma dei Carabinieri"
+Spiegazione: Una conseguenza diretta della Legge Madia è stata l'assorbimento del CFS nell'Arma dei Carabinieri, non nella GdF.
+</details>
+
+Domanda 7 🟢 Base
+Quale tra questi NON è uno dei tre punti cardine della Legge Madia in materia di Forze di Polizia?
+A) Razionalizzazione delle funzioni di polizia
+B) Riordino delle funzioni di tutela dell'ambiente e del territorio
+C) Riordino della sicurezza nel settore agroalimentare
+D) Riforma dell'ordinamento giudiziario
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 1.2 (Schema) → I tre punti sono: razionalizzazione funzioni polizia, riordino tutela ambiente/territorio, riordino sicurezza agroalimentare
+Spiegazione: La riforma dell'ordinamento giudiziario non rientra tra i punti cardine della Legge Madia in materia di Forze di Polizia.
+</details>
+
+📚 SEZIONE 2 - D.LGS. 177/2016
+Domanda 8 🟢 Base
+Il D.Lgs. 177/2016 è stato emanato in data:
+A) 7 agosto 2015
+B) 19 agosto 2016
+C) 15 agosto 2017
+D) 28 aprile 2006
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.1 (Tabella) → "Data: 19 agosto 2016"
+Spiegazione: Il D.Lgs. 177 è stato emanato il 19 agosto 2016.
+</details>
+
+Domanda 9 🟢 Base
+Qual è la norma delegante del D.Lgs. 177/2016?
+A) D.M. 28 aprile 2006
+B) L. 121/1981
+C) L. 124/2015 (Legge Madia)
+D) D.L. 92/2008
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.1 (Tabella) → "Norma delegante: Legge 7 agosto 2015, n. 124 (Legge Madia)"
+Spiegazione: Il D.Lgs. 177/2016 è stato emanato in attuazione della delega contenuta nella Legge Madia.
+</details>
+
+Domanda 10 🟡 Media
+Quanti sono i contenuti principali del D.Lgs. 177/2016?
+A) Uno
+B) Due
+C) Tre
+D) Quattro
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.2 → "I DUE CONTENUTI PRINCIPALI del D.Lgs. 177/2016"
+Spiegazione: I due contenuti principali sono: razionalizzazione e potenziamento efficacia funzioni di polizia; assorbimento del Corpo Forestale dello Stato.
+</details>
+
+Domanda 11 🟡 Media
+Il D.Lgs. 177/2016 definisce i comparti di specialità con norma di rango:
+A) Regolamentare
+B) Ministeriale
+C) Primario
+D) Costituzionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3.1 (Tabella) → "Definizione con norma di rango PRIMARIO"
+Spiegazione: Il D.Lgs. 177/2016, essendo un decreto legislativo, ha rango di norma primaria, superiore ai decreti ministeriali.
+</details>
+
+Domanda 12 🔴 Avanzata
+Il D.Lgs. 177/2016 si pone in linea di continuità con i criteri stabiliti da quale precedente provvedimento?
+A) D.M. 15 agosto 2017
+B) D.M. 28 aprile 2006
+C) L. 121/1981
+D) D.L. 92/2008
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.3.1 (Tabella) → "Definisce i comparti di specialità delle FF.PP. in linea di continuità con i criteri del D.M. 28 aprile 2006"
+Spiegazione: Il D.Lgs. 177/2016 riprende i criteri del D.M. 28 aprile 2006, ma li eleva a norma di rango primario.
+</details>
+
+Domanda 13 🟡 Media
+A quale Decreto Ministeriale il D.Lgs. 177/2016 demanda le modalità di esercizio dei compiti nei comparti di specialità?
+A) D.M. 28 aprile 2006
+B) D.M. 15 agosto 2017
+C) D.M. 5 agosto 2008
+D) D.M. 10 gennaio 2018
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.3.1 (Tabella) → "demandando le modalità di esercizio [...] a un discendente Decreto M.I. (adottato il 15 agosto 2017)"
+Spiegazione: Il D.Lgs. 177/2016 demanda al D.M. 15 agosto 2017 le modalità di esercizio dei compiti in via preminente o esclusiva.
+</details>
+
+Domanda 14 🔴 Avanzata
+Secondo il principio di UNICITÀ STRUTTURALE previsto dall'art. 2 del D.Lgs. 177/2016, la Forza di Polizia prescelta per un comparto:
+A) Deve condividere le strutture con le altre Forze di Polizia
+B) È l'unica a poter creare strutture deputate all'esercizio di quella funzione
+C) Deve cedere le proprie strutture alle altre Forze di Polizia
+D) Non può creare strutture senza autorizzazione ministeriale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.3.1 (Tabella) → "Solo la F.P. prescelta ha facoltà di creare strutture deputate all'esercizio di quella funzione"
+Spiegazione: Il principio di unicità strutturale implica che solo la Forza di Polizia designata per un comparto può creare strutture operative dedicate.
+</details>
+
+Domanda 15 🟡 Media
+Secondo il D.Lgs. 177/2016, la Forza di Polizia con competenza esclusiva o preminente in un comparto costituisce per le altre:
+A) Un concorrente da superare
+B) Un modello da imitare
+C) Il fondamentale polo di gravitazione informativa e di analisi
+D) Un ostacolo all'azione coordinata
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3.1 (Tabella) → "essa costituisce per le altre FF.PP. il fondamentale polo di gravitazione informativa e di analisi"
+Spiegazione: La F.P. con competenza nel comparto diventa il riferimento informativo e analitico per le altre Forze.
+</details>
+
+Domanda 16 🟢 Base
+Il D.Lgs. 177/2016 ha disposto l'assorbimento del Corpo Forestale dello Stato con attribuzione di:
+A) Solo le funzioni
+B) Solo le risorse strumentali
+C) Funzioni, risorse strumentali e finanziarie, e transito del personale
+D) Solo il transito del personale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.2 (Schema) → "Attribuzione delle relative funzioni, Attribuzione delle risorse strumentali e finanziarie, Conseguente transito del personale"
+Spiegazione: L'assorbimento ha riguardato funzioni, risorse strumentali e finanziarie, e il transito del personale del CFS.
+</details>
+
+📚 SEZIONE 3 - COMPARTI DI SPECIALITÀ: QUADRO GENERALE
+Domanda 17 🟢 Base
+Quanti sono in totale i comparti di specialità delle Forze di Polizia secondo il D.Lgs. 177/2016?
+A) 8
+B) 10
+C) 12
+D) 6
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Tabella) → "TOTALE: 10"
+Spiegazione: I comparti di specialità totali sono 10, ripartiti tra PdS (4), CC (4) e GdF (2).
+</details>
+
+Domanda 18 🟢 Base
+Quanti comparti di specialità sono attribuiti alla Polizia di Stato?
+A) 2
+B) 3
+C) 4
+D) 5
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.2 (Tabella) → "Polizia di Stato: 4 - Stradale, Ferroviaria, Frontiere, Postale e comunicazioni"
+Spiegazione: La Polizia di Stato ha 4 comparti di specialità.
+</details>
+
+Domanda 19 🟢 Base
+Quanti comparti di specialità sono attribuiti ai Carabinieri?
+A) 2
+B) 3
+C) 4
+D) 5
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.2 (Tabella) → "Carabinieri: 4 - Sanità/sofisticazioni, Forestale/ambiente/agroalimentare, Lavoro, Patrimonio culturale"
+Spiegazione: I Carabinieri hanno 4 comparti di specialità.
+</details>
+
+Domanda 20 🟡 Media
+Quanti comparti di specialità sono attribuiti alla Guardia di Finanza?
+A) 2
+B) 3
+C) 4
+D) 5
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: A
+Fonte KB: Sezione 3.2 (Tabella) → "Guardia di Finanza: 2 - Mare, Circolazione euro/mezzi pagamento"
+Spiegazione: La Guardia di Finanza ha solo 2 comparti di specialità, a differenza di PdS e CC che ne hanno 4 ciascuno.
+</details>
+
+Domanda 21 🟡 Media
+Qual è la differenza tra competenza ESCLUSIVA e competenza PREMINENTE?
+A) Non c'è alcuna differenza
+B) L'esclusiva permette solo alla F.P. designata di operare; la preminente consente il concorso di altre FF.PP.
+C) L'esclusiva è temporanea, la preminente è permanente
+D) L'esclusiva riguarda solo le indagini, la preminente solo la prevenzione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.3 (Tabella) → "ESCLUSIVA: Solo la F.P. designata può operare in quel settore [...] PREMINENTE: La F.P. designata ha ruolo principale ma altre possono concorrere"
+Spiegazione: La competenza esclusiva esclude l'intervento delle altre FF.PP., mentre quella preminente ammette il loro concorso in ruolo subordinato.
+</details>
+
+Domanda 22 🟡 Media
+In caso di competenza ESCLUSIVA di una Forza di Polizia in un comparto, le altre Forze di Polizia:
+A) Possono creare strutture parallele
+B) NON possono creare strutture in quel settore
+C) Devono obbligatoriamente concorrere
+D) Possono assumere il ruolo principale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.3 (Tabella) → "ESCLUSIVA: [...] Altre FF.PP. NON possono creare strutture"
+Spiegazione: In caso di competenza esclusiva, le altre Forze di Polizia non possono creare strutture dedicate a quel settore.
+</details>
+
+Domanda 23 🔴 Avanzata
+Quale delle seguenti affermazioni sul D.Lgs. 177/2016 rispetto al D.M. 28 aprile 2006 è CORRETTA?
+A) Il D.Lgs. 177/2016 ha rango normativo inferiore al D.M. 2006
+B) Il D.Lgs. 177/2016 ha rango normativo primario, superiore al D.M. 2006
+C) Entrambi hanno lo stesso rango normativo
+D) Il D.M. 2006 ha abrogato il D.Lgs. 177/2016
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione Trabocchetti, n. 23 → "D.Lgs. = norma di rango PRIMARIO (superiore)"
+Spiegazione: Il D.Lgs. 177/2016 è una norma di rango primario (legislativo), superiore al D.M. 28/4/2006 che era di rango ministeriale (secondario).
+</details>
+
+Domanda 24 🟡 Media
+Il D.M. 15 agosto 2017 è stato elaborato da:
+A) Il Ministro dell'Interno da solo
+B) Un gruppo di lavoro interforze presso l'Ufficio per il Coordinamento e la Pianificazione delle Forze di Polizia
+C) Il Consiglio dei Ministri
+D) Le singole Forze di Polizia autonomamente
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.1 (Tabella) → "Elaborazione: Gruppo di lavoro interforze, attivato nell'ambito dell'Ufficio per il Coordinamento e la Pianificazione delle Forze di Polizia"
+Spiegazione: Il D.M. 15 agosto 2017 è stato elaborato da un gruppo di lavoro interforze nell'ambito dell'Ufficio per il Coordinamento.
+</details>
+
+Domanda 25 🟢 Base
+Il D.M. 15 agosto 2017 è stato adottato ai sensi di quali articoli del D.Lgs. 177/2016?
+A) Artt. 1 e 2
+B) Artt. 2 e 3
+C) Artt. 4 e 5
+D) Artt. 6 e 7
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 5.1 (Tabella) → "Base giuridica: Adottato ai sensi degli artt. 2 e 3 del D.Lgs. 19 agosto 2016, n. 177"
+Spiegazione: Il D.M. 15 agosto 2017 è stato adottato ai sensi degli articoli 2 e 3 del D.Lgs. 177/2016.
+</details>
+
+Domanda 26 🔴 Avanzata
+Mettere in ordine cronologico le seguenti norme: D.Lgs. 177/2016, L. 124/2015, D.M. 15/8/2017, D.M. 28/4/2006
+A) D.M. 28/4/2006 → L. 124/2015 → D.Lgs. 177/2016 → D.M. 15/8/2017
+B) L. 124/2015 → D.M. 28/4/2006 → D.Lgs. 177/2016 → D.M. 15/8/2017
+C) D.Lgs. 177/2016 → L. 124/2015 → D.M. 28/4/2006 → D.M. 15/8/2017
+D) D.M. 28/4/2006 → D.Lgs. 177/2016 → L. 124/2015 → D.M. 15/8/2017
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: A
+Fonte KB: Indice Analitico Rapido → D.M. 28/4/2006 (2006), L. 124/2015 (7 agosto 2015), D.Lgs. 177/2016 (19 agosto 2016), D.M. 15/8/2017 (15 agosto 2017)
+Spiegazione: L'ordine cronologico corretto è: D.M. 2006 → Legge Madia 2015 → D.Lgs. 177/2016 → D.M. attuativo 2017.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 4.1 - SICUREZZA STRADALE
+Domanda 27 🟢 Base
+Quale Forza di Polizia è la principale responsabile del comparto Sicurezza Stradale?
+A) Carabinieri
+B) Guardia di Finanza
+C) Polizia di Stato
+D) Polizia Locale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.1 (Tabella) → "F.P. principale: Polizia di Stato"
+Spiegazione: La Polizia di Stato è la Forza di Polizia principale nel comparto della sicurezza stradale.
+</details>
+
+Domanda 28 🟡 Media
+In AUTOSTRADA, la competenza in materia di sicurezza stradale è:
+A) Preminente della Polizia di Stato
+B) Esclusiva della Polizia di Stato
+C) Condivisa tra Polizia di Stato e Carabinieri
+D) Esclusiva dei Carabinieri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.1 (Tabella) → "Autostrada: PdS: ESCLUSIVA - Solo Polizia Stradale"
+Spiegazione: In autostrada la competenza della Polizia di Stato è ESCLUSIVA, non preminente.
+</details>
+
+Domanda 29 🟡 Media
+Sulla viabilità ORDINARIA, la competenza in materia di sicurezza stradale è:
+A) Esclusiva della Polizia di Stato
+B) Esclusiva dei Carabinieri
+C) Preminente congiunta di Carabinieri e Polizia di Stato
+D) Esclusiva della Polizia Locale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.1 (Tabella) → "Viabilità ordinaria: CC e PdS: PREMINENTE (congiunta) - In linea con art. 12 C.d.S."
+Spiegazione: Sulla viabilità ordinaria, Carabinieri e Polizia di Stato hanno competenza PREMINENTE CONGIUNTA.
+</details>
+
+Domanda 30 🔴 Avanzata
+Quale delle seguenti affermazioni sulla sicurezza stradale è CORRETTA?
+A) In autostrada la competenza è preminente della PdS
+B) Sulla viabilità ordinaria la competenza è esclusiva dei CC
+C) In autostrada la competenza è esclusiva della PdS, sulla viabilità ordinaria è preminente congiunta CC e PdS
+D) La Polizia Locale ha competenza esclusiva sulla viabilità urbana
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.1 (Trabocchetto critico) → "In AUTOSTRADA → PdS ha competenza ESCLUSIVA; Sulla viabilità ORDINARIA → CC e PdS hanno competenza PREMINENTE CONGIUNTA"
+Spiegazione: La distinzione tra ESCLUSIVA (autostrada) e PREMINENTE CONGIUNTA (viabilità ordinaria) è fondamentale e frequente oggetto di trabocchetto.
+</details>
+
+Domanda 31 🟡 Media
+Sulla viabilità URBANA, qual è l'obiettivo previsto dalla normativa?
+A) Competenza esclusiva della Polizia di Stato
+B) Competenza esclusiva dei Carabinieri
+C) Ruolo preminente della Polizia Locale
+D) Competenza esclusiva della Guardia di Finanza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.1 (Tabella) → "Viabilità urbana: Polizia locale: obiettivo ruolo preminente - Accordo-quadro con ANCI"
+Spiegazione: Sulla viabilità urbana l'obiettivo è il ruolo preminente della Polizia Locale, previsto dall'accordo-quadro con l'ANCI.
+</details>
+
+Domanda 32 🟢 Base
+La competenza preminente congiunta di CC e PdS sulla viabilità ordinaria è in linea con quale articolo del Codice della Strada?
+A) Art. 10 C.d.S.
+B) Art. 12 C.d.S.
+C) Art. 14 C.d.S.
+D) Art. 186 C.d.S.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.1 (Tabella) → "In linea con art. 12 C.d.S."
+Spiegazione: La competenza preminente congiunta sulla viabilità ordinaria è conforme all'art. 12 del Codice della Strada.
+</details>
+
+📚 SEZIONE 4.2 - SICUREZZA FERROVIARIA
+Domanda 33 🟢 Base
+Quale Forza di Polizia è la principale responsabile del comparto Sicurezza Ferroviaria?
+A) Carabinieri
+B) Guardia di Finanza
+C) Polizia di Stato
+D) Polizia Ferroviaria autonoma
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.2 (Tabella) → "F.P. principale: Polizia di Stato"
+Spiegazione: La Polizia di Stato è la Forza di Polizia principale nel comparto della sicurezza ferroviaria.
+</details>
+
+Domanda 34 🟡 Media
+I compiti di polizia ferroviaria in senso stretto sono di competenza:
+A) Preminente della Polizia di Stato
+B) Esclusiva della Polizia di Stato
+C) Condivisa tra Polizia di Stato e Carabinieri
+D) Esclusiva dei Carabinieri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.2 (Tabella) → "Compiti di polizia ferroviaria in senso stretto: PdS: ESCLUSIVA"
+Spiegazione: I compiti di polizia ferroviaria in senso stretto sono di competenza ESCLUSIVA della Polizia di Stato.
+</details>
+
+Domanda 35 🟡 Media
+I servizi di prevenzione generale e tutela dell'ordine e sicurezza pubblica in ambito ferroviario sono di competenza:
+A) Esclusiva della Polizia di Stato
+B) Esclusiva dei Carabinieri
+C) Preminente della Polizia di Stato con eventuale concorso dell'Arma
+D) Esclusiva della Guardia di Finanza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.2 (Tabella) → "Servizi di prevenzione generale e tutela O.S.P.: PdS: PREMINENTE - Con eventuale concorso dell'Arma dei Carabinieri"
+Spiegazione: Per i servizi di prevenzione generale la competenza è PREMINENTE della PdS, con possibile concorso dei Carabinieri.
+</details>
+
+Domanda 36 🔴 Avanzata
+Nel comparto della sicurezza ferroviaria, sono preservate le esigenze operative dell'Arma a tutela di:
+A) La sicurezza dei passeggeri civili
+B) La mobilità delle Forze Armate, in linea con le funzioni di polizia militare
+C) Il trasporto merci pericolose
+D) Le infrastrutture ferroviarie critiche
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.2 → "Sono preservate le esigenze operative dell'Arma a tutela della mobilità delle Forze Armate, in linea con le funzioni di polizia militare"
+Spiegazione: Le esigenze dell'Arma sono preservate specificamente per la tutela della mobilità delle Forze Armate, coerentemente con il suo ruolo di polizia militare.
+</details>
+
+📚 SEZIONE 4.3 - SICUREZZA DELLE FRONTIERE
+Domanda 37 🟢 Base
+Quale Forza di Polizia è la principale responsabile del comparto Sicurezza delle Frontiere?
+A) Carabinieri
+B) Guardia di Finanza
+C) Polizia di Stato
+D) Guardia Costiera
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.3 (Tabella) → "F.P. principale: Polizia di Stato"
+Spiegazione: La Polizia di Stato è la Forza di Polizia principale nel comparto della sicurezza delle frontiere.
+</details>
+
+Domanda 38 🟡 Media
+I servizi di polizia di frontiera sono di competenza:
+A) Esclusiva della Polizia di Stato
+B) Preminente della Polizia di Stato
+C) Esclusiva della Guardia di Finanza
+D) Condivisa tra tutte le Forze di Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.3 (Tabella) → "Servizi di polizia di frontiera: PdS: PREMINENTE - Attraverso la Specialità di polizia di frontiera"
+Spiegazione: I servizi di polizia di frontiera sono di competenza PREMINENTE (non esclusiva) della Polizia di Stato.
+</details>
+
+Domanda 39 🔴 Avanzata
+In quali condizioni l'Arma dei Carabinieri svolge servizi di polizia di frontiera negli scali portuali e aeroportuali?
+A) Sempre, in concorso con la Polizia di Stato
+B) Solo dove mancano uffici di Pubblica Sicurezza
+C) Solo su richiesta del Prefetto
+D) Mai, è competenza esclusiva della Polizia di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.3 (Trabocchetto) → "L'Arma svolge servizi di polizia di frontiera negli scali portuali e aeroportuali OVE MANCANO UFFICI DI P.S."
+Spiegazione: L'Arma interviene negli scali portuali e aeroportuali SOLO dove mancano uffici di Pubblica Sicurezza.
+</details>
+
+Domanda 40 🟡 Media
+Negli scali marittimi e aerei, quale ruolo hanno Carabinieri e Guardia di Finanza?
+A) Competenza esclusiva
+B) Competenza preminente
+C) Concorso
+D) Nessun ruolo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.3 (Tabella) → "Scali marittimi e aerei: CC e GdF: CONCORSO"
+Spiegazione: Negli scali marittimi e aerei, CC e GdF hanno un ruolo di CONCORSO, non di competenza esclusiva o preminente.
+</details>
+
+📚 SEZIONE 4.4 - SICUREZZA POSTALE E DELLE COMUNICAZIONI
+Domanda 41 🟢 Base
+Quale Forza di Polizia è la principale responsabile del comparto Sicurezza Postale e delle Comunicazioni?
+A) Carabinieri
+B) Guardia di Finanza
+C) Polizia di Stato
+D) Polizia Postale autonoma
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.4 (Tabella) → "F.P. principale: Polizia di Stato"
+Spiegazione: La Polizia di Stato è la Forza di Polizia principale nel comparto della sicurezza postale e delle comunicazioni.
+</details>
+
+Domanda 42 🟢 Base
+La sicurezza, integrità e funzionalità della rete informatica è di competenza di:
+A) Carabinieri
+B) Guardia di Finanza
+C) Polizia di Stato
+D) Tutte le Forze di Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.4 (Tabella) → "Sicurezza, integrità e funzionalità rete informatica: PdS"
+Spiegazione: La sicurezza della rete informatica è competenza della Polizia di Stato.
+</details>
+
+Domanda 43 🟡 Media
+La protezione delle infrastrutture critiche informatizzate è di competenza di:
+A) Carabinieri
+B) Guardia di Finanza
+C) Polizia di Stato
+D) Agenzia per la Cybersicurezza Nazionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.4 (Tabella) → "Protezione infrastrutture critiche informatizzate: PdS"
+Spiegazione: La protezione delle infrastrutture critiche informatizzate è competenza della Polizia di Stato.
+</details>
+
+Domanda 44 🟡 Media
+La criminalità informatica con tecniche di hacking è di competenza di:
+A) Carabinieri
+B) Guardia di Finanza
+C) Polizia di Stato
+D) Tutte le Forze di Polizia in concorso
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.4 (Tabella) → "Criminalità informatica con tecniche di hacking: PdS"
+Spiegazione: La criminalità informatica con tecniche di hacking è competenza della Polizia di Stato.
+</details>
+
+Domanda 45 🟡 Media
+Le attività info-investigative in materia di terrorismo ed eversione nel settore delle comunicazioni sono di competenza di:
+A) Solo Polizia di Stato
+B) Solo Guardia di Finanza
+C) Carabinieri e Guardia di Finanza
+D) Solo Carabinieri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.4 (Tabella) → "Attività info-investigative terrorismo ed eversione: CC e GdF"
+Spiegazione: Le attività info-investigative in materia di terrorismo ed eversione vedono il contributo di Carabinieri e Guardia di Finanza.
+</details>
+
+Domanda 46 🟢 Base
+Il monitoraggio del web per la prevenzione della pedopornografia è di competenza di:
+A) Solo Polizia di Stato
+B) Solo Carabinieri
+C) Solo Guardia di Finanza
+D) Tutte le Forze di Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 4.4 (Tabella) → "Prevenzione pedopornografia: Tutte le FF.PP. - Contributo nel monitoraggio web"
+Spiegazione: Il monitoraggio del web per la prevenzione della pedopornografia vede il contributo di tutte le Forze di Polizia.
+</details>
+
+Domanda 47 🔴 Avanzata
+Gli illeciti informatici nei settori economico-finanziari (evasione fiscale, illeciti doganali, mercati finanziari) sono di competenza:
+A) Esclusiva della Polizia di Stato
+B) Preminente della Guardia di Finanza
+C) Esclusiva dei Carabinieri
+D) Condivisa tra tutte le Forze di Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.4 (Tabella) → "Illeciti informatici in settori economico-finanziari: GdF: PREMINENTE - Evasione fiscale, illeciti doganali, accise, mercati finanziari e mobiliari, valuta, titoli e mezzi di pagamento"
+Spiegazione: Gli illeciti informatici in ambito economico-finanziario sono di competenza PREMINENTE della Guardia di Finanza.
+</details>
+
+Domanda 48 🟡 Media
+Secondo il D.M. 15 agosto 2017, il contributo di TUTTE le Forze di Polizia nel monitoraggio web è previsto per il contrasto a:
+A) Solo terrorismo
+B) Solo pedopornografia
+C) Terrorismo e pedopornografia
+D) Solo criminalità informatica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 5.3 (Tabella Dettagli Attuativi) → "Postale e telecomunicazioni: Contributo di TUTTE le FF.PP. nel monitoraggio web per contrasto terrorismo e prevenzione pedopornografia"
+Spiegazione: Il D.M. 15/8/2017 prevede il contributo di tutte le FF.PP. per il contrasto al terrorismo E la prevenzione della pedopornografia.
+</details>
+
+📚 RIEPILOGO COMPARTI PdS
+Domanda 49 🟢 Base
+Quali sono i QUATTRO comparti di specialità attribuiti alla Polizia di Stato?
+A) Stradale, Ferroviaria, Sanitaria, Postale
+B) Stradale, Ferroviaria, Frontiere, Postale e comunicazioni
+C) Stradale, Ferroviaria, Frontiere, Mare
+D) Stradale, Ambientale, Frontiere, Postale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Tabella) → "Polizia di Stato: 4 - Stradale, Ferroviaria, Frontiere, Postale e comunicazioni"
+Spiegazione: I quattro comparti della PdS sono: Stradale, Ferroviaria, Frontiere, Postale e comunicazioni.
+</details>
+
+Domanda 50 🔴 Avanzata
+Quale delle seguenti affermazioni sui comparti della Polizia di Stato è ERRATA?
+A) In autostrada la competenza stradale è esclusiva della PdS
+B) I compiti di polizia ferroviaria in senso stretto sono esclusivi della PdS
+C) I servizi di polizia di frontiera sono di competenza esclusiva della PdS
+D) La criminalità informatica con tecniche di hacking è competenza della PdS
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.3 (Tabella) → "Servizi di polizia di frontiera: PdS: PREMINENTE" (non esclusiva)
+Spiegazione: I servizi di polizia di frontiera sono di competenza PREMINENTE (non esclusiva) della PdS, con concorso di CC e GdF negli scali.
+</details>
+
+Domanda 51 🟡 Media
+Nel comparto della sicurezza stradale, l'accordo-quadro con l'ANCI riguarda:
+A) La competenza in autostrada
+B) La competenza sulla viabilità ordinaria
+C) L'obiettivo del ruolo preminente della Polizia Locale sulla viabilità urbana
+D) La competenza esclusiva della Polizia di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.1 (Tabella) → "Viabilità urbana: Polizia locale: obiettivo ruolo preminente - Accordo-quadro con ANCI"
+Spiegazione: L'accordo-quadro con l'ANCI (Associazione Nazionale Comuni Italiani) riguarda l'obiettivo del ruolo preminente della Polizia Locale sulla viabilità urbana.
+</details>
+
+Domanda 52 🟢 Base
+Quale sigla identifica l'Associazione Nazionale Comuni Italiani?
+A) ANCE
+B) ANCI
+C) ANCC
+D) ANIA
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario Acronimi → "ANCI: Associazione Nazionale Comuni Italiani"
+Spiegazione: ANCI è la sigla dell'Associazione Nazionale Comuni Italiani.
+</details>
+
+📚 SEZIONE 4.5 - SICUREZZA IN MATERIA DI SANITÀ, IGIENE E SOFISTICAZIONI ALIMENTARI
+Domanda 53 🟢 Base
+Quale Forza di Polizia è la principale responsabile del comparto Sicurezza in materia di sanità, igiene e sofisticazioni alimentari?
+A) Polizia di Stato
+B) Guardia di Finanza
+C) Carabinieri
+D) Corpo Forestale dello Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.5 (Tabella) → "F.P. principale: Carabinieri"
+Spiegazione: I Carabinieri sono la Forza di Polizia principale nel comparto della sicurezza sanitaria e delle sofisticazioni alimentari.
+</details>
+
+Domanda 54 🟡 Media
+La competenza in materia di sanità, igiene e sofisticazioni alimentari è:
+A) Preminente dei Carabinieri
+B) Esclusiva dei Carabinieri
+C) Condivisa tra Carabinieri e Guardia di Finanza
+D) Esclusiva della Polizia di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella) → "Sanità, igiene e sofisticazioni alimentari: CC: ESCLUSIVA"
+Spiegazione: La competenza in materia di sanità, igiene e sofisticazioni alimentari è ESCLUSIVA dei Carabinieri.
+</details>
+
+Domanda 55 🟢 Base
+Quale Comando dei Carabinieri è deputato alla tutela della salute?
+A) Comando Carabinieri Tutela Patrimonio Culturale
+B) Comando Carabinieri per la Tutela della Salute (NAS)
+C) Comando Carabinieri per la Tutela del Lavoro
+D) Comando Carabinieri Tutela Ambiente
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella) → "Comando Carabinieri per la Tutela della Salute (NAS)"
+Spiegazione: Il Comando Carabinieri per la Tutela della Salute, noto come NAS, è deputato a questo comparto.
+</details>
+
+Domanda 56 🟡 Media
+La tutela dei consumatori e il contrasto al doping sono di competenza:
+A) Esclusiva dei Carabinieri
+B) Preminente dei Carabinieri
+C) Esclusiva della Guardia di Finanza
+D) Condivisa tra tutte le Forze di Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.5 (Tabella) → "Tutela consumatori: CC: PREMINENTE" e "Doping: CC: PREMINENTE"
+Spiegazione: La tutela dei consumatori e il contrasto al doping sono di competenza PREMINENTE (non esclusiva) dei Carabinieri.
+</details>
+
+Domanda 57 🟡 Media
+Nel comparto sanitario, quale ruolo svolge la Guardia di Finanza?
+A) Competenza esclusiva
+B) Competenza preminente
+C) Controllo della spesa sanitaria (polizia economico-finanziaria)
+D) Nessun ruolo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.5 (Tabella) → "Controllo della spesa sanitaria: GdF - Controlli di polizia economico-finanziaria"
+Spiegazione: La GdF interviene nel comparto sanitario per il controllo della spesa sanitaria nell'ambito dei suoi compiti di polizia economico-finanziaria.
+</details>
+
+Domanda 58 🟢 Base
+Cosa significa la sigla NAS?
+A) Nucleo Antisofisticazioni e Sanità
+B) Nucleo Antidroga Speciale
+C) Nucleo Antisabotaggio
+D) Nucleo Antiterrorismo Speciale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: A
+Fonte KB: Glossario Acronimi → "NAS: Nuclei Antisofisticazioni e Sanità - Comando CC Tutela Salute"
+Spiegazione: NAS sta per Nuclei Antisofisticazioni e Sanità, parte del Comando Carabinieri per la Tutela della Salute.
+</details>
+
+📚 SEZIONE 4.6 - SICUREZZA IN MATERIA FORESTALE, AMBIENTALE E AGROALIMENTARE
+Domanda 59 🟢 Base
+Quale Forza di Polizia è la principale responsabile del comparto Sicurezza forestale, ambientale e agroalimentare?
+A) Polizia di Stato
+B) Guardia di Finanza
+C) Carabinieri
+D) Corpo Forestale dello Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.6 (Tabella) → "F.P. principale: Carabinieri"
+Spiegazione: I Carabinieri sono responsabili di questo comparto, anche a seguito dell'assorbimento del Corpo Forestale dello Stato.
+</details>
+
+Domanda 60 🟡 Media
+La competenza in materia FORESTALE è:
+A) Preminente dei Carabinieri
+B) Esclusiva dei Carabinieri
+C) Condivisa tra Carabinieri e Guardia di Finanza
+D) Preminente della Guardia di Finanza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.6 (Tabella) → "Materia forestale: CC: ESCLUSIVA - Ex Corpo Forestale dello Stato (assorbito)"
+Spiegazione: La competenza in materia forestale è ESCLUSIVA dei Carabinieri, a seguito dell'assorbimento del CFS.
+</details>
+
+Domanda 61 🔴 Avanzata
+Quale delle seguenti affermazioni è CORRETTA riguardo alle competenze in materia forestale, ambientale e agroalimentare?
+A) Tutte e tre le materie sono di competenza esclusiva dei Carabinieri
+B) La materia forestale è esclusiva dei CC, mentre ambientale e agroalimentare sono preminenti dei CC
+C) Tutte e tre le materie sono di competenza preminente dei Carabinieri
+D) La materia ambientale è esclusiva dei CC, mentre forestale e agroalimentare sono preminenti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.6 (Trabocchetto critico) → "FORESTALE → CC competenza ESCLUSIVA; AGROALIMENTARE e AMBIENTALE → CC competenza PREMINENTE (NON esclusiva)"
+Spiegazione: È fondamentale distinguere: FORESTALE = esclusiva; AMBIENTALE e AGROALIMENTARE = preminente (non esclusiva).
+</details>
+
+Domanda 62 🟡 Media
+La competenza in materia AMBIENTALE è:
+A) Esclusiva dei Carabinieri
+B) Preminente dei Carabinieri
+C) Esclusiva della Guardia di Finanza
+D) Condivisa tra tutte le Forze di Polizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.6 (Tabella) → "Materia ambientale: CC: PREMINENTE"
+Spiegazione: La competenza in materia ambientale è PREMINENTE (non esclusiva) dei Carabinieri.
+</details>
+
+Domanda 63 🟡 Media
+La competenza in materia AGROALIMENTARE è:
+A) Esclusiva dei Carabinieri
+B) Preminente dei Carabinieri
+C) Esclusiva della Guardia di Finanza
+D) Preminente della Polizia di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.6 (Tabella) → "Materia agroalimentare: CC: PREMINENTE"
+Spiegazione: La competenza in materia agroalimentare è PREMINENTE (non esclusiva) dei Carabinieri.
+</details>
+
+Domanda 64 🟡 Media
+Nel comparto forestale/ambientale/agroalimentare, quali compiti svolge la Guardia di Finanza?
+A) Competenza esclusiva in materia ambientale
+B) Controllo doganale CITES, frodi comunitarie e vigilanza violazioni ambientali con comparto aeronavale
+C) Nessun ruolo
+D) Competenza preminente in materia forestale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.6 (Tabella) → "Controllo doganale CITES: GdF", "Frodi comunitarie: GdF", "Vigilanza violazioni ambientali: GdF - Mediante comparto aeronavale"
+Spiegazione: La GdF svolge controlli CITES, contrasto alle frodi UE e vigilanza ambientale con mezzi aeronavali.
+</details>
+
+Domanda 65 🟢 Base
+Cosa significa la sigla CITES?
+A) Convenzione Internazionale sul Traffico di Esplosivi e Sostanze
+B) Convention on International Trade in Endangered Species (Convenzione di Washington)
+C) Centro Interforze Tutela Emergenze Sanitarie
+D) Comitato Italiano Tutela Ecosistemi
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario Acronimi → "CITES: Convention on International Trade in Endangered Species - Convenzione Washington"
+Spiegazione: CITES è la Convenzione sul commercio internazionale delle specie minacciate di estinzione (Convenzione di Washington).
+</details>
+
+📚 SEZIONE 4.9 - SICUREZZA IN MATERIA DI LAVORO E LEGISLAZIONE SOCIALE
+Domanda 66 🟢 Base
+Quale Forza di Polizia è la principale responsabile del comparto Sicurezza in materia di lavoro e legislazione sociale?
+A) Polizia di Stato
+B) Guardia di Finanza
+C) Carabinieri
+D) Ispettorato del Lavoro
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.9 (Tabella) → "F.P. principale: Carabinieri"
+Spiegazione: I Carabinieri sono la Forza di Polizia principale nel comparto della sicurezza del lavoro.
+</details>
+
+Domanda 67 🟡 Media
+La competenza in materia di lavoro e legislazione sociale è:
+A) Preminente dei Carabinieri
+B) Esclusiva dei Carabinieri
+C) Condivisa tra Carabinieri e Guardia di Finanza
+D) Esclusiva della Polizia di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.9 (Tabella) → "Lavoro e legislazione sociale: CC: ESCLUSIVA"
+Spiegazione: La competenza in materia di lavoro e legislazione sociale è ESCLUSIVA dei Carabinieri.
+</details>
+
+Domanda 68 🟢 Base
+Cosa significa la sigla NIL?
+A) Nucleo Investigativo Locale
+B) Nuclei Ispettorato Lavoro
+C) Nucleo Interforze Legalità
+D) Nucleo Informativo Logistico
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario Acronimi → "NIL: Nuclei Ispettorato Lavoro - Comando CC Tutela Lavoro"
+Spiegazione: NIL sta per Nuclei Ispettorato Lavoro, parte del Comando Carabinieri per la Tutela del Lavoro.
+</details>
+
+📚 SEZIONE 4.8 - SICUREZZA DEL PATRIMONIO CULTURALE
+Domanda 69 🟢 Base
+Quale Forza di Polizia è la principale responsabile del comparto Sicurezza del patrimonio archeologico, storico, artistico e culturale?
+A) Polizia di Stato
+B) Guardia di Finanza
+C) Carabinieri
+D) Ministero della Cultura
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.8 (Tabella) → "F.P. principale: Carabinieri"
+Spiegazione: I Carabinieri sono la Forza di Polizia principale nel comparto della tutela del patrimonio culturale.
+</details>
+
+Domanda 70 🟡 Media
+La competenza in materia di patrimonio culturale è:
+A) Preminente dei Carabinieri
+B) Esclusiva dei Carabinieri
+C) Condivisa tra Carabinieri e Polizia di Stato
+D) Preminente della Guardia di Finanza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.8 (Tabella) → "Patrimonio culturale: CC: ESCLUSIVA"
+Spiegazione: La competenza in materia di patrimonio culturale è ESCLUSIVA dei Carabinieri.
+</details>
+
+Domanda 71 🔴 Avanzata
+Quale caratteristica particolare ha la competenza dei Carabinieri in materia di patrimonio culturale?
+A) È limitata al solo territorio nazionale
+B) È esercitata anche in ambito internazionale
+C) È condivisa con la Guardia di Finanza all'estero
+D) È subordinata alle direttive del Ministero degli Esteri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.8 (Tabella e Trabocchetto) → "Ambito internazionale: CC: ESCLUSIVA - Funzioni esercitate anche in ambito internazionale"
+Spiegazione: È uno dei pochi comparti con competenza TOTALMENTE ESCLUSIVA dell'Arma, anche in ambito INTERNAZIONALE.
+</details>
+
+Domanda 72 🟢 Base
+Cosa significa la sigla TPC?
+A) Tutela Prevenzione Criminalità
+B) Tutela Patrimonio Culturale
+C) Territorio Protezione Civile
+D) Traffico Polizia Coordinata
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario Acronimi → "TPC: Tutela Patrimonio Culturale - Comando CC specializzato"
+Spiegazione: TPC sta per Tutela Patrimonio Culturale, il Comando Carabinieri specializzato in questo settore.
+</details>
+
+📚 SEZIONE 4.10 - SICUREZZA DEL MARE (GdF)
+Domanda 73 🟢 Base
+Quale Forza di Polizia è la principale responsabile del comparto Sicurezza del mare?
+A) Polizia di Stato
+B) Guardia di Finanza
+C) Carabinieri
+D) Guardia Costiera
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.10 (Tabella) → "F.P. principale: Guardia di Finanza"
+Spiegazione: La Guardia di Finanza è la Forza di Polizia principale nel comparto della sicurezza del mare.
+</details>
+
+Domanda 74 🟡 Media
+La competenza in materia di sicurezza del mare è:
+A) Preminente della Guardia di Finanza
+B) Esclusiva della Guardia di Finanza
+C) Condivisa tra Guardia di Finanza e Guardia Costiera
+D) Esclusiva dei Carabinieri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.10 (Tabella) → "Sicurezza del mare: GdF: ESCLUSIVA"
+Spiegazione: La competenza in materia di sicurezza del mare è ESCLUSIVA della Guardia di Finanza.
+</details>
+
+Domanda 75 🔴 Avanzata
+Quale obbligo particolare ha la Guardia di Finanza nel comparto della sicurezza del mare?
+A) Cedere la competenza alle altre Forze di Polizia su richiesta
+B) Assicurare il supporto alle altre Forze di Polizia con propri mezzi navali
+C) Operare solo in acque territoriali
+D) Coordinare la Guardia Costiera
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.10 (Tabella e Trabocchetto) → "Supporto alle altre F.P.: GdF - Assicura il supporto alle altre F.P. con propri mezzi per l'assolvimento dei compiti istituzionali"
+Spiegazione: Pur avendo competenza ESCLUSIVA, la GdF ha l'obbligo di SUPPORTARE le altre FF.PP. con i propri mezzi navali.
+</details>
+
+📚 SEZIONE 4.7 - SICUREZZA NELLA CIRCOLAZIONE DELL'EURO E DEI MEZZI DI PAGAMENTO (GdF)
+Domanda 76 🟢 Base
+Quale Forza di Polizia è la principale responsabile del comparto Sicurezza nella circolazione dell'euro e dei mezzi di pagamento?
+A) Polizia di Stato
+B) Guardia di Finanza
+C) Carabinieri
+D) Banca d'Italia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.7 (Tabella) → "F.P. principale: Guardia di Finanza"
+Spiegazione: La Guardia di Finanza è la Forza di Polizia principale nel comparto della circolazione dell'euro e dei mezzi di pagamento.
+</details>
+
+Domanda 77 🟡 Media
+La competenza in materia di circolazione dell'euro e dei mezzi di pagamento è:
+A) Esclusiva della Guardia di Finanza
+B) Preminente della Guardia di Finanza
+C) Condivisa tra Guardia di Finanza e Carabinieri
+D) Esclusiva della Polizia di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 4.7 (Tabella) → "Circolazione euro e mezzi di pagamento: GdF: PREMINENTE"
+Spiegazione: La competenza è PREMINENTE (non esclusiva) della Guardia di Finanza.
+</details>
+
+Domanda 78 🔴 Avanzata
+Quale ruolo specifico svolge l'Arma dei Carabinieri nel comparto della circolazione dell'euro e dei mezzi di pagamento?
+A) Competenza esclusiva
+B) Nessun ruolo
+C) Apporto specifico per la repressione del falso nummario
+D) Competenza preminente congiunta con la GdF
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.7 (Tabella) → "Falso nummario: CC - Apporto specifico dell'Arma"
+Spiegazione: I Carabinieri forniscono un apporto specifico per la repressione del falso nummario, ferma restando la competenza prevalente della GdF.
+</details>
+
+Domanda 79 🟡 Media
+Quanti sono i comparti di specialità attribuiti alla Guardia di Finanza e quali sono?
+A) 3: Mare, Euro/mezzi pagamento, Frontiere
+B) 2: Mare, Circolazione euro/mezzi di pagamento
+C) 4: Mare, Euro, Agroalimentare, Postale
+D) 1: Solo sicurezza economico-finanziaria
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Tabella) → "Guardia di Finanza: 2 - Mare, Circolazione euro/mezzi pagamento"
+Spiegazione: La GdF ha solo 2 comparti di specialità: Mare e Circolazione euro/mezzi di pagamento.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 6 - RAPPORTI CON LE FORZE ARMATE
+Domanda 80 🟢 Base
+Quale articolo della L. 121/1981 disciplina il concorso delle Forze Armate?
+A) Art. 10
+B) Art. 13
+C) Art. 15
+D) Art. 18
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.1 (Tabella) → "Art. 13 L. 121/1981: 'Nuovo ordinamento dell'Amministrazione della pubblica sicurezza' - Concorso delle F.A."
+Spiegazione: L'art. 13 della L. 121/1981 disciplina il concorso delle Forze Armate nei compiti di pubblica sicurezza.
+</details>
+
+Domanda 81 🟡 Media
+In quali situazioni è previsto l'impiego delle Forze Armate in compiti di concorso secondo l'art. 13 L. 121/1981?
+A) Situazioni ordinarie
+B) Situazioni emergenziali
+C) Su richiesta del Sindaco
+D) Solo in caso di guerra
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.2 (Schema) → "PRESUPPOSTO: Situazioni EMERGENZIALI"
+Spiegazione: Il concorso delle Forze Armate è previsto in situazioni EMERGENZIALI, non ordinarie.
+</details>
+
+Domanda 82 🟡 Media
+Quando le Forze Armate sono impiegate in compiti di concorso, a disposizione di quale autorità vengono poste?
+A) Ministro della Difesa
+B) Comandante Generale dell'Arma dei Carabinieri
+C) Autorità Provinciale di Pubblica Sicurezza (Prefetto)
+D) Questore
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 6.2 (Schema) → "DIPENDENZA: A disposizione dell'AUTORITÀ PROVINCIALE DI P.S. (Prefetto)"
+Spiegazione: Gli assetti delle F.A. in compiti di concorso sono posti a disposizione del Prefetto.
+</details>
+
+Domanda 83 🟡 Media
+Quale ruolo svolge l'Arma dei Carabinieri nei confronti delle Forze Armate impiegate in compiti di concorso?
+A) Ruolo di comando diretto
+B) Interlocutore privilegiato e anello di congiunzione
+C) Nessun ruolo specifico
+D) Ruolo di controllo e verifica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.3 (Tabella) → "Ruolo Arma: Interlocutore PRIVILEGIATO delle F.A." e "Funzione: Anello di congiunzione tra Autorità di P.S. e contingenti F.A."
+Spiegazione: L'Arma è l'interlocutore privilegiato delle F.A. e funge da anello di congiunzione tra l'Autorità di P.S. e i contingenti militari.
+</details>
+
+Domanda 84 🔴 Avanzata
+L'Arma dei Carabinieri funge da "anello di congiunzione" tra quali soggetti?
+A) Ministero della Difesa e Ministero dell'Interno
+B) Autorità di Pubblica Sicurezza e contingenti delle Forze Armate impiegati in compiti di concorso
+C) Governo e Parlamento
+D) Forze di Polizia e cittadini
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.3 (Nota critica) → "L'Arma è l'ANELLO DI CONGIUNZIONE tra: Autorità di Pubblica Sicurezza (Prefetto) e Contingenti delle Forze Armate impiegati in compiti di concorso"
+Spiegazione: L'Arma collega l'Autorità di P.S. (Prefetto) con i contingenti F.A. impiegati sul territorio.
+</details>
+
+Domanda 85 🟡 Media
+Quale obiettivo si persegue con il ruolo dell'Arma come anello di congiunzione con le Forze Armate?
+A) Ridurre i costi operativi
+B) Massima valorizzazione dell'apporto degli assetti di concorso, soprattutto in termini di contributo informativo
+C) Sostituire le Forze Armate con i Carabinieri
+D) Limitare l'impiego delle Forze Armate
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.3 (Tabella) → "Obiettivo: Massima valorizzazione dell'apporto degli assetti di concorso, soprattutto in termini di contributo informativo"
+Spiegazione: L'obiettivo è valorizzare al massimo l'apporto delle F.A., specialmente per il contributo informativo.
+</details>
+
+Domanda 86 🟢 Base
+Quale Decreto Legge ha dato attuazione all'operazione "Strade Sicure"?
+A) D.L. 81/2008
+B) D.L. 92/2008
+C) D.L. 177/2016
+D) D.L. 124/2015
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.1 (Tabella) → "D.L. 92/2008: 'Misure urgenti in materia di sicurezza pubblica' - Operazione 'Strade sicure'"
+Spiegazione: Il D.L. 92/2008 "Misure urgenti in materia di sicurezza pubblica" ha istituito l'operazione "Strade Sicure".
+</details>
+
+📚 SEZIONE 7 - OPERAZIONE "STRADE SICURE"
+Domanda 87 🟢 Base
+Quante unità di personale delle Forze Armate sono impiegate nell'operazione "Strade Sicure"?
+A) 5.000
+B) 6.500
+C) 7.050
+D) 8.000
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.1 (Tabella) → "Consistenza: 7.050 unità complessive"
+Spiegazione: L'operazione "Strade Sicure" impiega 7.050 unità complessive di personale delle Forze Armate.
+</details>
+
+Domanda 88 🟡 Media
+Quale qualifica viene attribuita al personale delle Forze Armate impiegato nell'operazione "Strade Sicure"?
+A) Agente di polizia giudiziaria
+B) Agente di pubblica sicurezza
+C) Ufficiale di polizia giudiziaria
+D) Pubblico ufficiale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.2 (Schema) → "QUALIFICA: Attribuzione qualifica di AGENTE DI PUBBLICA SICUREZZA"
+Spiegazione: Al personale F.A. in "Strade Sicure" viene attribuita la qualifica di agente di pubblica sicurezza.
+</details>
+
+Domanda 89 🟢 Base
+Quali sono i compiti principali del personale F.A. in "Strade Sicure"?
+A) Indagini e arresti
+B) Vigilanze fisse e pattugliamento congiunto (residuale)
+C) Solo scorte a personalità
+D) Solo controllo del territorio in autostrada
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.2 (Schema) → "COMPITI: Vigilanze fisse e Pattugliamento congiunto (RESIDUALE)"
+Spiegazione: I compiti principali sono le vigilanze fisse e, in via residuale, il pattugliamento congiunto.
+</details>
+
+Domanda 90 🟡 Media
+Quale articolo di legge disciplina i poteri di identificazione e perquisizione del personale F.A. in "Strade Sicure"?
+A) Art. 13 L. 121/1981
+B) Art. 4 L. 22 maggio 1975, n. 152
+C) Art. 383 c.p.p.
+D) Art. 2 D.Lgs. 177/2016
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.1 (Tabella) → "Art. di riferimento per identificazione/perquisizione: Art. 4 L. 22 maggio 1975, n. 152"
+Spiegazione: L'art. 4 della L. 152/1975 disciplina i poteri di identificazione e perquisizione del personale F.A.
+</details>
+
+Domanda 91 🔴 Avanzata
+In quali casi il personale delle Forze Armate può procedere all'identificazione e perquisizione?
+A) In qualsiasi momento durante il servizio
+B) Solo su autorizzazione del Prefetto
+C) Nei casi ECCEZIONALI di necessità ed urgenza
+D) Solo in presenza di un ufficiale di P.G.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.3 (Tabella) → "Quando: Nei casi ECCEZIONALI di necessità ed urgenza"
+Spiegazione: Il personale F.A. può procedere a identificazione e perquisizione SOLO nei casi eccezionali di necessità ed urgenza.
+</details>
+
+Domanda 92 🟡 Media
+Per quale UNICA finalità il personale F.A. può effettuare perquisizioni?
+A) Per qualsiasi reato
+B) Solo per accertare eventuale possesso di armi, esplosivi e strumenti di effrazione
+C) Per accertare l'identità delle persone
+D) Per verificare la regolarità dei documenti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.3 (Tabella) → "Finalità: SOLO per accertare eventuale possesso di armi, esplosivi e strumenti di effrazione"
+Spiegazione: La perquisizione è limitata SOLO alla ricerca di armi, esplosivi e strumenti di effrazione.
+</details>
+
+Domanda 93 🔴 Avanzata
+Nei confronti di quali persone il personale F.A. può procedere all'identificazione e perquisizione?
+A) Qualsiasi persona sul territorio nazionale
+B) Solo persone già identificate come sospette
+C) Persone il cui atteggiamento o presenza, in relazione a specifiche circostanze di tempo e luogo, non appaiono giustificabili
+D) Solo cittadini stranieri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.3 (Tabella) → "Nei confronti di: Persone il cui atteggiamento o la cui presenza, in relazione a specifiche circostanze di tempo e di luogo, NON APPAIONO GIUSTIFICABILI"
+Spiegazione: L'intervento è limitato a persone con atteggiamento/presenza non giustificabili in relazione a specifiche circostanze.
+</details>
+
+Domanda 94 🟢 Base
+Il personale delle Forze Armate in "Strade Sicure" ha funzioni di polizia giudiziaria?
+A) Sì, complete
+B) Sì, limitate
+C) No, sono escluse
+D) Solo su delega del P.M.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.4 (Tabella) → "POTERI NON ATTRIBUITI: Funzioni di polizia giudiziaria"
+Spiegazione: Le funzioni di polizia giudiziaria sono ESCLUSE per il personale F.A. in "Strade Sicure".
+</details>
+
+Domanda 95 🟡 Media
+Il personale delle Forze Armate in "Strade Sicure" ha il potere di FERMO?
+A) Sì, sempre
+B) Sì, nei casi urgenti
+C) No
+D) Solo se accompagnato da personale di P.G.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.4 (Tabella) → "POTERI NON ATTRIBUITI: Potere di FERMO"
+Spiegazione: Il potere di fermo NON è attribuito al personale F.A. in "Strade Sicure".
+</details>
+
+Domanda 96 🔴 Avanzata
+Il personale delle Forze Armate in "Strade Sicure" può procedere all'arresto?
+A) Sì, come agente di P.G.
+B) No, mai
+C) Sì, ma solo ex art. 383 c.p.p. (arresto del privato in flagranza)
+D) Sì, su autorizzazione del Prefetto
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.4 (Tabella e Trabocchetto) → "Arresto ex art. 383 c.p.p. (arresto del privato in flagranza di reato perseguibile d'ufficio)" e "Il personale F.A. può procedere all'arresto SOLO ex art. 383 c.p.p. (arresto del PRIVATO in flagranza)"
+Spiegazione: Il personale F.A. può arrestare SOLO come PRIVATO (art. 383 c.p.p.) in flagranza di reato perseguibile d'ufficio, NON come P.G.
+</details>
+
+Domanda 97 🟢 Base
+Cosa prevede l'art. 383 c.p.p.?
+A) L'arresto in flagranza da parte della P.G.
+B) L'arresto del privato in flagranza
+C) Il fermo di indiziato di delitto
+D) La perquisizione personale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Indice Analitico → "Art. 383 c.p.p.: Arresto del privato in flagranza"
+Spiegazione: L'art. 383 c.p.p. disciplina l'arresto in flagranza operato dal privato cittadino.
+</details>
+
+Domanda 98 🟡 Media
+Chi determina armamento, equipaggiamento, uniforme e motorizzazione del personale F.A. in "Strade Sicure"?
+A) Il Ministro della Difesa
+B) Il Comandante Generale dell'Arma
+C) L'Autorità Provinciale di P.S. d'intesa con i Comandi Militari
+D) Il Questore
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 7.6 (Tabella) → "Armamento/Equipaggiamento/Uniforme/Motorizzazione: Autorità Provinciale di P.S. - D'intesa con i Comandi Militari"
+Spiegazione: Le dotazioni sono determinate dall'Autorità Provinciale di P.S. d'intesa con i Comandi Militari.
+</details>
+
+Domanda 99 🟢 Base
+Il personale F.A. in "Strade Sicure" ha il potere di ACCOMPAGNAMENTO?
+A) No
+B) Sì
+C) Solo su richiesta della P.G.
+D) Solo in autostrada
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 7.4 (Tabella) → "POTERI ATTRIBUITI: Potere di ACCOMPAGNAMENTO"
+Spiegazione: Il potere di accompagnamento È attribuito al personale F.A. in "Strade Sicure".
+</details>
+
+📚 RIEPILOGO E DOMANDE TRASVERSALI
+Domanda 100 🟢 Base
+Quale norma ha stabilito l'assorbimento del Corpo Forestale dello Stato nell'Arma dei Carabinieri?
+A) L. 124/2015
+B) D.Lgs. 177/2016
+C) D.M. 15/8/2017
+D) D.L. 92/2008
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.2 (Schema) → "ASSORBIMENTO DEL CORPO FORESTALE DELLO STATO" nel D.Lgs. 177/2016
+Spiegazione: Il D.Lgs. 177/2016 ha disposto l'assorbimento del CFS nell'Arma dei Carabinieri.
+</details>
+
+Domanda 101 🟡 Media
+A partire da quale data è avvenuto l'assorbimento del Corpo Forestale dello Stato nell'Arma?
+A) 1 gennaio 2016
+B) 1 gennaio 2017
+C) 19 agosto 2016
+D) 15 agosto 2017
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario Acronimi → "CFS: Corpo Forestale dello Stato - Assorbito nell'Arma dal 1.1.2017"
+Spiegazione: Il Corpo Forestale dello Stato è stato assorbito nell'Arma dei Carabinieri dal 1° gennaio 2017.
+</details>
+
+Domanda 102 🔴 Avanzata
+Quale delle seguenti affermazioni sui comparti di specialità è ERRATA?
+A) La PdS ha competenza esclusiva in autostrada
+B) I CC hanno competenza esclusiva in materia forestale
+C) La GdF ha competenza esclusiva in materia di euro e mezzi di pagamento
+D) I CC hanno competenza esclusiva in materia di patrimonio culturale anche a livello internazionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 4.7 → "Circolazione euro e mezzi di pagamento: GdF: PREMINENTE" (non esclusiva)
+Spiegazione: La competenza della GdF in materia di euro e mezzi di pagamento è PREMINENTE, non esclusiva. L'Arma fornisce apporto per il falso nummario.
+</details>
+
+Domanda 103 🟡 Media
+Quale modello di sicurezza si è affermato con la partecipazione attiva delle Forze Armate?
+A) Modello semplice
+B) Modello complesso
+C) Modello integrato
+D) Modello misto
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 6.3 (Tabella) → "Modello di sicurezza: Affermato modello di sicurezza 'COMPLESSO' con partecipazione attiva delle F.A."
+Spiegazione: Si è affermato un modello di sicurezza "COMPLESSO" che prevede la partecipazione attiva delle Forze Armate.
+</details>
+
+Domanda 104 🟢 Base
+Quanti sono in totale i comparti di specialità con competenza ESCLUSIVA dei Carabinieri?
+A) 2 (Forestale e Lavoro)
+B) 3 (Sanità, Forestale, Lavoro)
+C) 4 (Sanità, Forestale, Lavoro, Patrimonio culturale)
+D) 1 (Solo Patrimonio culturale)
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Tabella Completa Competenze → Competenza ESCLUSIVA CC: Sanità/sofisticazioni, Forestale, Lavoro, Patrimonio culturale
+Spiegazione: I CC hanno competenza ESCLUSIVA in 4 ambiti: Sanità, Forestale, Lavoro e Patrimonio culturale. Ambientale e Agroalimentare sono PREMINENTI.
+</details>
+
+Domanda 105 🟡 Media
+Secondo la Tabella Confronto Normativo della KB, quale differenza fondamentale esiste tra il D.M. 28/4/2006 e il D.Lgs. 177/2016?
+A) Il D.M. 2006 prevedeva più comparti
+B) Il D.Lgs. 177/2016 ha rango primario (legislativo) mentre il D.M. 2006 aveva rango ministeriale (secondario)
+C) Il D.M. 2006 includeva la Guardia Costiera
+D) Non ci sono differenze sostanziali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Tabella Confronto Normativo → "D.M. 28/4/2006: Rango normativo Ministeriale (secondario) - D.Lgs. 177/2016: Rango normativo Primario (legislativo)"
+Spiegazione: La differenza fondamentale è il rango normativo: il D.Lgs. 177/2016 è norma primaria, superiore al D.M. 2006 che era di rango secondario.
+</details>
+
+
+

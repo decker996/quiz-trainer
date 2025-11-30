@@ -1,0 +1,2316 @@
+BANCA DATI DEL QUIZ "La posizione istituzionale dell'Arma dei Carabinieri - PARTE III"
+
+❓ DOMANDE
+📚 SEZIONE 1 - SINTESI DEFINIZIONE DELL'ARMA
+Domanda 1 🟢 Base
+L'Arma dei Carabinieri è formalmente definita come:
+A) Forza di polizia civile a carattere generale
+B) Forza militare di polizia a carattere speciale in servizio permanente di pubblica sicurezza
+C) Forza militare di polizia a carattere generale in servizio permanente di pubblica sicurezza
+D) Corpo militare dello Stato con funzioni di polizia speciale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.1 → "Forza militare di polizia a carattere generale in servizio permanente di pubblica sicurezza"
+Spiegazione: La definizione formale enfatizza il "carattere generale" (non speciale/limitato a settori specifici) e la natura duale militare E di polizia.
+</details>
+
+Domanda 2 🟢 Base
+Quale elemento della definizione dell'Arma indica il radicamento capillare sul territorio?
+A) Proiezione internazionale
+B) Carattere generale
+C) Vocazione territoriale
+D) Servizio permanente di pubblica sicurezza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.1 (Tabella) → "Vocazione territoriale: Radicamento capillare sul territorio"
+Spiegazione: La vocazione territoriale indica specificamente il radicamento capillare dell'Arma sul territorio nazionale.
+</details>
+
+Domanda 3 🟡 Media
+L'espressione "servizio permanente di pubblica sicurezza" nella definizione dell'Arma indica:
+A) Il servizio svolto solo durante le emergenze
+B) La disponibilità H24/365
+C) L'appartenenza esclusiva al Ministero dell'Interno
+D) La competenza limitata ai reati contro la sicurezza dello Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.1 (Tabella) → "Servizio permanente PS: Disponibilità H24/365"
+Spiegazione: Il servizio permanente indica la disponibilità continua, 24 ore su 24, 365 giorni all'anno.
+</details>
+
+Domanda 4 🟡 Media
+Quale elemento della definizione formale dell'Arma si riferisce all'operatività all'estero?
+A) Sistema Difesa e Sicurezza
+B) Carattere generale
+C) Proiezione internazionale
+D) Vocazione territoriale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.1 (Tabella) → "Proiezione internazionale: Operatività all'estero (missioni, diplomazia)"
+Spiegazione: La proiezione internazionale indica specificamente l'operatività dell'Arma all'estero, incluse missioni e attività diplomatiche.
+</details>
+
+Domanda 5 🟢 Base
+L'Arma dei Carabinieri è definita "pienamente partecipe" di quale sistema?
+A) Solo del sistema Difesa
+B) Solo del sistema Sicurezza
+C) Del sistema Difesa e Sicurezza
+D) Del sistema Giustizia e Sicurezza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.1 → "Pienamente partecipe del sistema Difesa e Sicurezza"
+Spiegazione: L'Arma è pienamente integrata in entrambi i sistemi: Difesa E Sicurezza.
+</details>
+
+Domanda 6 🔴 Avanzata
+Quale delle seguenti affermazioni sulla definizione formale dell'Arma è CORRETTA?
+A) Il "carattere generale" indica la competenza limitata alla difesa militare
+B) La "vocazione territoriale" si riferisce all'operatività nelle missioni estere
+C) La "proiezione internazionale" indica l'operatività all'estero in missioni e diplomazia
+D) Il "servizio permanente" indica il servizio svolto solo dai militari in ferma permanente
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.1 (Tabella) → "Proiezione internazionale: Operatività all'estero (missioni, diplomazia)"
+Spiegazione: La proiezione internazionale indica l'operatività all'estero. Il carattere generale indica competenza NON limitata a settori specifici; la vocazione territoriale indica il radicamento capillare sul territorio nazionale.
+</details>
+
+📚 SEZIONE 2 - IL COMANDANTE GENERALE (Inquadramento e Caratteristiche)
+Domanda 7 🟢 Base
+Qual è il grado del Comandante Generale dell'Arma dei Carabinieri?
+A) Generale di Divisione
+B) Generale di Brigata
+C) Generale di Corpo d'Armata
+D) Tenente Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.2 (Tabella Art. 32 COM) → "Grado: Generale di Corpo d'Armata"
+Spiegazione: Il Comandante Generale riveste il grado di Generale di Corpo d'Armata.
+</details>
+
+Domanda 8 🟢 Base
+Quanto dura il mandato del Comandante Generale?
+A) 2 anni
+B) 3 anni
+C) 4 anni
+D) 5 anni
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.2 (Tabella) → "Durata mandato: 3 anni"
+Spiegazione: Il mandato del Comandante Generale ha durata di 3 anni.
+</details>
+
+Domanda 9 🟡 Media
+Con quale atto viene nominato il Comandante Generale?
+A) Decreto del Ministro della Difesa
+B) Decreto del Presidente del Consiglio dei Ministri
+C) Decreto del Presidente della Repubblica
+D) Delibera del Consiglio dei Ministri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.2 (Tabella) → "Nomina: Con Decreto del Presidente della Repubblica"
+Spiegazione: La nomina avviene con Decreto del PdR, non con DM o DPCM.
+</details>
+
+Domanda 10 🟡 Media
+Chi propone la nomina del Comandante Generale?
+A) Il Ministro dell'Interno
+B) Il Ministro della Difesa
+C) Il Capo di Stato Maggiore della Difesa
+D) Il Presidente del Consiglio dei Ministri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.2 (Tabella) → "Procedura: [...] su proposta del Ministro della Difesa"
+Spiegazione: La proposta di nomina spetta al Ministro della Difesa, non al Ministro dell'Interno.
+</details>
+
+Domanda 11 🟡 Media
+Nella procedura di nomina del Comandante Generale, chi deve essere "sentito"?
+A) Il Ministro dell'Interno
+B) Il Presidente della Repubblica
+C) Il Capo di Stato Maggiore della Difesa
+D) Il Vice Comandante Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.2 (Tabella) → "Procedura: [...] sentito il Capo di SMD"
+Spiegazione: Il parere obbligatorio ("sentito") nella procedura di nomina spetta al Capo di SMD.
+</details>
+
+Domanda 12 🔴 Avanzata
+Quale delle seguenti affermazioni sulla proroga del mandato del Comandante Generale è CORRETTA?
+A) La proroga non è mai possibile
+B) La proroga è possibile per un massimo di 2 anni
+C) La proroga è possibile se non ha già raggiunto i limiti di età, per un massimo di un altro anno
+D) La proroga è automatica alla scadenza del mandato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.2 (Tabella) → "Proroga: Possibile se non ha già raggiunto i limiti di età per la cessazione dal servizio permanente" + "Durata proroga: [...] al massimo per un altro anno"
+Spiegazione: La proroga è possibile (non automatica) a condizione che non abbia raggiunto i limiti di età, per massimo 1 anno (non 2).
+</details>
+
+Domanda 13 🟢 Base
+Il Comandante Generale è definito, rispetto agli altri Generali di Corpo d'Armata dell'Arma:
+A) Gerarchicamente preminente
+B) Sovraordinato
+C) Equiparato
+D) Subordinato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.2 (Tabella) → "Rango gerarchico: Sovraordinato agli altri Generali di Corpo d'Armata dell'Arma"
+Spiegazione: Il termine corretto è "sovraordinato", non "gerarchicamente preminente" (che si usa per il Vice Comandante Generale).
+</details>
+
+Domanda 14 🔴 Avanzata
+Quale articolo del COM disciplina la nomina, la durata e la proroga del Comandante Generale?
+A) Art. 165 COM
+B) Art. 166 COM
+C) Art. 32 COM
+D) Art. 177 COM
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.1 → "Riferimento principale: Art. 32 COM (per nomina)" + Sezione 2.2 → "TABELLA: Il Comandante Generale - Art. 32 COM"
+Spiegazione: L'Art. 32 COM disciplina nomina, durata e proroga del Comandante Generale. Gli artt. 165-166 riguardano le attribuzioni.
+</details>
+
+Domanda 15 🟡 Media
+La deliberazione preliminare alla nomina del Comandante Generale spetta a:
+A) Il Consiglio Superiore delle Forze Armate
+B) Il Consiglio dei Ministri
+C) Il Comitato dei Capi di Stato Maggiore
+D) Il Comitato Nazionale Ordine e Sicurezza Pubblica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.2 (Tabella) → "Procedura: Previa deliberazione del CdM [...]"
+Spiegazione: Prima della nomina con DPR è necessaria la deliberazione del Consiglio dei Ministri.
+</details>
+
+📚 SEZIONE 2.3 - DIPENDENZE DEL COMANDANTE GENERALE
+Domanda 16 🟢 Base
+Da chi dipende funzionalmente il Comandante Generale per i compiti di ordine e sicurezza pubblica?
+A) Dal Capo di Stato Maggiore della Difesa
+B) Dal Ministro della Difesa
+C) Dal Ministro dell'Interno
+D) Dal Presidente del Consiglio dei Ministri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3 (Schema) → "FUNZIONALMENTE dal MINISTRO INTERNO (per compiti di ordine e sicurezza pubblica)"
+Spiegazione: Per i compiti di ordine e sicurezza pubblica, il Comandante Generale dipende funzionalmente dal Ministro dell'Interno.
+</details>
+
+Domanda 17 🟢 Base
+Per quanto attiene ai compiti militari, il Comandante Generale dipende da:
+A) Il Ministro della Difesa
+B) Il Ministro dell'Interno
+C) Il Capo di Stato Maggiore della Difesa
+D) Il Presidente della Repubblica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3 (Schema) → "DAL CAPO DI SMD per quanto attiene ai compiti MILITARI"
+Spiegazione: Per i compiti militari, la dipendenza è dal Capo di SMD.
+</details>
+
+Domanda 18 🟡 Media
+In quanti organi collegiali siede il Comandante Generale?
+A) 2
+B) 3
+C) 4
+D) 5
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3 (Tabella) → elenca 4 organi: C.N.O.S.P., Consiglio Generale Lotta C.O., Consiglio Superiore FF.AA., Comitato Capi di SM + Indice Analitico → "4: Organi collegiali in cui siede il Cte Gen."
+Spiegazione: Il Comandante Generale siede in 4 organi collegiali distinti.
+</details>
+
+Domanda 19 🟡 Media
+Quale organo collegiale, tra quelli in cui siede il Comandante Generale, è connesso alla dipendenza dal Ministro dell'Interno?
+A) Il Consiglio Superiore delle Forze Armate
+B) Il Comitato dei Capi di Stato Maggiore
+C) Il Comitato Nazionale Ordine e Sicurezza Pubblica
+D) Il Consiglio di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3 (Tabella) → "Dipendenza Ministro Interno: C.N.O.S.P. (Comitato Nazionale Ordine e Sicurezza Pubblica)"
+Spiegazione: Il C.N.O.S.P. è uno degli organi collegiali connessi alla dipendenza dal Ministro dell'Interno.
+</details>
+
+Domanda 20 🔴 Avanzata
+Quale delle seguenti affermazioni sugli organi collegiali in cui siede il Comandante Generale è CORRETTA?
+A) Il Consiglio Generale per la Lotta alla C.O. è connesso alla dipendenza dal Capo di SMD
+B) Il Comitato dei Capi di SM è connesso alla dipendenza dal Ministro dell'Interno
+C) Il C.N.O.S.P. è connesso alla dipendenza dal Capo di SMD
+D) Il Consiglio Superiore delle Forze Armate è connesso alla dipendenza dal Capo di SMD
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 2.3 (Tabella) → "Capo di SMD: Consiglio Superiore delle Forze Armate" e "Capo di SMD: Comitato dei Capi di SM"
+Spiegazione: Il Consiglio Superiore delle Forze Armate e il Comitato dei Capi di SM sono connessi alla dipendenza dal Capo di SMD. Il C.N.O.S.P. e il Consiglio Generale Lotta C.O. sono connessi al Ministro dell'Interno.
+</details>
+
+Domanda 21 🟢 Base
+Cosa significa la sigla C.N.O.S.P.?
+A) Centro Nazionale Operazioni Sicurezza Pubblica
+B) Comitato Nazionale Ordine e Sicurezza Pubblica
+C) Comando Nazionale Ordine e Sicurezza Pubblica
+D) Consiglio Nazionale Ordine e Sicurezza Pubblica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.3 (Tabella) + Glossario 4.2 → "C.N.O.S.P.: Comitato Nazionale Ordine e Sicurezza Pubblica"
+Spiegazione: C.N.O.S.P. sta per Comitato Nazionale Ordine e Sicurezza Pubblica.
+</details>
+
+Domanda 22 🟡 Media
+Il Consiglio Generale per la Lotta alla Criminalità Organizzata è un organo collegiale connesso alla dipendenza del Comandante Generale da:
+A) Il Capo di Stato Maggiore della Difesa
+B) Il Ministro della Difesa
+C) Il Ministro dell'Interno
+D) Il Ministro della Giustizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3 (Tabella) → "Ministro Interno: Consiglio Generale per la Lotta alla Criminalità Organizzata"
+Spiegazione: Il Consiglio Generale per la Lotta alla C.O. è connesso alla dipendenza dal Ministro dell'Interno.
+</details>
+
+Domanda 23 🔴 Avanzata
+Quali sono i due organi collegiali in cui siede il Comandante Generale connessi alla dipendenza dal Capo di SMD?
+A) C.N.O.S.P. e Consiglio Generale Lotta C.O.
+B) Consiglio Superiore delle Forze Armate e C.N.O.S.P.
+C) Consiglio Superiore delle Forze Armate e Comitato dei Capi di SM
+D) Comitato dei Capi di SM e Consiglio Generale Lotta C.O.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3 (Tabella) → "Capo di SMD: Consiglio Superiore delle Forze Armate" e "Capo di SMD: Comitato dei Capi di SM"
+Spiegazione: I due organi connessi al Capo di SMD sono il Consiglio Superiore delle Forze Armate e il Comitato dei Capi di SM.
+</details>
+
+Domanda 24 🟢 Base
+Cosa significa la sigla "C.O." nel contesto del Consiglio Generale per la Lotta alla C.O.?
+A) Comando Operativo
+B) Criminalità Organizzata
+C) Coordinamento Operazioni
+D) Centro Operativo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario 4.2 → "C.O.: Criminalità Organizzata (Consiglio Generale per la Lotta alla)"
+Spiegazione: C.O. sta per Criminalità Organizzata.
+</details>
+
+Domanda 25 🟡 Media
+Il tipo di dipendenza del Comandante Generale dal Ministro dell'Interno è:
+A) Gerarchica
+B) Organica
+C) Funzionale
+D) Tecnica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.3 (Schema) → "FUNZIONALMENTE dal MINISTRO INTERNO"
+Spiegazione: La dipendenza dal Ministro dell'Interno è di tipo funzionale (non gerarchica o organica).
+</details>
+
+Domanda 26 🔴 Avanzata
+Quale delle seguenti affermazioni sulle dipendenze del Comandante Generale è ERRATA?
+A) La dipendenza dal Ministro dell'Interno è funzionale
+B) La dipendenza dal Capo di SMD riguarda i compiti militari
+C) Il Comandante Generale siede nel Comitato dei Capi di SM
+D) La dipendenza dal Capo di SMD è funzionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 2.3 (Schema) → La dipendenza dal Ministro dell'Interno è definita "funzionalmente", mentre per il Capo di SMD si dice solo "DAL CAPO DI SMD per quanto attiene ai compiti militari" senza specificare "funzionalmente"
+Spiegazione: Solo la dipendenza dal Ministro dell'Interno è esplicitamente qualificata come "funzionale" nella KB. Per il Capo di SMD si indica solo l'ambito (compiti militari).
+</details>
+
+Domanda 27 🟢 Base
+Quale articolo del COM disciplina le attribuzioni del Comandante Generale in campo operativo, addestrativo e tecnico-logistico?
+A) Art. 32 COM
+B) Art. 33 COM
+C) Art. 165 COM
+D) Art. 177 COM
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.4 (Tabella Macro-Categorie) → "Campo Operativo: Art. 165 COM", "Campo Addestrativo: Art. 165 COM", "Campo Tecnico-logistico: Art. 165 COM"
+Spiegazione: L'Art. 165 COM disciplina le attribuzioni operative, addestrative e tecnico-logistiche del Comandante Generale.
+</details>
+
+Domanda 28 🟡 Media
+Quante sono le macro-categorie di attribuzioni del Comandante Generale secondo gli artt. 165-166 COM?
+A) 4
+B) 5
+C) 6
+D) 7
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.4 (Tabella) → elenca 6 categorie: Operativo, Addestrativo, Tecnico-logistico, Reclutamento/stato/avanzamento/impiego, Finanziario/amministrativo, Internazionale
+Spiegazione: Le macro-categorie di attribuzioni sono 6.
+</details>
+
+Domanda 29 🔴 Avanzata
+Quale articolo del COM disciplina le attribuzioni del Comandante Generale in campo finanziario e amministrativo?
+A) Art. 32 COM
+B) Art. 165 COM
+C) Art. 166 COM
+D) Art. 177 COM
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.4 (Tabella) → "Finanziario e amministrativo: Art. 166 COM"
+Spiegazione: L'Art. 166 COM disciplina specificamente le attribuzioni in campo finanziario e amministrativo, mentre l'Art. 165 COM copre le altre 5 categorie.
+</details>
+
+Domanda 30 🟡 Media
+Quale delle seguenti è una macro-categoria di attribuzioni del Comandante Generale ai sensi dell'Art. 165 COM?
+A) Finanziario e amministrativo
+B) Giudiziario
+C) Internazionale
+D) Disciplinare
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.4 (Tabella) → "Internazionale: Art. 165 COM"
+Spiegazione: Il campo Internazionale è una delle macro-categorie dell'Art. 165 COM. Il campo Finanziario e amministrativo è invece disciplinato dall'Art. 166 COM.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 2.5 - ATTRIBUZIONI IN CAMPO OPERATIVO (Art. 165 COM)
+Domanda 31 🟢 Base
+In campo operativo, chi assicura la disponibilità quantitativa e qualitativa delle forze stabilite per operazioni ed esercitazioni?
+A) Il Ministro della Difesa
+B) Il Capo di Stato Maggiore della Difesa
+C) Il Comandante Generale
+D) Il Vice Comandante Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.5 (Tabella) → "Assicura disponibilità forze: In operazioni ed esercitazioni nazionali e multinazionali, la disponibilità quantitativa e qualitativa delle forze stabilite dal Capo di SMD"
+Spiegazione: Il Comandante Generale assicura la disponibilità delle forze, secondo quanto stabilito dal Capo di SMD.
+</details>
+
+Domanda 32 🟡 Media
+Chi stabilisce la disponibilità quantitativa e qualitativa delle forze che il Comandante Generale deve assicurare?
+A) Il Ministro della Difesa
+B) Il Ministro dell'Interno
+C) Il Capo di Stato Maggiore della Difesa
+D) Il Consiglio dei Ministri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.5 (Tabella) → "la disponibilità quantitativa e qualitativa delle forze stabilite dal Capo di SMD"
+Spiegazione: È il Capo di SMD a stabilire la disponibilità delle forze che il Comandante Generale deve poi assicurare.
+</details>
+
+Domanda 33 🟢 Base
+Il Comandante Generale è definito quale:
+A) Organo centrale di coordinamento dell'Arma
+B) Organo centrale di sicurezza dell'Arma dei Carabinieri
+C) Organo periferico di sicurezza dell'Arma
+D) Autorità nazionale di pubblica sicurezza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.5 (Tabella) → "Organo centrale di sicurezza: Dell'Arma dei Carabinieri"
+Spiegazione: Il Comandante Generale è l'organo centrale di sicurezza dell'Arma dei Carabinieri.
+</details>
+
+Domanda 34 🟡 Media
+In campo operativo, il Comandante Generale può esercitare funzioni di comando operativo per le operazioni dell'Arma:
+A) Sempre e in modo autonomo
+B) Solo in tempo di guerra
+C) Se delegato
+D) Solo per operazioni all'estero
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.5 (Tabella) → "Esercita funzioni di comando operativo: Se delegato, per le operazioni ed esercitazioni dell'Arma"
+Spiegazione: Le funzioni di comando operativo sono esercitate dal Comandante Generale solo se delegato.
+</details>
+
+Domanda 35 🟢 Base
+Il Comandante Generale determina le modalità di mobilitazione e:
+A) L'entità delle relative scorte
+B) Il numero dei riservisti
+C) I criteri di reclutamento
+D) Le procedure di congedo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: A
+Fonte KB: Sezione 2.5 (Tabella) → "Determina modalità mobilitazione: E entità delle relative scorte"
+Spiegazione: Il Comandante Generale determina le modalità di mobilitazione e l'entità delle relative scorte.
+</details>
+
+Domanda 36 🟡 Media
+In campo operativo, il Comandante Generale dispone il concorso dei Carabinieri a:
+A) La sicurezza delle ambasciate all'estero
+B) La difesa integrata del territorio nazionale
+C) La protezione civile in caso di calamità
+D) La vigilanza delle frontiere marittime
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.5 (Tabella) → "Dispone concorso: CC alla difesa integrata del territorio nazionale"
+Spiegazione: Il Comandante Generale dispone il concorso dei CC alla difesa integrata del territorio nazionale.
+</details>
+
+Domanda 37 🔴 Avanzata
+Quale delle seguenti attribuzioni operative del Comandante Generale riguarda l'istituzione e la soppressione?
+A) Di comandi territoriali provinciali
+B) Di stazioni temporanee e posti fissi
+C) Di legioni territoriali
+D) Di reparti speciali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.5 (Tabella) → "Determina istituzione/soppressione: Di stazioni temporanee e posti fissi"
+Spiegazione: Nell'ambito delle attribuzioni operative (Art. 165), il Comandante Generale determina l'istituzione/soppressione di stazioni temporanee e posti fissi.
+</details>
+
+Domanda 38 🟢 Base
+Il Comandante Generale formula proposte di competenza per:
+A) La pianificazione finanziaria
+B) La pianificazione operativa
+C) La pianificazione del personale civile
+D) La pianificazione edilizia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.5 (Tabella) → "Formula proposte: Di competenza per la pianificazione operativa"
+Spiegazione: Le proposte formulate dal Comandante Generale riguardano la pianificazione operativa.
+</details>
+
+Domanda 39 🟡 Media
+In campo operativo, il Comandante Generale determina l'ordinamento, le circoscrizioni territoriali, gli organici e:
+A) I criteri di avanzamento del personale
+B) Le modalità di funzionamento dei comandi
+C) Le procedure di acquisto dei mezzi
+D) I programmi di formazione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.5 (Tabella) → "Determina ordinamento: Le circoscrizioni territoriali, gli organici e le modalità di funzionamento dei comandi"
+Spiegazione: Il Comandante Generale determina ordinamento, circoscrizioni, organici e modalità di funzionamento dei comandi.
+</details>
+
+Domanda 40 🔴 Avanzata
+Quante sono le attribuzioni operative del Comandante Generale elencate nell'Art. 165 COM?
+A) 8
+B) 9
+C) 11
+D) 13
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.5 (Tabella) → elenca 11 attribuzioni numerate da 1 a 11
+Spiegazione: Le attribuzioni operative elencate sono 11: formula proposte, assicura disponibilità, individua reparti, esercita comando operativo, organo centrale sicurezza, determina mobilitazione, organizza e appronta, dispone concorso, determina ordinamento, emana disposizioni, determina istituzione/soppressione.
+</details>
+
+📚 SEZIONE 2.6 - PROCEDURE ART. 177 COM (Istituzione/Soppressione Reparti)
+Domanda 41 🟢 Base
+Quale articolo del COM disciplina le procedure per l'istituzione e soppressione dei reparti?
+A) Art. 32 COM
+B) Art. 165 COM
+C) Art. 166 COM
+D) Art. 177 COM
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 2.6 → "PROCEDURA CRITICA - Art. 177 COM"
+Spiegazione: L'Art. 177 COM disciplina specificamente le procedure di istituzione/soppressione reparti.
+</details>
+
+Domanda 42 🟡 Media
+Per l'istituzione di comandi territoriali di livello non superiore a comando provinciale, il Comandante Generale necessita dell'assenso di:
+A) Solo il Ministro dell'Interno
+B) Solo il Capo di Stato Maggiore della Difesa
+C) Il Ministro della Difesa
+D) Il Presidente della Repubblica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.6 (Comma 1) → "Assenso richiesto: Del Ministro della Difesa"
+Spiegazione: Per comandi territoriali fino a livello provinciale, serve l'assenso del Ministro della Difesa.
+</details>
+
+Domanda 43 🟡 Media
+Fino a quale livello il Comandante Generale può istituire comandi territoriali con propria determinazione e assenso del Ministro della Difesa?
+A) Fino a livello di Legione
+B) Fino a livello regionale
+C) Non superiore a comando provinciale
+D) Fino a livello di Brigata
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.6 (Comma 1) → "Livello massimo: Comandi territoriali di livello non superiore a comando provinciale"
+Spiegazione: Il limite è il livello provinciale; per comandi superiori si applica una procedura diversa.
+</details>
+
+Domanda 44 🔴 Avanzata
+Per l'istituzione di comandi territoriali fino a livello provinciale, il Ministro della Difesa si pronuncia:
+A) Autonomamente
+B) Di concerto con il Ministro dell'Interno
+C) Sentito il Capo di SMD
+D) Previa delibera del CdM
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.6 (Comma 1) → "Concerto: Che si pronuncia di concerto con il Ministro dell'Interno"
+Spiegazione: Il Ministro della Difesa si pronuncia di concerto con il Ministro dell'Interno.
+</details>
+
+Domanda 45 🟡 Media
+Per l'istituzione di comandi diversi (superiori a provinciale o non territoriali), oltre all'assenso del Ministro della Difesa, è necessario anche:
+A) Il parere del Ministro dell'Interno
+B) Il consenso del Capo di Stato Maggiore della Difesa
+C) L'autorizzazione del Presidente della Repubblica
+D) La delibera del Consiglio dei Ministri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.6 (Comma 2) → "Consenso richiesto: Previo consenso del Capo di Stato Maggiore della Difesa"
+Spiegazione: Per comandi superiori al provinciale o non territoriali serve anche il consenso del Capo di SMD.
+</details>
+
+Domanda 46 🔴 Avanzata
+Per comandi che svolgono servizi di pubblica sicurezza e ordine pubblico (superiori al provinciale), oltre al consenso del Capo SMD e all'assenso del Min. Difesa, è necessario:
+A) Il concerto con il Ministro della Giustizia
+B) Il concerto con il Ministro dell'Interno
+C) Il parere del Consiglio di Stato
+D) L'autorizzazione del Parlamento
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.6 (Comma 2) → "Concerto: Di concerto con il Ministro dell'Interno" + "Condizione: Se si tratti di comandi che svolgono servizi o attività di pubblica sicurezza e ordine pubblico"
+Spiegazione: Per comandi di PS e ordine pubblico è necessario anche il concerto con il Ministro dell'Interno.
+</details>
+
+Domanda 47 🟡 Media
+L'Art. 177 COM prevede un'eccezione che rimanda a quale norma?
+A) Art. 32 COM
+B) Art. 11 della legge 31 marzo 2000, n. 78
+C) Art. 165 COM
+D) Art. 166 COM
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.6 (Comma 2) → "Eccezione: Salvo quanto previsto dall'art. 11 della legge 31 marzo 2000, n. 78"
+Spiegazione: L'eccezione rimanda all'Art. 11 della L. 78/2000 sulle attività specializzate presso altre Amministrazioni.
+</details>
+
+Domanda 48 🔴 Avanzata
+L'Art. 11 della L. 78/2000 riguarda:
+A) Le procedure di avanzamento degli Ufficiali
+B) L'istituzione di comandi destinati ad attività specializzate presso Amministrazioni diverse da quelle di appartenenza
+C) Le modalità di reclutamento del personale
+D) I criteri di assegnazione delle risorse finanziarie
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.6 (Nota Art. 11 L. 78/2000) → "Attività specializzate presso Amministrazioni dello Stato diverse da quelle di appartenenza: [...] l'istituzione [...] di comandi, unità e reparti comunque denominati, destinati allo svolgimento di attività specializzate presso Amministrazioni dello Stato diverse da quelle di appartenenza"
+Spiegazione: L'Art. 11 L. 78/2000 disciplina l'istituzione di comandi per attività specializzate presso altre Amministrazioni.
+</details>
+
+Domanda 49 🔴 Avanzata
+Secondo l'Art. 11 L. 78/2000, chi dispone l'istituzione di comandi per attività specializzate presso altre Amministrazioni?
+A) Il Ministro interessato
+B) Il Ministro competente gerarchicamente, su proposta del Ministro interessato
+C) Il Capo di SMD
+D) Il Comandante Generale autonomamente
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.6 (Nota Art. 11) → "sono disposte, su proposta del Ministro interessato, dal Ministro competente gerarchicamente, previo concerto con il Ministro dell'interno"
+Spiegazione: L'istituzione è disposta dal Ministro competente gerarchicamente, su proposta del Ministro interessato.
+</details>
+
+Domanda 50 🟡 Media
+Secondo l'Art. 11 L. 78/2000, la soppressione di comandi per attività specializzate segue la stessa procedura dell'istituzione, salvo i casi in cui la costituzione sia stata disposta con:
+A) Decreto ministeriale
+B) Decreto del Presidente della Repubblica
+C) Legge
+D) Regolamento
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.6 (Nota Art. 11) → "Con la stessa procedura si provvede alla soppressione [...] salvi i casi in cui la loro costituzione sia stata disposta con legge"
+Spiegazione: Se la costituzione è avvenuta con legge, la soppressione non può seguire la procedura ordinaria.
+</details>
+
+📚 SEZIONE 2.7 - ATTRIBUZIONI IN CAMPO ADDESTRATIVO (Art. 165 COM)
+Domanda 51 🟢 Base
+In campo addestrativo, il Comandante Generale approva i programmi e impartisce disposizioni relative a:
+A) Solo l'addestramento
+B) Addestramento e perfezionamento professionale
+C) Solo il perfezionamento professionale
+D) L'addestramento e il reclutamento
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.7 (Tabella) → "Approva programmi e impartisce disposizioni relative all'addestramento e al perfezionamento professionale CC"
+Spiegazione: Le attribuzioni addestrative riguardano sia l'addestramento che il perfezionamento professionale.
+</details>
+
+Domanda 52 🟢 Base
+In campo addestrativo, oltre ad approvare i programmi, il Comandante Generale:
+A) Determina le sedi delle scuole
+B) Approva le pubblicazioni dell'Arma
+C) Nomina i direttori dei corsi
+D) Stabilisce i criteri di valutazione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.7 (Tabella) → "Approva le pubblicazioni dell'Arma"
+Spiegazione: Le due attribuzioni addestrative sono: approvare programmi/disposizioni e approvare le pubblicazioni.
+</details>
+
+Domanda 53 🟡 Media
+Quante sono le attribuzioni del Comandante Generale in campo addestrativo?
+A) 1
+B) 2
+C) 3
+D) 4
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.7 (Tabella) → elenca 2 attribuzioni: 1) Approva programmi/disposizioni addestramento, 2) Approva pubblicazioni
+Spiegazione: Le attribuzioni in campo addestrativo sono 2.
+</details>
+
+📚 SEZIONE 2.8 - ATTRIBUZIONI IN CAMPO TECNICO-LOGISTICO (Art. 165 COM)
+Domanda 54 🟢 Base
+In campo tecnico-logistico, il Comandante Generale determina le politiche di:
+A) Reclutamento e formazione del personale
+B) Impiego, gestione e mantenimento parco
+C) Bilancio e spesa corrente
+D) Cooperazione internazionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.8 (Tabella) → "Determina politiche: Di impiego, gestione e mantenimento parco, le dotazioni e le scorte, la regolamentazione tecnica"
+Spiegazione: Le politiche tecnico-logistiche riguardano impiego, gestione e mantenimento parco, dotazioni, scorte e regolamentazione tecnica.
+</details>
+
+Domanda 55 🟡 Media
+In campo tecnico-logistico, su iniziativa di chi il Comandante Generale opera, sentito il Comitato dei Capi di SM delle Forze Armate?
+A) Del Ministro della Difesa
+B) Del Ministro dell'Interno
+C) Del Capo di Stato Maggiore della Difesa
+D) Del Vice Comandante Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.8 (Tabella) → "Su iniziativa del Capo di SMD: Sentito il Comitato dei Capi di SM delle Forze Armate"
+Spiegazione: Il Comandante Generale opera su iniziativa del Capo di SMD, sentito il Comitato dei Capi di SM.
+</details>
+
+Domanda 56 🟡 Media
+In campo tecnico-logistico, il Comandante Generale determina le linee di:
+A) Politica del personale
+B) Pianificazione e programmazione tecnica
+C) Cooperazione interforze
+D) Relazioni sindacali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.8 (Tabella) → "Determina linee pianificazione: E programmazione tecnica"
+Spiegazione: Il Comandante Generale determina le linee di pianificazione e programmazione tecnica.
+</details>
+
+Domanda 57 🟢 Base
+I programmi di ricerche e studi per l'adozione di nuovi materiali specifici sono finalizzati a:
+A) Le esigenze delle Forze Armate in generale
+B) Le esigenze specifiche dell'Arma
+C) Le esigenze del Ministero dell'Interno
+D) Le esigenze della NATO
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.8 (Tabella) → "Programmi ricerche e studi: Per adozione nuovi materiali specifici per le esigenze dell'Arma"
+Spiegazione: I programmi di ricerche e studi sono finalizzati alle esigenze specifiche dell'Arma.
+</details>
+
+Domanda 58 🔴 Avanzata
+Secondo l'Art. 165 COM, le misure tecnico-logistiche sono adottate allo scopo di assicurare:
+A) Solo l'efficienza delle attività istituzionali
+B) Efficienza, economicità, speditezza e rispondenza al pubblico interesse
+C) Solo l'economicità della gestione
+D) Solo la speditezza delle procedure
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.8 (Finalità) → "Allo scopo di assicurare efficienza, economicità, speditezza e rispondenza al pubblico interesse delle attività istituzionali dell'Arma"
+Spiegazione: Le quattro finalità sono: efficienza, economicità, speditezza e rispondenza al pubblico interesse.
+</details>
+
+Domanda 59 🟡 Media
+Le misure di razionalizzazione dell'organizzazione e della gestione sono tese al:
+A) Risparmio di risorse finanziarie
+B) Recupero di personale da destinare al servizio d'istituto
+C) Miglioramento dell'immagine dell'Arma
+D) Potenziamento delle attività internazionali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.8 (Misure) → "Tese al recupero di personale da destinare al servizio d'istituto"
+Spiegazione: Le misure di razionalizzazione sono finalizzate al recupero di personale per il servizio d'istituto.
+</details>
+
+Domanda 60 🔴 Avanzata
+Le misure tecnico-logistiche possono prevedere l'affidamento di servizi a terzi:
+A) Senza limiti di spesa
+B) Nei limiti degli ordinari stanziamenti di bilancio
+C) Solo con autorizzazione del Parlamento
+D) Solo in caso di emergenza
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.8 (Misure) → "Prevedendo anche l'affidamento di servizi a terzi nei limiti degli ordinari stanziamenti di bilancio"
+Spiegazione: L'affidamento a terzi è possibile ma deve restare nei limiti degli ordinari stanziamenti di bilancio.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 2.9 - ATTRIBUZIONI IN MATERIA DI IMPIEGO (Art. 165 COM)
+Domanda 61 🟢 Base
+A chi propone il Comandante Generale le destinazioni dei Generali di Corpo d'Armata?
+A) Al Ministro della Difesa
+B) Al Ministro dell'Interno
+C) Al Capo di Stato Maggiore della Difesa
+D) Al Presidente della Repubblica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.9 (Tabella) → "Propone al Capo SMD: Le destinazioni dei Generali di C.A."
+Spiegazione: Le destinazioni dei Generali di Corpo d'Armata sono proposte dal Comandante Generale al Capo di SMD.
+</details>
+
+Domanda 62 🟡 Media
+Per quali Generali il Comandante Generale propone l'impiego per dirigere uffici di livello dirigenziale generale in ambito Difesa?
+A) Generali di Brigata
+B) Generali non inferiori a Divisione
+C) Solo Generali di Corpo d'Armata
+D) Tutti i Generali senza distinzione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.9 (Tabella) → "Propone in ambito Difesa: I Generali non inferiori a Divisione per dirigere uffici di livello dirigenziale generale"
+Spiegazione: La proposta riguarda Generali non inferiori al grado di Divisione.
+</details>
+
+Domanda 63 🟢 Base
+Il Comandante Generale determina le destinazioni per:
+A) Solo i Generali dell'Arma
+B) Solo gli Ufficiali superiori
+C) Tutti gli Ufficiali CC
+D) Solo gli Ufficiali inferiori
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.9 (Tabella) → "Determina destinazioni: Per tutti gli Ufficiali CC"
+Spiegazione: Il Comandante Generale determina le destinazioni per tutti gli Ufficiali dei Carabinieri.
+</details>
+
+Domanda 64 🔴 Avanzata
+Per gli Ufficiali destinati a o provenienti da incarichi territoriali o di polizia, il Comandante Generale necessita:
+A) Dell'autorizzazione del Capo di SMD
+B) Del nulla osta del Ministro dell'Interno
+C) Del parere del Consiglio di Stato
+D) Dell'assenso del Ministro della Difesa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.9 (Tabella) → "Nulla osta Ministro Interno: Previo nulla osta per quelli destinati o provenienti da incarichi territoriali o di polizia"
+Spiegazione: Per Ufficiali da/a incarichi territoriali o di polizia serve il nulla osta del Ministro dell'Interno.
+</details>
+
+Domanda 65 🟡 Media
+Il Comandante Generale propone gli Ufficiali da impiegare in:
+A) Solo ambito internazionale
+B) Ambito internazionale, incarichi interforze e altri ministeri
+C) Solo altri ministeri
+D) Solo incarichi interforze
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.9 (Tabella) → "Propone: Gli Ufficiali da impiegare in ambito internazionale, in incarichi interforze e in altri ministeri"
+Spiegazione: La proposta riguarda tre ambiti: internazionale, interforze e altri ministeri.
+</details>
+
+📚 SEZIONE 2.10 - ATTRIBUZIONI IN MATERIA DI RECLUTAMENTO, STATO, AVANZAMENTO (Art. 165 COM)
+Domanda 66 🟢 Base
+Di quale Commissione di avanzamento degli Ufficiali CC è Presidente il Comandante Generale?
+A) Commissione di Vertice
+B) Commissione Superiore
+C) Commissione Ordinaria
+D) Commissione Speciale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.10 (Tabella) → "Presidente: Della Commissione Superiore di avanzamento degli Ufficiali CC"
+Spiegazione: Il Comandante Generale è Presidente della Commissione Superiore di avanzamento.
+</details>
+
+Domanda 67 🟡 Media
+Di quale Commissione di avanzamento degli Ufficiali CC è Vice Presidente il Comandante Generale?
+A) Commissione Superiore
+B) Commissione Ordinaria
+C) Commissione di Vertice
+D) Commissione Straordinaria
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.10 (Tabella) → "Vice Presidente: Della Commissione di Vertice per l'avanzamento degli Ufficiali CC"
+Spiegazione: Il Comandante Generale è Vice Presidente della Commissione di Vertice.
+</details>
+
+Domanda 68 🟡 Media
+A chi propone il Comandante Generale gli Ufficiali quali componenti della Commissione Ordinaria di avanzamento?
+A) Al Capo di SMD
+B) Al Ministro dell'Interno
+C) Al Ministro della Difesa
+D) Al Vice Comandante Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.10 (Tabella) → "Propone al Ministro Difesa: Ufficiali quali componenti Commissione Ordinaria di avanzamento"
+Spiegazione: La proposta dei componenti della Commissione Ordinaria è rivolta al Ministro della Difesa.
+</details>
+
+Domanda 69 🔴 Avanzata
+Per le Commissioni di Vertice e Superiore di avanzamento, a chi indica il Comandante Generale gli Ufficiali generali da proporre quali componenti?
+A) Al Ministro della Difesa
+B) Al Capo di SMD
+C) Al Ministro dell'Interno
+D) Al Consiglio dei Ministri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.10 (Tabella) → "Indica al Capo SMD: Ufficiali generali da proporre al Ministro Difesa quali componenti Commissioni di Vertice e Superiore di avanzamento"
+Spiegazione: Il Comandante Generale indica al Capo di SMD, che poi propone al Ministro della Difesa.
+</details>
+
+Domanda 70 🟢 Base
+Il Comandante Generale può ordinare direttamente quale procedimento nei confronti del personale dipendente?
+A) Il trasferimento d'autorità
+B) L'inchiesta formale
+C) La sospensione dal servizio
+D) Il congedo anticipato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.10 (Tabella) → "Può ordinare direttamente: L'inchiesta formale nei confronti del personale dipendente"
+Spiegazione: Il Comandante Generale può ordinare direttamente l'inchiesta formale.
+</details>
+
+Domanda 71 🟡 Media
+Per quale personale il Comandante Generale designa i componenti della Commissione di disciplina?
+A) Per tutto il personale dell'Arma
+B) Per il personale nei cui confronti ha ordinato l'inchiesta formale
+C) Solo per gli Ufficiali
+D) Solo per i Marescialli
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.10 (Tabella) → "Designa componenti: Della Commissione di disciplina per il personale nei cui confronti ha ordinato l'inchiesta formale"
+Spiegazione: La designazione riguarda la Commissione di disciplina per il personale sottoposto a inchiesta formale ordinata dal Comandante Generale.
+</details>
+
+Domanda 72 🟡 Media
+Il Comandante Generale esprime parere motivato sulla concessione di quali ricompense?
+A) Ricompense al valore militare
+B) Ricompense al valore e al merito dell'Arma dei Carabinieri
+C) Solo ricompense al merito civile
+D) Ricompense al valore civile
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.10 (Tabella) → "Esprime parere: In maniera motivata sulla concessione delle ricompense al valore e al merito dell'Arma dei Carabinieri"
+Spiegazione: Il parere motivato riguarda le ricompense al valore e al merito specifiche dell'Arma dei Carabinieri.
+</details>
+
+📚 SEZIONE 2.11 - ATTRIBUZIONI IN CAMPO FINANZIARIO E AMMINISTRATIVO (Art. 166 COM)
+Domanda 73 🟢 Base
+Quanti ruoli distinti svolge il Comandante Generale in campo finanziario-amministrativo?
+A) 2
+B) 3
+C) 4
+D) 5
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.11 → "Il Comandante Generale svolge tre ruoli distinti in campo finanziario-amministrativo"
+Spiegazione: I ruoli sono tre: Capo Ente Programmatore, Direttore Generale Titolare CRA, Comandante Militare Territoriale.
+</details>
+
+Domanda 74 🟢 Base
+Come Capo Ente Programmatore, a chi propone il Comandante Generale l'allocazione degli stanziamenti?
+A) Al Ministro della Difesa
+B) Al Ministro dell'Economia
+C) Al Capo di Stato Maggiore della Difesa
+D) Al Ragioniere Generale dello Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.11 (Tabella Ruoli) → "Capo Ente Programmatore: Propone allocazione stanziamenti Al Capo di SMD, sui capitoli di bilancio dell'Arma"
+Spiegazione: Come Capo Ente Programmatore, la proposta di allocazione è rivolta al Capo di SMD.
+</details>
+
+Domanda 75 🟡 Media
+Cosa significa la sigla C.R.A.?
+A) Comando Regionale Amministrativo
+B) Centro di Responsabilità Amministrativa
+C) Commissione di Revisione Amministrativa
+D) Centro di Razionalizzazione Amministrativa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.11 (Nota) → "C.R.A. = Centro di Responsabilità Amministrativa"
+Spiegazione: C.R.A. sta per Centro di Responsabilità Amministrativa.
+</details>
+
+Domanda 76 🟡 Media
+Come Direttore Generale Titolare di C.R.A., il Comandante Generale esercita:
+A) Funzioni di controllo contabile
+B) Poteri di spesa e funzioni in materia contrattuale
+C) Solo funzioni di vigilanza
+D) Poteri di nomina del personale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.11 (Tabella Ruoli) → "Direttore Generale Titolare di C.R.A.: Amministra i capitoli di bilancio esercitando i poteri di spesa e le connesse funzioni in materia contrattuale e di gestione amministrativo-contabile"
+Spiegazione: Come Direttore Generale Titolare CRA esercita poteri di spesa e funzioni contrattuali.
+</details>
+
+Domanda 77 🔴 Avanzata
+Come Capo Ente Programmatore, oltre a proporre l'allocazione degli stanziamenti, il Comandante Generale:
+A) Esercita i poteri di spesa
+B) Ne detiene l'impiego operativo
+C) Controlla gli Enti Amministrativi
+D) Nomina i responsabili di bilancio
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.11 (Tabella Ruoli) → "Capo Ente Programmatore: Propone allocazione stanziamenti Al Capo di SMD [...] e ne detiene l'impiego operativo"
+Spiegazione: Come Capo Ente Programmatore, il Comandante Generale propone l'allocazione e detiene l'impiego operativo degli stanziamenti.
+</details>
+
+Domanda 78 🟡 Media
+Come Comandante Militare Territoriale, il Comandante Generale esercita controllo e indirizzo degli Enti Amministrativi tramite:
+A) Il Comando Generale
+B) La Direzione di Amministrazione
+C) Il Ministero della Difesa
+D) La Ragioneria Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.11 (Tabella Ruoli) → "Comandante Militare Territoriale: Controllo e indirizzo degli Enti Amministrativi tramite la Direzione di Amministrazione"
+Spiegazione: Il controllo degli Enti Amministrativi avviene tramite la Direzione di Amministrazione.
+</details>
+
+Domanda 79 🔴 Avanzata
+Come Direttore Generale Titolare di C.R.A., il Comandante Generale definisce:
+A) Le procedure di reclutamento
+B) I limiti di valore delle spese che gli Ufficiali di livello dirigenziale sottordinati possono impegnare
+C) I criteri di avanzamento
+D) Le modalità di addestramento
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.11 (Nota su C.R.A.) → "Definisce i limiti di valore delle spese che gli Ufficiali di livello dirigenziale sottordinati possono impegnare"
+Spiegazione: Come Titolare CRA, il Comandante Generale definisce i limiti di spesa delegabili.
+</details>
+
+Domanda 80 🟡 Media
+Ai fini del decentramento amministrativo, il Comandante Generale ha funzione di Comandante militare territoriale su quale ambito?
+A) Solo sulla sede del Comando Generale
+B) Solo sulle Legioni territoriali
+C) Sull'intero territorio nazionale
+D) Solo sui comandi periferici
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.11 (Ambito territoriale) → "Il Comandante Generale, ai fini del decentramento amministrativo, ha funzione di Comandante militare territoriale sull'intero territorio nazionale"
+Spiegazione: La funzione di Comandante militare territoriale si estende all'intero territorio nazionale.
+</details>
+
+📚 SEZIONE 2.12 - ATTRIBUZIONI IN CAMPO INTERNAZIONALE (Art. 165 COM)
+Domanda 81 🟢 Base
+In campo internazionale, il Comandante Generale agisce su delega di:
+A) Il Ministro della Difesa
+B) Il Ministro dell'Interno
+C) Il Capo di Stato Maggiore della Difesa
+D) Il Ministro degli Affari Esteri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.12 (Tabella) → "Presupposto: Su delega del Capo di SMD"
+Spiegazione: In campo internazionale, il Comandante Generale agisce su delega del Capo di SMD.
+</details>
+
+Domanda 82 🟡 Media
+In campo internazionale, il Comandante Generale agisce in conformità agli indirizzi di:
+A) Il Capo di SMD
+B) Il Ministro della Difesa
+C) Il Ministro degli Affari Esteri
+D) Il Presidente del Consiglio
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.12 (Tabella) → "Conformità: In conformità agli indirizzi del Ministro della Difesa"
+Spiegazione: Gli indirizzi a cui conformarsi sono quelli del Ministro della Difesa.
+</details>
+
+Domanda 83 🟡 Media
+In campo internazionale, chi deve essere previamente informato dal Comandante Generale?
+A) Il Ministro della Difesa
+B) Il Ministro dell'Interno
+C) Il Ministro degli Affari Esteri
+D) Il Capo di SMD
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.12 (Tabella) → "Informativa: Previa informazione al Ministro dell'Interno"
+Spiegazione: Il Ministro dell'Interno deve essere previamente informato delle attività internazionali.
+</details>
+
+Domanda 84 🔴 Avanzata
+L'obbligo di informare il Ministro dell'Interno in campo internazionale non sussiste quando:
+A) Si tratti di missioni NATO
+B) Si tratti di materie esclusivamente militari
+C) Si tratti di operazioni di polizia
+D) Si tratti di accordi con Paesi UE
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.12 (Tabella) → "Eccezione informativa: Salvo il caso di materie esclusivamente militari"
+Spiegazione: L'informativa al Ministro dell'Interno non è richiesta per materie esclusivamente militari.
+</details>
+
+Domanda 85 🟢 Base
+In campo internazionale, l'oggetto delle attività del Comandante Generale riguarda:
+A) La partecipazione a missioni di pace
+B) La redazione e gestione di protocolli di intesa e accordi tecnici internazionali
+C) La rappresentanza diplomatica dell'Arma
+D) Il comando di contingenti all'estero
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.12 (Tabella) → "Oggetto: Redazione e gestione di protocolli di intesa e accordi tecnici internazionali"
+Spiegazione: L'attività internazionale riguarda protocolli di intesa e accordi tecnici internazionali.
+</details>
+
+Domanda 86 🟡 Media
+I protocolli di intesa e accordi tecnici internazionali sono finalizzati a:
+A) La cooperazione giudiziaria
+B) Lo scambio esperienze con paritetici organi esteri in campo organizzativo, addestrativo, tecnico-scientifico e logistico
+C) La cooperazione militare NATO
+D) L'estradizione di criminali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.12 (Tabella) → "Finalità: Per scambio esperienze con paritetici organi esteri in campo organizzativo, addestrativo, tecnico-scientifico e logistico di specifico interesse per l'Arma"
+Spiegazione: La finalità è lo scambio di esperienze in quattro campi specifici con organi esteri paritetici.
+</details>
+
+Domanda 87 🔴 Avanzata
+Quale delle seguenti affermazioni sulle attribuzioni internazionali del Comandante Generale è CORRETTA?
+A) Agisce su delega del Ministro della Difesa
+B) Deve sempre informare il Ministro degli Affari Esteri
+C) Agisce su delega del Capo di SMD, in conformità agli indirizzi del Ministro della Difesa
+D) Non necessita di alcuna delega o autorizzazione
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.12 (Tabella) → "Presupposto: Su delega del Capo di SMD" + "Conformità: In conformità agli indirizzi del Ministro della Difesa"
+Spiegazione: La delega viene dal Capo di SMD, ma l'azione deve conformarsi agli indirizzi del Ministro della Difesa.
+</details>
+
+Domanda 88 🟡 Media
+In quanti campi avviene lo scambio di esperienze con organi esteri paritetici secondo le attribuzioni internazionali?
+A) 2
+B) 3
+C) 4
+D) 5
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.12 (Tabella) → "in campo organizzativo, addestrativo, tecnico-scientifico e logistico"
+Spiegazione: I campi sono quattro: organizzativo, addestrativo, tecnico-scientifico e logistico.
+</details>
+
+Domanda 89 🔴 Avanzata
+La catena di relazioni in campo internazionale prevede che il Comandante Generale:
+A) Riceva delega dal Ministro Difesa, si conformi agli indirizzi del Capo SMD, informi il Ministro Interno
+B) Riceva delega dal Capo SMD, si conformi agli indirizzi del Ministro Difesa, informi il Ministro Interno
+C) Riceva delega dal Ministro Interno, si conformi agli indirizzi del Capo SMD, informi il Ministro Difesa
+D) Agisca autonomamente informando solo il Capo SMD
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.12 (Tabella) → "Presupposto: Su delega del Capo di SMD" + "Conformità: In conformità agli indirizzi del Ministro della Difesa" + "Informativa: Previa informazione al Ministro dell'Interno"
+Spiegazione: La sequenza corretta è: delega da Capo SMD → conformità a indirizzi Min. Difesa → informativa a Min. Interno.
+</details>
+
+Domanda 90 🟢 Base
+Quale articolo del COM disciplina le attribuzioni internazionali del Comandante Generale?
+A) Art. 32 COM
+B) Art. 33 COM
+C) Art. 165 COM
+D) Art. 166 COM
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.4 (Tabella) → "Internazionale: Art. 165 COM" + Sezione 2.12 titolo → "Attribuzioni in Campo INTERNAZIONALE (Art. 165 COM)"
+Spiegazione: Le attribuzioni internazionali sono disciplinate dall'Art. 165 COM insieme alle altre attribuzioni operative.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 3 - IL VICE COMANDANTE GENERALE
+Domanda 91 🟢 Base
+Quale articolo del COM disciplina il Vice Comandante Generale?
+A) Art. 32 COM
+B) Art. 33 COM
+C) Art. 165 COM
+D) Art. 177 COM
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.1 → "Riferimento: Art. 33 COM"
+Spiegazione: L'Art. 33 COM disciplina il Vice Comandante Generale, mentre l'Art. 32 COM riguarda il Comandante Generale.
+</details>
+
+Domanda 92 🟢 Base
+Qual è il grado del Vice Comandante Generale?
+A) Generale di Divisione
+B) Generale di Brigata
+C) Generale di Corpo d'Armata CC in servizio permanente
+D) Tenente Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.2 (Tabella Art. 33 COM) → "Grado: Generale di Corpo d'Armata CC in s.p. (servizio permanente)"
+Spiegazione: Il Vice Comandante Generale è un Generale di Corpo d'Armata CC in servizio permanente.
+</details>
+
+Domanda 93 🟡 Media
+Quanto dura il mandato del Vice Comandante Generale?
+A) 3 anni
+B) 2 anni
+C) Massimo 1 anno
+D) 4 anni
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.2 (Tabella) → "Durata mandato: Massimo 1 anno"
+Spiegazione: Il mandato del Vice Comandante Generale dura massimo 1 anno, a differenza dei 3 anni del Comandante Generale.
+</details>
+
+Domanda 94 🟡 Media
+Con quale criterio viene selezionato il Vice Comandante Generale?
+A) Su proposta libera del Ministro della Difesa
+B) Il più anziano in ruolo tra i Generali di C.A. con almeno un anno dal limite di età
+C) Per concorso tra i Generali di Divisione
+D) Su designazione del Comandante Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Tabella) → "Criterio di selezione: Il più anziano in ruolo tra quelli che si trovano ad almeno un anno dal limite di età per la cessazione dal servizio permanente"
+Spiegazione: La selezione è automatica: il più anziano in ruolo con requisito di almeno 1 anno dal limite di età.
+</details>
+
+Domanda 95 🟢 Base
+Con quale atto viene nominato il Vice Comandante Generale?
+A) Decreto del Ministro della Difesa
+B) Decreto del Presidente della Repubblica
+C) Delibera del Consiglio dei Ministri
+D) Decreto del Presidente del Consiglio
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Tabella) → "Nomina: Con Decreto del Presidente della Repubblica"
+Spiegazione: Come il Comandante Generale, anche il Vice Comandante Generale è nominato con DPR.
+</details>
+
+Domanda 96 🟡 Media
+La procedura di nomina del Vice Comandante Generale prevede:
+A) Previa deliberazione del CdM, su proposta del Ministro della Difesa, sentito il Capo di SMD
+B) Previa deliberazione del CdM, su proposta del Ministro della Difesa
+C) Su proposta del Comandante Generale
+D) Previa deliberazione del CdM, su proposta del Ministro dell'Interno
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Tabella) → "Procedura: Previa deliberazione del Consiglio dei Ministri, su proposta del Ministro della Difesa"
+Spiegazione: A differenza del Comandante Generale, per il Vice non è previsto il "sentito il Capo di SMD".
+</details>
+
+Domanda 97 🟢 Base
+Il Vice Comandante Generale è definito, rispetto agli altri Generali di Corpo d'Armata dell'Arma:
+A) Sovraordinato
+B) Gerarchicamente preminente
+C) Equiparato
+D) Coordinatore
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Tabella) → "Rango gerarchico: Gerarchicamente preminente rispetto agli altri Generali di Corpo d'Armata dell'Arma dei Carabinieri"
+Spiegazione: Il Vice Cte Gen. è "gerarchicamente preminente", mentre il Cte Gen. è "sovraordinato".
+</details>
+
+Domanda 98 🔴 Avanzata
+Quale requisito di anzianità deve possedere il Generale di C.A. per essere selezionato come Vice Comandante Generale?
+A) Almeno 2 anni dal limite di età
+B) Almeno 1 anno dal limite di età
+C) Almeno 6 mesi dal limite di età
+D) Non è previsto alcun requisito di anzianità
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Tabella) → "tra quelli che si trovano ad almeno un anno dal limite di età per la cessazione dal servizio permanente"
+Spiegazione: Il requisito è trovarsi ad almeno 1 anno dal limite di età per la cessazione dal s.p.
+</details>
+
+Domanda 99 🔴 Avanzata
+Il Vice Comandante Generale può essere prorogato nel mandato?
+A) Sì, per un massimo di 1 anno
+B) Sì, per un massimo di 2 anni
+C) No
+D) Sì, senza limiti
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3 (Tabella Differenze) → "Proroga: COMANDANTE GENERALE - Sì, max 1 anno | VICE COMANDANTE GENERALE - No"
+Spiegazione: A differenza del Comandante Generale, il Vice Comandante Generale non può essere prorogato.
+</details>
+
+📚 SEZIONE 3.3 - FACOLTÀ DEL MINISTRO NELLA NOMINA
+Domanda 100 🟡 Media
+Il Ministro della Difesa, nella nomina del Vice Comandante Generale:
+A) Deve obbligatoriamente proporre il Generale più anziano
+B) Ha facoltà di escludere il Generale più anziano e proporre il successivo in ordine di anzianità
+C) Può proporre qualsiasi Generale di Corpo d'Armata
+D) Deve proporre il Generale designato dal Comandante Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.3 → "Il Ministro ha facoltà di escludere il Gen. C.A. più anziano e proporre la nomina di colui che segue in ordine di anzianità"
+Spiegazione: Il Ministro può escludere il più anziano e proporre il successivo, ma non può scegliere liberamente.
+</details>
+
+📚 SEZIONE 3.4 - FUNZIONI DEL VICE COMANDANTE GENERALE
+Domanda 101 🟢 Base
+In caso di assenza o impedimento del Comandante Generale, chi esercita le funzioni vicarie?
+A) Il Capo di Stato Maggiore del Comando Generale
+B) Il Vice Comandante Generale
+C) Il Generale di C.A. più anziano
+D) Il Ministro della Difesa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.4 (Tabella) → "Funzioni vicarie: In caso di assenza o di impedimento del Comandante Generale"
+Spiegazione: Le funzioni vicarie sono esercitate dal Vice Comandante Generale.
+</details>
+
+Domanda 102 🟢 Base
+Il Vice Comandante Generale coadiuva:
+A) Il Ministro della Difesa
+B) Il Capo di SMD
+C) Il Comandante Generale
+D) Il Ministro dell'Interno
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.4 (Tabella) → "Coadiuva: Il Comandante Generale"
+Spiegazione: Il Vice Comandante Generale coadiuva il Comandante Generale nelle sue funzioni.
+</details>
+
+Domanda 103 🟡 Media
+Il Vice Comandante Generale assolve funzioni e compiti:
+A) Stabiliti dalla legge
+B) Delegati dal Comandante Generale
+C) Assegnati dal Ministro della Difesa
+D) Definiti dal Capo di SMD
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.4 (Tabella) → "Assolve funzioni e compiti delegati: Dal Comandante Generale"
+Spiegazione: Funzioni e compiti sono delegati dal Comandante Generale al Vice.
+</details>
+
+Domanda 104 🟡 Media
+Quale Commissione di avanzamento degli Ufficiali CC è presieduta dal Vice Comandante Generale?
+A) Commissione di Vertice
+B) Commissione Superiore
+C) Commissione Ordinaria
+D) Commissione Speciale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.4 (Tabella) → "Presiede: La Commissione Ordinaria di avanzamento degli Ufficiali dei Carabinieri"
+Spiegazione: Il Vice Comandante Generale presiede la Commissione Ordinaria di avanzamento.
+</details>
+
+Domanda 105 🔴 Avanzata
+Su delega del Comandante Generale, il Vice Comandante Generale effettua ispezioni a:
+A) Tutti i reparti dell'Arma
+B) Gli Alti Comandi dell'Arma
+C) Le Stazioni Carabinieri
+D) I Comandi Provinciali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.4 (Tabella) → "Effettua ispezioni: Su delega del Comandante Generale, agli Alti Comandi dell'Arma"
+Spiegazione: Le ispezioni del Vice Comandante Generale, su delega, riguardano specificamente gli Alti Comandi.
+</details>
+
+Domanda 106 🟢 Base
+Quante funzioni principali svolge il Vice Comandante Generale secondo l'Art. 33 COM?
+A) 3
+B) 4
+C) 5
+D) 6
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.4 (Tabella) → elenca 5 funzioni numerate: funzioni vicarie, coadiuva, assolve funzioni delegate, presiede Commissione Ordinaria, effettua ispezioni
+Spiegazione: Le funzioni principali del Vice Comandante Generale sono 5.
+</details>
+
+📚 NOTA SULLE COMMISSIONI DI AVANZAMENTO
+Domanda 107 🟡 Media
+Di quale Commissione di avanzamento il Comandante Generale è Vice Presidente?
+A) Commissione Ordinaria
+B) Commissione Superiore
+C) Commissione di Vertice
+D) Commissione Speciale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.4 (Nota Commissioni) → "Commissione di Vertice: Chi Presiede - (altro soggetto) | Chi è Vice Presidente - Comandante Generale"
+Spiegazione: Nella Commissione di Vertice il Comandante Generale è Vice Presidente.
+</details>
+
+Domanda 108 🔴 Avanzata
+Quale delle seguenti affermazioni sulle Commissioni di avanzamento è CORRETTA?
+A) Il Vice Comandante Generale presiede la Commissione Superiore
+B) Il Comandante Generale presiede la Commissione Ordinaria
+C) Il Comandante Generale presiede la Commissione Superiore e il Vice Comandante Generale presiede la Commissione Ordinaria
+D) Il Vice Comandante Generale è Vice Presidente della Commissione di Vertice
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.4 (Nota Commissioni - Tabella) → "Commissione Superiore: Chi Presiede - Comandante Generale" + "Commissione Ordinaria: Chi Presiede - Vice Comandante Generale"
+Spiegazione: Il Cte Gen. presiede la Superiore ed è Vice Presidente della Vertice; il Vice Cte Gen. presiede l'Ordinaria.
+</details>
+
+📚 TABELLA DIFFERENZE COMANDANTE GENERALE / VICE COMANDANTE GENERALE
+Domanda 109 🟢 Base
+Quale è la differenza di durata del mandato tra Comandante Generale e Vice Comandante Generale?
+A) 3 anni vs 2 anni
+B) 4 anni vs 2 anni
+C) 3 anni vs 1 anno
+D) 2 anni vs 1 anno
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3 (Tabella Differenze) → "Durata mandato: COMANDANTE GENERALE - 3 anni | VICE COMANDANTE GENERALE - 1 anno"
+Spiegazione: Il Comandante Generale ha mandato di 3 anni, il Vice di 1 anno (massimo).
+</details>
+
+Domanda 110 🟡 Media
+Quale differenza esiste nel criterio di selezione tra Comandante Generale e Vice Comandante Generale?
+A) Entrambi su proposta libera del Ministro
+B) Il Cte Gen. su proposta Min. Difesa, il Vice Cte Gen. è il più anziano in ruolo (automatico)
+C) Entrambi per anzianità automatica
+D) Il Cte Gen. per anzianità, il Vice Cte Gen. su proposta
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3 (Tabella Differenze) → "Criterio selezione: COMANDANTE GENERALE - Su proposta Min. Difesa | VICE COMANDANTE GENERALE - Più anziano in ruolo (automatico)"
+Spiegazione: Il Cte Gen. è scelto su proposta, il Vice Cte Gen. è automaticamente il più anziano in ruolo.
+</details>
+
+Domanda 111 🔴 Avanzata
+Quale differenza esiste nella procedura di nomina riguardo al parere del Capo di SMD?
+A) Per entrambi è richiesto il parere del Capo di SMD
+B) Per il Cte Gen. è "sentito" il Capo di SMD, per il Vice Cte Gen. non è previsto
+C) Per il Vice Cte Gen. è "sentito" il Capo di SMD, per il Cte Gen. non è previsto
+D) Per nessuno dei due è previsto il parere del Capo di SMD
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3 (Tabella Differenze) → "'Sentito' nella nomina: COMANDANTE GENERALE - Capo di SMD | VICE COMANDANTE GENERALE - Non previsto"
+Spiegazione: Solo per il Comandante Generale è previsto il "sentito il Capo di SMD".
+</details>
+
+Domanda 112 🟡 Media
+Quale differenza terminologica esiste nel rango gerarchico tra Cte Gen. e Vice Cte Gen.?
+A) Entrambi sono definiti "sovraordinati"
+B) Entrambi sono definiti "gerarchicamente preminenti"
+C) Il Cte Gen. è "sovraordinato", il Vice Cte Gen. è "gerarchicamente preminente"
+D) Il Cte Gen. è "gerarchicamente preminente", il Vice Cte Gen. è "sovraordinato"
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3 (Tabella Differenze) → "Terminologia rango: COMANDANTE GENERALE - 'Sovraordinato' | VICE COMANDANTE GENERALE - 'Gerarchicamente preminente'"
+Spiegazione: La terminologia è diversa: "sovraordinato" per il Cte Gen., "gerarchicamente preminente" per il Vice.
+</details>
+
+Domanda 113 🔴 Avanzata
+Quale delle seguenti differenze tra Cte Gen. e Vice Cte Gen. è ERRATA?
+A) Il Cte Gen. può essere prorogato, il Vice Cte Gen. no
+B) Il Cte Gen. ha mandato di 3 anni, il Vice Cte Gen. di 1 anno
+C) Per il Cte Gen. serve il "sentito" del Capo SMD, per il Vice no
+D) Per il Vice Cte Gen. è richiesto un requisito di anzianità di almeno 2 anni dal limite di età
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 3 (Tabella Differenze) → "Requisito anzianità: VICE COMANDANTE GENERALE - Almeno 1 anno dal limite età" (non 2 anni)
+Spiegazione: Il requisito è 1 anno dal limite di età, non 2 anni. Le altre affermazioni sono corrette.
+</details>
+
+Domanda 114 🟡 Media
+Per quale delle due cariche è specificato un requisito di anzianità dal limite di età?
+A) Solo per il Comandante Generale
+B) Solo per il Vice Comandante Generale
+C) Per entrambi
+D) Per nessuno dei due
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3 (Tabella Differenze) → "Requisito anzianità: COMANDANTE GENERALE - Non specificato | VICE COMANDANTE GENERALE - Almeno 1 anno dal limite età"
+Spiegazione: Il requisito di anzianità (1 anno dal limite di età) è specificato solo per il Vice Comandante Generale.
+</details>
+
+Domanda 115 🔴 Avanzata
+Quale delle seguenti affermazioni sul confronto tra le due cariche apicali è CORRETTA?
+A) Entrambi sono nominati con Decreto Ministeriale
+B) Per entrambi la procedura prevede deliberazione del CdM su proposta del Min. Difesa
+C) Il criterio di selezione è identico per entrambi
+D) La proroga è possibile per entrambi
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.2 (Tabella Vice Cte) → "Procedura: Previa deliberazione del Consiglio dei Ministri, su proposta del Ministro della Difesa" + Sezione 2.2 (Tabella Cte) → stessa procedura base
+Spiegazione: Entrambi prevedono deliberazione CdM e proposta Min. Difesa; ma per il Cte Gen. c'è anche il "sentito Capo SMD".
+</details>
+
+Domanda 116 🟢 Base
+Cosa significa la sigla "s.p." nella qualifica del Vice Comandante Generale?
+A) Servizio pubblico
+B) Servizio permanente
+C) Servizio provvisorio
+D) Stato patrimoniale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario 4.1 → "s.p.: Servizio permanente"
+Spiegazione: La sigla s.p. indica il servizio permanente.
+</details>
+
+Domanda 117 🟡 Media
+Cosa significa la sigla "Gen. C.A."?
+A) Generale Comandante d'Area
+B) Generale di Corpo d'Armata
+C) Generale Capo d'Arma
+D) Generale Comandante d'Arma
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario 4.1 → "Gen. C.A.: Generale di Corpo d'Armata"
+Spiegazione: Gen. C.A. sta per Generale di Corpo d'Armata.
+</details>
+
+Domanda 118 🟢 Base
+Cosa significa la sigla "Cte Gen."?
+A) Centro Generale
+B) Comandante Generale
+C) Comitato Generale
+D) Coordinatore Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario 4.1 → "Cte Gen.: Comandante Generale"
+Spiegazione: Cte Gen. è l'abbreviazione di Comandante Generale.
+</details>
+
+Domanda 119 🟢 Base
+Cosa significa la sigla "V.Cte Gen."?
+A) Vicecomandante Generale
+B) Vice Comandante Generale
+C) Vigilanza Comando Generale
+D) Vertice Comando Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario 4.1 → "V.Cte Gen.: Vice Comandante Generale"
+Spiegazione: V.Cte Gen. è l'abbreviazione di Vice Comandante Generale.
+</details>
+
+Domanda 120 🔴 Avanzata
+Quale delle seguenti affermazioni sulle funzioni del Vice Comandante Generale è ERRATA?
+A) Esercita funzioni vicarie in assenza del Comandante Generale
+B) Presiede la Commissione Ordinaria di avanzamento
+C) Effettua ispezioni agli Alti Comandi su delega del Comandante Generale
+D) Presiede la Commissione Superiore di avanzamento
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 3.4 (Nota Commissioni) → "Commissione Superiore: Chi Presiede - Comandante Generale" (non il Vice)
+Spiegazione: La Commissione Superiore è presieduta dal Comandante Generale, non dal Vice Comandante Generale.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 4 - GLOSSARIO ACRONIMI E SIGLE
+Domanda 121 🟢 Base
+Cosa significa la sigla "DPR"?
+A) Disposizione del Presidente della Repubblica
+B) Decreto del Presidente della Repubblica
+C) Delibera del Presidente della Repubblica
+D) Direttiva del Presidente della Repubblica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario 4.3 → "DPR: Decreto del Presidente della Repubblica"
+Spiegazione: DPR sta per Decreto del Presidente della Repubblica.
+</details>
+
+Domanda 122 🟢 Base
+Cosa significa la sigla "DM"?
+A) Direttiva Ministeriale
+B) Decreto Ministeriale
+C) Disposizione Ministeriale
+D) Delibera Ministeriale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Glossario 4.3 → "DM: Decreto Ministeriale"
+Spiegazione: DM sta per Decreto Ministeriale.
+</details>
+
+Domanda 123 🟢 Base
+Cosa significa la sigla "CdM"?
+A) Comando di Missione
+B) Centro di Mobilitazione
+C) Consiglio dei Ministri
+D) Comitato di Monitoraggio
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Glossario 4.3 → "CdM: Consiglio dei Ministri"
+Spiegazione: CdM sta per Consiglio dei Ministri.
+</details>
+
+Domanda 124 🟢 Base
+Cosa significa la sigla "PdR"?
+A) Prefetto della Repubblica
+B) Procuratore della Repubblica
+C) Presidente della Repubblica
+D) Parlamentare della Repubblica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Glossario 4.3 → "PdR: Presidente della Repubblica"
+Spiegazione: PdR sta per Presidente della Repubblica.
+</details>
+
+📚 SEZIONE 5 - INDICE ANALITICO RAPIDO
+Domanda 125 🟡 Media
+Quale articolo del COM disciplina le attività specializzate presso Amministrazioni dello Stato diverse da quelle di appartenenza?
+A) Art. 32 COM
+B) Art. 177 COM
+C) Art. 11 L. 78/2000
+D) Art. 165 COM
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Indice Analitico 5 (Per Articolo) → "Art. 11 L. 78/2000: Attività specializzate presso altre Amministrazioni"
+Spiegazione: L'Art. 11 della L. 78/2000 disciplina le attività specializzate presso altre Amministrazioni.
+</details>
+
+Domanda 126 🟡 Media
+Quanti sono i ruoli finanziari del Comandante Generale?
+A) 2
+B) 3
+C) 4
+D) 5
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Indice Analitico 5 (Per Cifra) → "3: Ruoli finanziari del Comandante Generale | Art. 166 COM"
+Spiegazione: Il Comandante Generale svolge 3 ruoli finanziari: Capo Ente Programmatore, Dir. Gen. CRA, Cte Mil. Territoriale.
+</details>
+
+Domanda 127 🟡 Media
+Cosa indica il termine "Sovraordinato"?
+A) Il Vice Cte Gen. rispetto agli altri Gen. C.A.
+B) Il Cte Gen. rispetto agli altri Gen. C.A. dell'Arma
+C) Il Capo di SMD rispetto al Cte Gen.
+D) Il Ministro rispetto al Cte Gen.
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Indice Analitico 5 (Per Concetto) → "Sovraordinato: Il Cte Gen. rispetto agli altri Gen. C.A. dell'Arma"
+Spiegazione: "Sovraordinato" descrive la posizione del Comandante Generale rispetto agli altri Generali di C.A.
+</details>
+
+Domanda 128 🟡 Media
+Cosa indica il termine "Gerarchicamente preminente"?
+A) Il Cte Gen. rispetto agli altri Gen. C.A.
+B) Il Vice Cte Gen. rispetto agli altri Gen. C.A. dell'Arma
+C) Il Capo di SMD rispetto al Cte Gen.
+D) Il Ministro rispetto ai Generali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Indice Analitico 5 (Per Concetto) → "Gerarchicamente preminente: Il Vice Cte Gen. rispetto agli altri Gen. C.A. dell'Arma"
+Spiegazione: "Gerarchicamente preminente" descrive la posizione del Vice Comandante Generale.
+</details>
+
+Domanda 129 🔴 Avanzata
+Come "Capo Ente Programmatore" il Comandante Generale:
+A) Amministra i capitoli di bilancio con poteri di spesa
+B) Propone allocazione stanziamenti al Capo SMD
+C) Controlla gli Enti Amministrativi tramite la Direzione di Amministrazione
+D) Determina le destinazioni degli Ufficiali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Indice Analitico 5 (Per Concetto) → "Capo Ente Programmatore: Ruolo del Cte Gen.: propone allocazione stanziamenti al Capo SMD"
+Spiegazione: Come Capo Ente Programmatore, il Cte Gen. propone l'allocazione degli stanziamenti al Capo di SMD.
+</details>
+
+Domanda 130 🔴 Avanzata
+Come "Direttore Generale Titolare CRA" il Comandante Generale:
+A) Propone allocazione stanziamenti al Capo SMD
+B) Controlla gli Enti Amministrativi
+C) Amministra capitoli bilancio con poteri di spesa
+D) Effettua ispezioni agli Alti Comandi
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Indice Analitico 5 (Per Concetto) → "Direttore Generale Titolare CRA: Ruolo del Cte Gen.: amministra capitoli bilancio con poteri di spesa"
+Spiegazione: Come Direttore Generale Titolare CRA, il Cte Gen. amministra i capitoli di bilancio esercitando i poteri di spesa.
+</details>
+
+Domanda 131 🔴 Avanzata
+Come "Comandante Militare Territoriale" il Comandante Generale esercita:
+A) Poteri di spesa sui capitoli di bilancio
+B) Controllo enti amministrativi su tutto il territorio nazionale
+C) Proposta allocazione stanziamenti
+D) Funzioni vicarie
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Indice Analitico 5 (Per Concetto) → "Comandante Militare Territoriale: Ruolo del Cte Gen.: controllo enti amministrativi su tutto il territorio nazionale"
+Spiegazione: Come Comandante Militare Territoriale, esercita controllo e indirizzo degli enti amministrativi sull'intero territorio nazionale.
+</details>
+
+📚 SEZIONE 6 - TRABOCCHETTI (Prima Parte: 1-13)
+Domanda 132 🟢 Base
+La durata del mandato del Comandante Generale è:
+A) 2 anni
+B) 4 anni
+C) 3 anni
+D) 5 anni
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 1 → "Risposta CORRETTA: 3 anni | Risposta ERRATA comune: 4 anni o 2 anni"
+Spiegazione: Il mandato dura 3 anni. Errore comune: confondere con 4 anni o 2 anni.
+</details>
+
+Domanda 133 🟢 Base
+La durata del mandato del Vice Comandante Generale è:
+A) 3 anni
+B) 2 anni
+C) 1 anno (massimo)
+D) 4 anni
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 2 → "Risposta CORRETTA: 1 anno (massimo) | Risposta ERRATA comune: 2 anni o 3 anni"
+Spiegazione: Il mandato del Vice dura massimo 1 anno. Errore comune: confondere con la durata del Cte Gen.
+</details>
+
+Domanda 134 🟡 Media
+La proroga massima del mandato del Comandante Generale è:
+A) 2 anni
+B) 6 mesi
+C) 1 anno
+D) 18 mesi
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 3 → "Risposta CORRETTA: 1 anno | Risposta ERRATA comune: 2 anni"
+Spiegazione: La proroga massima è di 1 anno. Errore comune: pensare che sia di 2 anni.
+</details>
+
+Domanda 135 🟡 Media
+Il Vice Comandante Generale può essere prorogato nel suo mandato?
+A) Sì, per un massimo di 1 anno
+B) Sì, per un massimo di 6 mesi
+C) No
+D) Sì, senza limiti di tempo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 4 → "Risposta CORRETTA: No | Risposta ERRATA comune: Sì"
+Spiegazione: Il Vice Comandante Generale NON può essere prorogato, a differenza del Comandante Generale.
+</details>
+
+Domanda 136 🟡 Media
+Chi propone la nomina del Comandante Generale?
+A) Il Ministro dell'Interno
+B) Il Capo di Stato Maggiore della Difesa
+C) Il Ministro della Difesa
+D) Il Presidente del Consiglio
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 5 → "Risposta CORRETTA: Ministro della Difesa | Risposta ERRATA comune: Ministro dell'Interno"
+Spiegazione: La proposta spetta al Ministro della Difesa. Errore comune: confondere con il Ministro dell'Interno.
+</details>
+
+Domanda 137 🟡 Media
+Nella procedura di nomina del Comandante Generale, chi è "sentito"?
+A) Il Ministro dell'Interno
+B) Il Vice Comandante Generale
+C) Il Capo di SMD
+D) Il Presidente della Repubblica
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 6 → "Risposta CORRETTA: Capo di SMD | Risposta ERRATA comune: Ministro dell'Interno"
+Spiegazione: È "sentito" il Capo di SMD. Errore comune: pensare sia il Ministro dell'Interno.
+</details>
+
+Domanda 138 🟡 Media
+Con quale atto è nominato il Comandante Generale?
+A) Decreto Ministeriale
+B) DPCM
+C) Decreto del Presidente della Repubblica
+D) Delibera del Consiglio dei Ministri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 7 → "Risposta CORRETTA: Decreto del PdR | Risposta ERRATA comune: DM o DPCM"
+Spiegazione: La nomina avviene con Decreto del PdR. Errore comune: confondere con DM o DPCM.
+</details>
+
+Domanda 139 🟢 Base
+Qual è il grado del Comandante Generale?
+A) Generale di Divisione
+B) Tenente Generale
+C) Generale di Corpo d'Armata
+D) Generale di Brigata
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 8 → "Risposta CORRETTA: Generale di Corpo d'Armata | Risposta ERRATA comune: Generale di Divisione"
+Spiegazione: Il grado è Generale di Corpo d'Armata. Errore comune: confondere con Generale di Divisione.
+</details>
+
+Domanda 140 🔴 Avanzata
+Il Comandante Generale è definito "..." rispetto agli altri Generali di Corpo d'Armata dell'Arma:
+A) Gerarchicamente preminente
+B) Equiparato
+C) Sovraordinato
+D) Coordinatore
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 9 → "Risposta CORRETTA: Sovraordinato | Risposta ERRATA comune: Gerarchicamente preminente"
+Spiegazione: Il termine corretto è "sovraordinato". "Gerarchicamente preminente" si usa per il Vice.
+</details>
+
+Domanda 141 🔴 Avanzata
+Il Vice Comandante Generale è definito "..." rispetto agli altri Generali di Corpo d'Armata dell'Arma:
+A) Sovraordinato
+B) Equiparato
+C) Gerarchicamente preminente
+D) Subordinato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 10 → "Risposta CORRETTA: Gerarchicamente preminente | Risposta ERRATA comune: Sovraordinato"
+Spiegazione: Il termine corretto per il Vice è "gerarchicamente preminente". "Sovraordinato" si usa per il Cte Gen.
+</details>
+
+Domanda 142 🟡 Media
+Come viene selezionato il Vice Comandante Generale?
+A) Su proposta libera del Ministro
+B) Per concorso
+C) Il più anziano in ruolo (con requisito 1 anno da limite età)
+D) Su designazione del Comandante Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 11 → "Risposta CORRETTA: Più anziano in ruolo (con requisito 1 anno da limite età) | Risposta ERRATA comune: Su proposta libera"
+Spiegazione: La selezione è automatica per anzianità. Errore comune: pensare sia una scelta libera.
+</details>
+
+Domanda 143 🔴 Avanzata
+Quale requisito di anzianità deve possedere il candidato a Vice Comandante Generale rispetto al limite di età?
+A) Almeno 2 anni
+B) Almeno 6 mesi
+C) Almeno 1 anno
+D) Almeno 3 anni
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 12 → "Risposta CORRETTA: Almeno 1 anno dal limite di età | Risposta ERRATA comune: Almeno 2 anni"
+Spiegazione: Il requisito è almeno 1 anno dal limite di età. Errore comune: pensare siano 2 anni.
+</details>
+
+Domanda 144 🟡 Media
+Il Ministro può escludere il Generale più anziano nella selezione del Vice Comandante Generale?
+A) No, mai
+B) Sì
+C) Solo con autorizzazione del PdR
+D) Solo in caso di procedimento disciplinare
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Trabocchetto 13 → "Risposta CORRETTA: Sì | Risposta ERRATA comune: No"
+Spiegazione: Il Ministro ha facoltà di escludere il più anziano e proporre il successivo in ordine di anzianità.
+</details>
+
+Domanda 145 🟡 Media
+Se il Ministro esclude il Generale più anziano per la carica di Vice Comandante Generale, chi può proporre?
+A) Qualsiasi Generale di Corpo d'Armata
+B) Colui che segue in ordine di anzianità
+C) Il Generale designato dal Comandante Generale
+D) Il Generale più giovane in ruolo
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 3.3 → "Il Ministro ha facoltà di escludere il Gen. C.A. più anziano e proporre la nomina di colui che segue in ordine di anzianità"
+Spiegazione: Il Ministro può solo proporre il successivo in ordine di anzianità, non scegliere liberamente.
+</details>
+
+Domanda 146 🔴 Avanzata
+Quale delle seguenti affermazioni sui "dati critici da memorizzare" per il Comandante Generale è ERRATA?
+A) Durata mandato: 3 anni
+B) Proroga massima: 1 anno
+C) Nomina: Decreto PdR
+D) Proposta: Ministro dell'Interno
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 2.2 (Dati critici) → "Proposta: Ministro della Difesa (non dell'Interno)"
+Spiegazione: La proposta spetta al Ministro della Difesa, non al Ministro dell'Interno.
+</details>
+
+❓ DOMANDE
+📚 SEZIONE 6 - TRABOCCHETTI (Seconda Parte: 14-25)
+Domanda 151 🟡 Media
+Chi presiede la Commissione Superiore di avanzamento degli Ufficiali CC?
+A) Il Vice Comandante Generale
+B) Il Capo di SMD
+C) Il Comandante Generale
+D) Il Ministro della Difesa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 14 → "Risposta CORRETTA: Comandante Generale | Risposta ERRATA comune: Vice Comandante Generale"
+Spiegazione: La Commissione Superiore è presieduta dal Comandante Generale. Errore comune: confondere con il Vice.
+</details>
+
+Domanda 152 🟡 Media
+Chi presiede la Commissione Ordinaria di avanzamento degli Ufficiali CC?
+A) Il Comandante Generale
+B) Il Capo di SMD
+C) Il Vice Comandante Generale
+D) Il Ministro della Difesa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 15 → "Risposta CORRETTA: Vice Comandante Generale | Risposta ERRATA comune: Comandante Generale"
+Spiegazione: La Commissione Ordinaria è presieduta dal Vice Comandante Generale.
+</details>
+
+Domanda 153 🔴 Avanzata
+Di quale Commissione di avanzamento il Comandante Generale è Vice Presidente?
+A) Commissione Ordinaria
+B) Commissione Superiore
+C) Commissione di Vertice
+D) Commissione Speciale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 16 → "Risposta CORRETTA: Commissione di Vertice | Risposta ERRATA comune: Commissione Ordinaria"
+Spiegazione: Il Comandante Generale è Vice Presidente della Commissione di Vertice (non dell'Ordinaria).
+</details>
+
+Domanda 154 🟡 Media
+Chi effettua ispezioni agli Alti Comandi dell'Arma su delega?
+A) Il Comandante Generale
+B) Il Capo di SMD
+C) Il Vice Comandante Generale
+D) Il Ministro della Difesa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 17 → "Risposta CORRETTA: Vice Comandante Generale | Risposta ERRATA comune: Comandante Generale"
+Spiegazione: Le ispezioni agli Alti Comandi sono effettuate dal Vice Comandante Generale su delega del Cte Gen.
+</details>
+
+Domanda 155 🔴 Avanzata
+Fino a quale livello il Comandante Generale istituisce comandi territoriali con assenso del Ministro della Difesa (di concerto con Min. Interno)?
+A) Fino a Legione
+B) Fino a Brigata
+C) Non superiore a comando provinciale
+D) Fino a comando regionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 18 → "Risposta CORRETTA: Non superiore a comando provinciale | Risposta ERRATA comune: Fino a Legione"
+Spiegazione: Il limite è il livello provinciale. Per livelli superiori serve anche il consenso del Capo di SMD.
+</details>
+
+Domanda 156 🔴 Avanzata
+Per l'istituzione di comandi superiori al provinciale, oltre all'assenso del Ministro della Difesa, cosa serve?
+A) Solo il concerto con il Ministro dell'Interno
+B) Il consenso del Capo di SMD
+C) L'autorizzazione del Parlamento
+D) Il parere del Consiglio di Stato
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Trabocchetto 19 → "Risposta CORRETTA: Consenso Capo di SMD | Risposta ERRATA comune: Solo assenso Min. Difesa"
+Spiegazione: Per comandi superiori al provinciale serve anche il consenso del Capo di SMD.
+</details>
+
+Domanda 157 🟡 Media
+Per l'istituzione di comandi di ordine e sicurezza pubblica, con chi deve essere il concerto?
+A) Il Ministro della Giustizia
+B) Il Ministro dell'Interno
+C) Il Ministro degli Affari Esteri
+D) Il Ministro dell'Economia
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Trabocchetto 20 → "Risposta CORRETTA: Ministro dell'Interno | Risposta ERRATA comune: Ministro della Giustizia"
+Spiegazione: Per comandi O.S.P. il concerto è con il Ministro dell'Interno.
+</details>
+
+Domanda 158 🟡 Media
+Quanti ruoli finanziari ha il Comandante Generale secondo l'Art. 166 COM?
+A) 2
+B) 3
+C) 4
+D) 5
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Trabocchetto 21 → "Risposta CORRETTA: 3 (Capo Ente Prog., Dir. Gen. CRA, Cte Mil. Terr.) | Risposta ERRATA comune: 2"
+Spiegazione: I ruoli finanziari sono 3, non 2.
+</details>
+
+Domanda 159 🔴 Avanzata
+Come Capo Ente Programmatore, a chi propone il Comandante Generale l'allocazione degli stanziamenti?
+A) Al Ministro della Difesa
+B) Al Capo di SMD
+C) Al Ministro dell'Economia
+D) Al Ragioniere Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Trabocchetto 22 → "Risposta CORRETTA: Al Capo di SMD | Risposta ERRATA comune: Al Ministro Difesa"
+Spiegazione: La proposta di allocazione è rivolta al Capo di SMD, non direttamente al Ministro della Difesa.
+</details>
+
+Domanda 160 🔴 Avanzata
+In campo internazionale, su delega di chi agisce il Comandante Generale?
+A) Del Ministro della Difesa
+B) Del Ministro dell'Interno
+C) Del Capo di SMD
+D) Del Ministro degli Esteri
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Trabocchetto 23 → "Risposta CORRETTA: Del Capo di SMD | Risposta ERRATA comune: Del Ministro Difesa"
+Spiegazione: La delega per le attività internazionali viene dal Capo di SMD.
+</details>
+
+Domanda 161 🟡 Media
+In campo internazionale, chi deve essere informato (salvo materie esclusivamente militari)?
+A) Il Ministro degli Esteri
+B) Il Ministro dell'Interno
+C) Il Capo di SMD
+D) Il Presidente del Consiglio
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Trabocchetto 24 → "Risposta CORRETTA: Ministro dell'Interno | Risposta ERRATA comune: Ministro Esteri"
+Spiegazione: Deve essere informato il Ministro dell'Interno, non il Ministro degli Esteri.
+</details>
+
+Domanda 162 🔴 Avanzata
+Per gli Ufficiali destinati a o provenienti da incarichi territoriali, cosa serve?
+A) Solo la determinazione del Comandante Generale
+B) Il nulla osta del Ministro dell'Interno
+C) L'autorizzazione del Capo di SMD
+D) Il parere del Ministro della Difesa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Trabocchetto 25 → "Risposta CORRETTA: Nulla osta Ministro Interno | Risposta ERRATA comune: Solo determinazione Cte Gen."
+Spiegazione: Per incarichi territoriali o di polizia serve il nulla osta del Ministro dell'Interno.
+</details>
+
+📚 DOMANDE INTEGRATIVE DI SINTESI
+Domanda 163 🟢 Base
+Quale dei seguenti elementi NON fa parte della definizione formale dell'Arma dei Carabinieri?
+A) Forza militare di polizia
+B) Carattere generale
+C) Dipendenza esclusiva dal Ministero dell'Interno
+D) Proiezione internazionale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 1.1 → La definizione include "Forza militare di polizia a carattere generale [...] con proiezione internazionale" ma NON menziona "dipendenza esclusiva" da alcun Ministero
+Spiegazione: L'Arma non dipende esclusivamente dal Ministero dell'Interno; ha dipendenze multiple (Min. Difesa, Min. Interno, Capo SMD).
+</details>
+
+Domanda 164 🟡 Media
+Quale delle seguenti combinazioni di articoli del COM è corretta per le attribuzioni del Comandante Generale?
+A) Art. 32: attribuzioni operative; Art. 33: attribuzioni finanziarie
+B) Art. 165: attribuzioni operative, addestrative, internazionali; Art. 166: attribuzioni finanziarie
+C) Art. 177: attribuzioni finanziarie; Art. 165: nomina e durata
+D) Art. 166: attribuzioni operative; Art. 165: attribuzioni finanziarie
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.4 (Tabella Macro-Categorie) → Art. 165: Operativo, Addestrativo, Tecnico-logistico, Impiego, Reclutamento, Internazionale; Art. 166: Finanziario e amministrativo
+Spiegazione: L'Art. 165 copre 5 categorie di attribuzioni, l'Art. 166 solo quella finanziaria/amministrativa.
+</details>
+
+Domanda 165 🔴 Avanzata
+Quale delle seguenti sequenze è corretta per le attività internazionali del Comandante Generale?
+A) Delega Min. Difesa → Indirizzi Capo SMD → Informativa Min. Interno
+B) Delega Capo SMD → Indirizzi Min. Difesa → Informativa Min. Interno
+C) Delega Min. Interno → Indirizzi Capo SMD → Informativa Min. Difesa
+D) Delega Capo SMD → Indirizzi Min. Interno → Informativa Min. Difesa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.12 → "Presupposto: Su delega del Capo di SMD" + "Conformità: In conformità agli indirizzi del Ministro della Difesa" + "Informativa: Previa informazione al Ministro dell'Interno"
+Spiegazione: La sequenza corretta è: delega da Capo SMD → indirizzi Min. Difesa → informativa Min. Interno.
+</details>
+
+Domanda 166 🟡 Media
+Quanti organi collegiali sono connessi alla dipendenza del Comandante Generale dal Ministro dell'Interno?
+A) 1
+B) 2
+C) 3
+D) 4
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.3 (Tabella) → Ministro Interno: C.N.O.S.P. + Consiglio Generale per la Lotta alla C.O. = 2 organi
+Spiegazione: Gli organi collegiali connessi al Min. Interno sono 2: C.N.O.S.P. e Consiglio Generale Lotta C.O.
+</details>
+
+Domanda 167 🟡 Media
+Quanti organi collegiali sono connessi alla dipendenza del Comandante Generale dal Capo di SMD?
+A) 1
+B) 2
+C) 3
+D) 4
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.3 (Tabella) → Capo di SMD: Consiglio Superiore delle Forze Armate + Comitato dei Capi di SM = 2 organi
+Spiegazione: Gli organi collegiali connessi al Capo di SMD sono 2: Consiglio Superiore FF.AA. e Comitato Capi di SM.
+</details>
+
+Domanda 168 🔴 Avanzata
+Quale delle seguenti affermazioni sulla procedura di nomina è comune sia al Comandante Generale che al Vice Comandante Generale?
+A) È "sentito" il Capo di SMD
+B) Il mandato dura 3 anni
+C) La nomina avviene con Decreto del Presidente della Repubblica, previa deliberazione CdM, su proposta Min. Difesa
+D) È possibile la proroga
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.2 e 3.2 → Entrambi: DPR + deliberazione CdM + proposta Min. Difesa. Solo per il Cte Gen. è previsto il "sentito Capo SMD"
+Spiegazione: La base della procedura è identica (DPR, CdM, proposta Min. Difesa); differiscono per il parere del Capo SMD.
+</details>
+
+Domanda 169 🟢 Base
+Quale delle seguenti caratteristiche distingue il Comandante Generale dal Vice Comandante Generale?
+A) Il grado (entrambi Gen. C.A.)
+B) L'atto di nomina (entrambi DPR)
+C) La possibilità di proroga (solo il Cte Gen.)
+D) La proposta del Ministro della Difesa (per entrambi)
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3 (Tabella Differenze) → "Proroga: COMANDANTE GENERALE - Sì, max 1 anno | VICE COMANDANTE GENERALE - No"
+Spiegazione: Solo il Comandante Generale può essere prorogato (max 1 anno); il Vice no.
+</details>
+
+Domanda 170 🟡 Media
+Quale delle seguenti finalità NON è tra quelle delle misure tecnico-logistiche?
+A) Efficienza
+B) Economicità
+C) Rapidità di carriera del personale
+D) Rispondenza al pubblico interesse
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.8 (Finalità) → "efficienza, economicità, speditezza e rispondenza al pubblico interesse"
+Spiegazione: Le quattro finalità sono efficienza, economicità, speditezza e rispondenza al pubblico interesse. "Rapidità di carriera" non è menzionata.
+</details>
+
+Domanda 171 🔴 Avanzata
+Quale delle seguenti attribuzioni del Comandante Generale richiede il "nulla osta" del Ministro dell'Interno?
+A) La nomina dei componenti delle Commissioni di avanzamento
+B) Le destinazioni degli Ufficiali da/a incarichi territoriali o di polizia
+C) L'istituzione di stazioni temporanee
+D) L'approvazione delle pubblicazioni dell'Arma
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.9 → "Nulla osta Ministro Interno: Previo nulla osta per quelli destinati o provenienti da incarichi territoriali o di polizia"
+Spiegazione: Il nulla osta del Min. Interno è richiesto per le destinazioni di Ufficiali a/da incarichi territoriali o di polizia.
+</details>
+
+Domanda 172 🟡 Media
+Quale articolo del COM disciplina le procedure di istituzione/soppressione reparti?
+A) Art. 32 COM
+B) Art. 165 COM
+C) Art. 166 COM
+D) Art. 177 COM
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: D
+Fonte KB: Sezione 2.6 → "PROCEDURA CRITICA - Art. 177 COM"
+Spiegazione: L'Art. 177 COM disciplina le procedure di istituzione e soppressione dei reparti.
+</details>
+
+Domanda 173 🟢 Base
+La KB Parte 3 completa le Parti 1 e 2 con quali argomenti principali?
+A) Compiti militari e Polizia Militare
+B) Figure di Vertice e loro attribuzioni
+C) Dipendenze istituzionali e aspetti finanziari
+D) Sistema Difesa e proiezione estero
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione "Collegamenti con Parti 1 e 2" → "Questa KB completa le Parti 1 e 2 con: Figure di Vertice: Comandante Generale e Vice Comandante Generale [...] Attribuzioni dettagliate: 6 categorie di attribuzioni del Comandante Generale"
+Spiegazione: La Parte 3 si concentra sulle Figure di Vertice (Cte Gen. e Vice Cte Gen.) e le loro attribuzioni.
+</details>
+
+Domanda 174 🔴 Avanzata
+Quale delle seguenti procedure per l'istituzione di comandi è CORRETTA?
+A) Comandi fino a livello provinciale: assenso Min. Difesa + consenso Capo SMD
+B) Comandi superiori al provinciale: solo assenso Min. Difesa di concerto con Min. Interno
+C) Comandi fino a livello provinciale: assenso Min. Difesa di concerto con Min. Interno
+D) Comandi superiori al provinciale: solo consenso Capo SMD
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.6 (Comma 1) → "Assenso richiesto: Del Ministro della Difesa" + "Concerto: Che si pronuncia di concerto con il Ministro dell'Interno" + "Livello massimo: non superiore a comando provinciale"
+Spiegazione: Per comandi fino a provinciale: assenso Min. Difesa di concerto con Min. Interno. Per superiori serve anche consenso Capo SMD.
+</details>
+
+Domanda 175 🟡 Media
+Il Comandante Generale, come organo centrale di sicurezza dell'Arma, esercita quale tipo di attribuzioni?
+A) Finanziarie
+B) Addestrative
+C) Operative
+D) Internazionali
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 2.5 (Tabella Campo Operativo) → "Organo centrale di sicurezza: Dell'Arma dei Carabinieri"
+Spiegazione: Il ruolo di "organo centrale di sicurezza" rientra tra le attribuzioni operative (Art. 165 COM).
+</details>
+
+Domanda 176 🔴 Avanzata
+Quale delle seguenti affermazioni sull'Art. 11 L. 78/2000 è CORRETTA?
+A) Riguarda le procedure di avanzamento degli Ufficiali
+B) Disciplina l'istituzione di comandi per attività specializzate presso altre Amministrazioni, disposta dal Ministro competente gerarchicamente su proposta del Ministro interessato
+C) Stabilisce la durata del mandato del Comandante Generale
+D) Disciplina le attribuzioni finanziarie del Comandante Generale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 2.6 (Nota Art. 11) → "l'istituzione [...] di comandi [...] destinati allo svolgimento di attività specializzate presso Amministrazioni dello Stato diverse da quelle di appartenenza, sono disposte, su proposta del Ministro interessato, dal Ministro competente gerarchicamente"
+Spiegazione: L'Art. 11 L. 78/2000 disciplina l'istituzione di comandi per attività specializzate presso altre Amministrazioni.
+</details>
+
+Domanda 177 🟡 Media
+Quanti dati numerici specifici sono estratti nella KB Parte 3?
+A) 5
+B) 6
+C) 7
+D) 8
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Metadati KB Parte 3 → "Dati numerici estratti: 7"
+Spiegazione: I dati numerici estratti sono 7 (3 anni mandato Cte, 1 anno proroga, 1 anno mandato Vice, 1 anno requisito, 3 ruoli finanziari, 4 organi collegiali, 6 macro-categorie).
+</details>
+
+Domanda 178 🔴 Avanzata
+Quale delle seguenti affermazioni sulla definizione dell'Arma è ERRATA?
+A) È una forza militare di polizia
+B) Ha carattere speciale
+C) È in servizio permanente di pubblica sicurezza
+D) Ha vocazione territoriale
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: B
+Fonte KB: Sezione 1.1 → "Forza militare di polizia a carattere generale" (non speciale)
+Spiegazione: L'Arma ha "carattere generale" (competenza non limitata a settori specifici), non "carattere speciale".
+</details>
+
+Domanda 179 🟡 Media
+Quale funzione del Vice Comandante Generale riguarda le Commissioni di avanzamento?
+A) È Vice Presidente della Commissione Ordinaria
+B) Presiede la Commissione Superiore
+C) Presiede la Commissione Ordinaria
+D) È Vice Presidente della Commissione di Vertice
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3.4 (Tabella) → "Presiede: La Commissione Ordinaria di avanzamento degli Ufficiali dei Carabinieri"
+Spiegazione: Il Vice Comandante Generale presiede la Commissione Ordinaria di avanzamento.
+</details>
+
+Domanda 180 🔴 Avanzata
+Quale delle seguenti affermazioni rappresenta una differenza tra le procedure di nomina di Cte Gen. e Vice Cte Gen.?
+A) Solo il Vice Cte Gen. è nominato con DPR
+B) Solo per il Cte Gen. è prevista la deliberazione del CdM
+C) Solo per il Cte Gen. è previsto il "sentito il Capo di SMD"
+D) Solo per il Vice Cte Gen. la proposta è del Ministro della Difesa
+<details>
+<summary>✅ Risposta e spiegazione</summary>
+Risposta corretta: C
+Fonte KB: Sezione 3 (Tabella Differenze) → "'Sentito' nella nomina: COMANDANTE GENERALE - Capo di SMD | VICE COMANDANTE GENERALE - Non previsto"
+Spiegazione: Il "sentito il Capo di SMD" è previsto solo per il Comandante Generale, non per il Vice.
+</details>
