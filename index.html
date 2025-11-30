@@ -15,7 +15,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
-    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+
     <style>
         :root {
             --bg-primary: #0a0f1a;
@@ -1093,7 +1094,28 @@
                 <div id="difficulty-stats"></div>
             </div>
 
+            <!-- Advanced Charts -->
+            <div id="advanced-charts" style="display: none;">
+                <div class="results-card" style="margin-bottom: 1rem;">
+                    <h3 class="modal-title" style="margin-bottom: 1rem;">📈 Storico Prestazioni</h3>
+                    <canvas id="sessions-chart" style="max-height: 250px;"></canvas>
+                </div>
+
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-bottom: 1rem;">
+                    <div class="results-card">
+                        <h3 class="modal-title" style="margin-bottom: 1rem;">📊 Distribuzione Errori</h3>
+                        <canvas id="errors-chart" style="max-height: 200px;"></canvas>
+                    </div>
+
+                    <div class="results-card">
+                        <h3 class="modal-title" style="margin-bottom: 1rem;">🎯 Progresso Complessivo</h3>
+                        <canvas id="progress-chart" style="max-height: 200px;"></canvas>
+                    </div>
+                </div>
+            </div>
+
             <div class="results-actions">
+                <button class="btn btn-secondary" id="toggle-charts-btn" style="display: none;">📈 Mostra Grafici Avanzati</button>
                 <button class="btn btn-secondary" id="btn-stats-back">← Torna al Menu</button>
             </div>
         </div>
@@ -1180,7 +1202,8 @@
             difficultyFilter: 'all',
             errors: {},
             userAnswers: [],
-            bookmarks: new Set()  // Set of "bankId:questionNumber" strings
+            bookmarks: new Set(),  // Set of "bankId:questionNumber" strings
+            sessions: []  // Array of {date, bankId, bankName, mode, correct, wrong, total, percentage}
         };
 
         // ============================================
@@ -1410,7 +1433,165 @@
             }
             document.getElementById('difficulty-stats').innerHTML = difficultyHtml || '<p style="color: var(--text-muted);">Nessuna statistica disponibile</p>';
 
+            // Show/hide advanced charts button
+            const toggleChartsBtn = document.getElementById('toggle-charts-btn');
+            if (state.sessions.length > 0) {
+                toggleChartsBtn.style.display = 'inline-flex';
+            } else {
+                toggleChartsBtn.style.display = 'none';
+            }
+
+            // Reset charts view
+            document.getElementById('advanced-charts').style.display = 'none';
+            toggleChartsBtn.textContent = '📈 Mostra Grafici Avanzati';
+            destroyCharts();
+
             showScreen('stats-screen');
+        }
+
+        let charts = {
+            sessions: null,
+            errors: null,
+            progress: null
+        };
+
+        function destroyCharts() {
+            Object.values(charts).forEach(chart => chart?.destroy());
+            charts = { sessions: null, errors: null, progress: null };
+        }
+
+        function toggleAdvancedCharts() {
+            const chartsContainer = document.getElementById('advanced-charts');
+            const toggleBtn = document.getElementById('toggle-charts-btn');
+
+            if (chartsContainer.style.display === 'none') {
+                chartsContainer.style.display = 'block';
+                toggleBtn.textContent = '📉 Nascondi Grafici';
+                renderAdvancedCharts();
+            } else {
+                chartsContainer.style.display = 'none';
+                toggleBtn.textContent = '📈 Mostra Grafici Avanzati';
+                destroyCharts();
+            }
+        }
+
+        function renderAdvancedCharts() {
+            const isDark = !document.documentElement.classList.contains('light-theme');
+            const textColor = isDark ? '#94a3b8' : '#475569';
+            const gridColor = isDark ? 'rgba(255, 255, 255, 0.08)' : 'rgba(0, 0, 0, 0.1)';
+            const goldColor = isDark ? '#d4a853' : '#b8860b';
+            const successColor = isDark ? '#22c55e' : '#16a34a';
+            const errorColor = isDark ? '#ef4444' : '#dc2626';
+
+            Chart.defaults.color = textColor;
+            Chart.defaults.borderColor = gridColor;
+
+            // Sessions history chart (last 10 sessions)
+            const recentSessions = state.sessions.slice(-10);
+            if (recentSessions.length > 0) {
+                const ctx1 = document.getElementById('sessions-chart').getContext('2d');
+                charts.sessions = new Chart(ctx1, {
+                    type: 'line',
+                    data: {
+                        labels: recentSessions.map((s, i) => `#${i + 1}`),
+                        datasets: [{
+                            label: 'Punteggio %',
+                            data: recentSessions.map(s => s.percentage),
+                            borderColor: goldColor,
+                            backgroundColor: isDark ? 'rgba(212, 168, 83, 0.1)' : 'rgba(184, 134, 11, 0.1)',
+                            tension: 0.3,
+                            fill: true
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: { display: false },
+                            tooltip: {
+                                callbacks: {
+                                    title: (items) => {
+                                        const session = recentSessions[items[0].dataIndex];
+                                        return session.bankName;
+                                    },
+                                    label: (item) => {
+                                        const session = recentSessions[item.dataIndex];
+                                        return [
+                                            `Punteggio: ${session.percentage}%`,
+                                            `Corrette: ${session.correct}/${session.total}`,
+                                            `Modalità: ${session.mode}`
+                                        ];
+                                    }
+                                }
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                max: 100,
+                                ticks: { callback: (value) => value + '%' }
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Errors distribution by category
+            const stats = calculateStats();
+            const categories = Object.keys(stats.byCategory);
+            const errorsData = categories.map(cat => stats.byCategory[cat].errors);
+
+            if (errorsData.some(e => e > 0)) {
+                const ctx2 = document.getElementById('errors-chart').getContext('2d');
+                charts.errors = new Chart(ctx2, {
+                    type: 'bar',
+                    data: {
+                        labels: categories,
+                        datasets: [{
+                            label: 'Errori',
+                            data: errorsData,
+                            backgroundColor: errorColor,
+                            borderRadius: 6
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: { display: false }
+                        },
+                        scales: {
+                            y: { beginAtZero: true }
+                        }
+                    }
+                });
+            }
+
+            // Overall progress (doughnut chart)
+            const totalQuestions = stats.totalQuestions;
+            const mastered = totalQuestions - stats.totalErrors;
+            const ctx3 = document.getElementById('progress-chart').getContext('2d');
+            charts.progress = new Chart(ctx3, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Padroneggiati', 'Da Rivedere'],
+                    datasets: [{
+                        data: [mastered, stats.totalErrors],
+                        backgroundColor: [successColor, errorColor],
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: { padding: 10 }
+                        }
+                    }
+                }
+            });
         }
 
         // ============================================
@@ -1526,6 +1707,42 @@
                     state.errors = Object.fromEntries(Object.entries(parsed).map(([k, v]) => [k, new Set(v)]));
                 }
             } catch (e) {}
+        }
+
+        function saveSessions() {
+            try {
+                // Keep only last 50 sessions
+                const sessions = state.sessions.slice(-50);
+                localStorage.setItem('quizTrainer_sessions', JSON.stringify(sessions));
+            } catch (e) {
+                console.error('Error saving sessions:', e);
+            }
+        }
+
+        function loadSessions() {
+            try {
+                const sessions = localStorage.getItem('quizTrainer_sessions');
+                if (sessions) {
+                    state.sessions = JSON.parse(sessions);
+                }
+            } catch (e) {
+                console.error('Error loading sessions:', e);
+            }
+        }
+
+        function recordSession(correct, wrong, total) {
+            const session = {
+                date: new Date().toISOString(),
+                bankId: state.currentBank.id,
+                bankName: state.currentBank.name,
+                mode: state.mode,
+                correct,
+                wrong,
+                total,
+                percentage: Math.round((correct / total) * 100)
+            };
+            state.sessions.push(session);
+            saveSessions();
         }
 
         // ============================================
@@ -1753,6 +1970,9 @@
             const wrong = state.wrongCount;
             const percent = Math.round((correct / total) * 100);
 
+            // Record session
+            recordSession(correct, wrong, total);
+
             let icon, title, subtitle, iconClass;
             if (percent >= 80) {
                 icon = '🏆'; title = 'Eccellente!'; subtitle = 'Ottima padronanza'; iconClass = 'excellent';
@@ -1850,13 +2070,16 @@
             initTheme();
             loadErrors();
             loadBookmarks();
+            loadSessions();
             initializeBanks();
 
             // Stats button
             document.getElementById('stats-btn').addEventListener('click', renderStats);
             document.getElementById('btn-stats-back').addEventListener('click', () => {
                 showScreen('selection-screen');
+                destroyCharts();
             });
+            document.getElementById('toggle-charts-btn').addEventListener('click', toggleAdvancedCharts);
 
             // Theme toggle
             document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
